@@ -1142,6 +1142,7 @@
 
 ## others 
 
+- [mt190502/stars](https://github.com/mt190502/stars) - 
 - [mt190502/helm-charts](https://github.com/mt190502/helm-charts) - 
 - [te-online/timemanager](https://github.com/te-online/timemanager) - TimeManager App within Nextcloud to manage time tracking.
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators.
