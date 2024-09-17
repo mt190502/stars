@@ -1142,6 +1142,7 @@
 
 ## others 
 
+- [sonictk/asm_tutorial](https://github.com/sonictk/asm_tutorial) - Code samples for the Understanding Windows x64 Assembly tutorial.
 - [mt190502/stars](https://github.com/mt190502/stars) - 
 - [mt190502/helm-charts](https://github.com/mt190502/helm-charts) - 
 - [te-online/timemanager](https://github.com/te-online/timemanager) - TimeManager App within Nextcloud to manage time tracking.
