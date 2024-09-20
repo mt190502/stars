@@ -372,7 +372,7 @@
 - [maytinhdibo/battery-friendly-pocketmode](https://github.com/maytinhdibo/battery-friendly-pocketmode) - Support me
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [klausw/hackerskeyboard](https://github.com/klausw/hackerskeyboard) - Hacker's Keyboard (official)
-- [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Advanced keyboard and mouse input mapping tool
+- [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Keyboard and mouse input mapper
 - [proninyaroslav/libretorrent](https://github.com/proninyaroslav/libretorrent) - Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent
 - [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [syncthing/syncthing-android](https://github.com/syncthing/syncthing-android) - Wrapper of syncthing for Android.
