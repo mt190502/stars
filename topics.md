@@ -637,6 +637,7 @@
 
 ## git 
 
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [jelmer/xandikos](https://github.com/jelmer/xandikos) - A CalDAV/CardDAV server backed by Git
