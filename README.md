@@ -502,7 +502,7 @@
 
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
-- [Stardust-kyun/dotfiles](https://github.com/Stardust-kyun/dotfiles) - Calla Desktop Environment
+- [Stardust-kyun/calla](https://github.com/Stardust-kyun/calla) - Calla Desktop Environment
 - [nikneym/picodns](https://github.com/nikneym/picodns) - Caching and non-blocking DNS resolver for Lua
 - [eminboydak/.dotfiles](https://github.com/eminboydak/.dotfiles) - My dotfiles
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
