@@ -312,7 +312,6 @@
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [diskfs/go-diskfs](https://github.com/diskfs/go-diskfs) - 
 - [bicomsystems/go-libzfs](https://github.com/bicomsystems/go-libzfs) - go language link to libzfs C library
 - [containerd/btrfs](https://github.com/containerd/btrfs) - Btrfs bindings for Go
@@ -856,6 +855,7 @@
 - [DexLegion/isRug.API](https://github.com/DexLegion/isRug.API) - isRug is a honeypot checker tool that detects scams and rugpulls in ERC-20 smart contracts across multiple chains.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [cweijan/vscode-database-client](https://github.com/cweijan/vscode-database-client) - Database Client For Visual Studio Code
 - [xeome/notes.xeome.dev](https://github.com/xeome/notes.xeome.dev) - Personal documentation site, based on quartz
