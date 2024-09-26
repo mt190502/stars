@@ -529,6 +529,7 @@
 
 ## dotfiles 
 
+- [kkebo/dotfiles](https://github.com/kkebo/dotfiles) - 
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - i hate minimalism so...
 - [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
 - [Stardust-kyun/calla](https://github.com/Stardust-kyun/calla) - Calla Desktop Environment
@@ -802,6 +803,7 @@
 
 ## ios 
 
+- [kkebo/DNSecure](https://github.com/kkebo/DNSecure) - DNSecure is a configuration tool of DoT and DoH for iOS and iPadOS.
 - [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile) - An (almost) fully fledged mobile paperless client.
 - [zulip/zulip-mobile](https://github.com/zulip/zulip-mobile) - Zulip mobile apps for Android and iOS.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -902,6 +904,7 @@
 
 ## linux 
 
+- [kkebo/dotfiles](https://github.com/kkebo/dotfiles) - 
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [chlebik/rhcsa-practice-questions](https://github.com/chlebik/rhcsa-practice-questions) - RHCSA practice questions for version 7/8
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
@@ -998,6 +1001,7 @@
 
 ## macos 
 
+- [kkebo/dotfiles](https://github.com/kkebo/dotfiles) - 
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
@@ -1757,6 +1761,7 @@
 
 ## swift 
 
+- [kkebo/DNSecure](https://github.com/kkebo/DNSecure) - DNSecure is a configuration tool of DoT and DoH for iOS and iPadOS.
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 
 ## swiftui 
@@ -1830,6 +1835,7 @@
 
 ## vim 
 
+- [kkebo/dotfiles](https://github.com/kkebo/dotfiles) - 
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [Elagoht/3-saatte-vim-ogrenin](https://github.com/Elagoht/3-saatte-vim-ogrenin) - Türkçe Vim Öğrenim Konu Anlatım ve Çalışma İçeriği
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
