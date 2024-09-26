@@ -472,6 +472,7 @@
 
 ## Jupyter Notebook 
 
+- [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA.
 - [atilsamancioglu/TurkcellPython](https://github.com/atilsamancioglu/TurkcellPython) - 
 
 ## Just 
