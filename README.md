@@ -839,6 +839,7 @@
 
 ## Swift 
 
+- [kkebo/DNSecure](https://github.com/kkebo/DNSecure) - DNSecure is a configuration tool of DoT and DoH for iOS and iPadOS.
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 - [KDE/kdeconnect-ios](https://github.com/KDE/kdeconnect-ios) - Native iOS port of KDE Connect
 
@@ -909,6 +910,7 @@
 
 ## Vim Script 
 
+- [kkebo/dotfiles](https://github.com/kkebo/dotfiles) - 
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
 - [bdesham/biogoo](https://github.com/bdesham/biogoo) - A color scheme for Vim with colorful text on a light gray background.
