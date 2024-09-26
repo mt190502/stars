@@ -993,6 +993,7 @@
 
 ## machine-learning 
 
+- [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA.
 - [muratali016/Minecraft_AI_assistant](https://github.com/muratali016/Minecraft_AI_assistant) - AI based assitant for minecarft
 
 ## macos 
