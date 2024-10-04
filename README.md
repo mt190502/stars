@@ -120,7 +120,6 @@
 - [flatpak/xdg-desktop-portal-gtk](https://github.com/flatpak/xdg-desktop-portal-gtk) - Gtk implementation of xdg-desktop-portal
 - [mjakeman/extension-manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions.
 - [tuxedocomputers/tuxedo-keyboard](https://github.com/tuxedocomputers/tuxedo-keyboard) - This repository will no longer get any updates as the code here is now part of tuxedo-drivers https://gitlab.com/tuxedocomputers/development/packages/tuxedo-drivers.
-- [rpm-software-management/rpm](https://github.com/rpm-software-management/rpm) - The RPM package manager
 - [Paragon-Software-Group/linux-ntfs3](https://github.com/Paragon-Software-Group/linux-ntfs3) - Linux kernel source tree
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
@@ -220,6 +219,7 @@
 - [supertuxkart/stk-code](https://github.com/supertuxkart/stk-code) - The code base of supertuxkart
 - [nwg-piotr/nwg-launchers](https://github.com/nwg-piotr/nwg-launchers) - GTK-based launchers: application grid, button bar, dmenu for sway and other window managers
 - [USBToolBox/kext](https://github.com/USBToolBox/kext) - Kext
+- [rpm-software-management/rpm](https://github.com/rpm-software-management/rpm) - The RPM package manager
 - [hasherezade/exe_to_dll](https://github.com/hasherezade/exe_to_dll) - Converts a EXE into DLL
 - [Stremio/stremio-shell](https://github.com/Stremio/stremio-shell) - 🐚 Qt5-based shell for Stremio; compile this to run the desktop app
 - [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
