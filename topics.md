@@ -315,6 +315,7 @@
 
 ## c 
 
+- [raifpy/Notes.c](https://github.com/raifpy/Notes.c) - My C assignment grades. Free to contribute
 - [friendlyanon/cmake-init](https://github.com/friendlyanon/cmake-init) - The missing CMake project initializer
 - [yaml/libyaml](https://github.com/yaml/libyaml) - Canonical source repository for LibYAML
 - [greenbone/openvas-smb](https://github.com/greenbone/openvas-smb) - SMB module for OpenVAS Scanner
