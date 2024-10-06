@@ -540,7 +540,7 @@
 - [Deathemonic/SweetDots](https://github.com/Deathemonic/SweetDots) - 🍚 Dotfiles themed with SweetPastel 🎨
 - [eminboydak/.dotfiles](https://github.com/eminboydak/.dotfiles) - My dotfiles
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
-- [rxyhn/tokyo](https://github.com/rxyhn/tokyo) - BSPWM - Aesthetic Dotfiles 🍚
+- [raetera/tokyo](https://github.com/raetera/tokyo) - BSPWM - Aesthetic Dotfiles 🍚
 - [orhun/dotfiles](https://github.com/orhun/dotfiles) - Orhun's Arch Linux configuration files and scripts 🏠
 
 ## dotnet 
@@ -974,7 +974,7 @@
 - [waycrate/swhkd](https://github.com/waycrate/swhkd) - Sxhkd clone for Wayland (works on TTY and X11 too)
 - [Fred78290/nct6687d](https://github.com/Fred78290/nct6687d) - Linux kernel module for Nuvoton NCT6687-R
 - [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) - Issue tracking for the Steam for Linux beta client
-- [rxyhn/tokyo](https://github.com/rxyhn/tokyo) - BSPWM - Aesthetic Dotfiles 🍚
+- [raetera/tokyo](https://github.com/raetera/tokyo) - BSPWM - Aesthetic Dotfiles 🍚
 - [BiteDasher/kesboot](https://github.com/BiteDasher/kesboot) - Script for automating work with EFI Kernel Stub (linux)
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
