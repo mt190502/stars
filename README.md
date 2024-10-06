@@ -817,7 +817,7 @@
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [opengapps/opengapps](https://github.com/opengapps/opengapps) - The main repository of the Open GApps Project
-- [rxyhn/tokyo](https://github.com/rxyhn/tokyo) - BSPWM - Aesthetic Dotfiles 🍚
+- [raetera/tokyo](https://github.com/raetera/tokyo) - BSPWM - Aesthetic Dotfiles 🍚
 - [BiteDasher/kesboot](https://github.com/BiteDasher/kesboot) - Script for automating work with EFI Kernel Stub (linux)
 - [orhun/dotfiles](https://github.com/orhun/dotfiles) - Orhun's Arch Linux configuration files and scripts 🏠
 - [dzove855/Bash-web-server](https://github.com/dzove855/Bash-web-server) - A purely bash web server, no socat, netcat, etc...
