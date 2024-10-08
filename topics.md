@@ -1177,6 +1177,7 @@
 
 ## others 
 
+- [JetBrains/colorSchemeTool](https://github.com/JetBrains/colorSchemeTool) - 
 - [marcan/takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
 - [swiftlang/swift-java](https://github.com/swiftlang/swift-java) - 
 - [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp) - Iconic media player
