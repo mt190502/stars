@@ -611,6 +611,7 @@
 
 ## Python 
 
+- [JetBrains/colorSchemeTool](https://github.com/JetBrains/colorSchemeTool) - 
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [jelmer/xandikos](https://github.com/jelmer/xandikos) - A CalDAV/CardDAV server backed by Git
 - [mathialo/bython](https://github.com/mathialo/bython) - Python with braces. Because python is awesome, but whitespace is awful.
