@@ -79,7 +79,6 @@
 
 ## C 
 
-- [swiftlang/swift-java](https://github.com/swiftlang/swift-java) - 
 - [sonictk/asm_tutorial](https://github.com/sonictk/asm_tutorial) - Code samples for the Understanding Windows x64 Assembly tutorial.
 - [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux
 - [yaml/libyaml](https://github.com/yaml/libyaml) - Canonical source repository for LibYAML
@@ -295,6 +294,7 @@
 
 ## Go 
 
+- [heacat/heacat-api](https://github.com/heacat/heacat-api) - HeaCat Backend API
 - [minio/mc](https://github.com/minio/mc) - Simple | Fast tool to manage MinIO clusters :cloud:
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
@@ -848,6 +848,7 @@
 
 ## Swift 
 
+- [swiftlang/swift-java](https://github.com/swiftlang/swift-java) - 
 - [kkebo/DNSecure](https://github.com/kkebo/DNSecure) - DNSecure is a configuration tool of DoT and DoH for iOS and iPadOS.
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 - [KDE/kdeconnect-ios](https://github.com/KDE/kdeconnect-ios) - Native iOS port of KDE Connect
