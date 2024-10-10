@@ -79,6 +79,7 @@
 
 ## C 
 
+- [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [sonictk/asm_tutorial](https://github.com/sonictk/asm_tutorial) - Code samples for the Understanding Windows x64 Assembly tutorial.
 - [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux
 - [yaml/libyaml](https://github.com/yaml/libyaml) - Canonical source repository for LibYAML
