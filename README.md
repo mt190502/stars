@@ -723,7 +723,7 @@
 
 ## Rust 
 
-- [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [Gitoxide-Labs/gitoxide](https://github.com/Gitoxide-Labs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
