@@ -770,6 +770,7 @@
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
