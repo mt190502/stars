@@ -1183,7 +1183,6 @@
 - [JetBrains/colorSchemeTool](https://github.com/JetBrains/colorSchemeTool) - 
 - [marcan/takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
 - [swiftlang/swift-java](https://github.com/swiftlang/swift-java) - 
-- [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp) - Iconic media player
 - [shikaan/x86-64-asm-intro](https://github.com/shikaan/x86-64-asm-intro) - Learning x86-64 assembly
 - [sonictk/asm_tutorial](https://github.com/sonictk/asm_tutorial) - Code samples for the Understanding Windows x64 Assembly tutorial.
 - [mt190502/stars](https://github.com/mt190502/stars) - 
