@@ -295,7 +295,7 @@
 ## Go 
 
 - [heacat/heacat-api](https://github.com/heacat/heacat-api) - HeaCat Backend API
-- [minio/mc](https://github.com/minio/mc) - Simple | Fast tool to manage MinIO clusters :cloud:
+- [minio/mc](https://github.com/minio/mc) - Unix like tools for MinIO Object Store.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
