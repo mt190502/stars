@@ -294,6 +294,7 @@
 
 ## Go 
 
+- [coder/websocket](https://github.com/coder/websocket) - Minimal and idiomatic WebSocket library for Go
 - [heacat/heacat-api](https://github.com/heacat/heacat-api) - HeaCat Backend API
 - [minio/mc](https://github.com/minio/mc) - Unix like utilities for object store
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
