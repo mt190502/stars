@@ -1190,6 +1190,7 @@
 
 ## others 
 
+- [mt190502/c-socket-programming](https://github.com/mt190502/c-socket-programming) - Basic Projects for learning Socket Programming in C
 - [mt190502/pomobar](https://github.com/mt190502/pomobar) - 
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
