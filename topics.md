@@ -926,6 +926,7 @@
 
 ## linux 
 
+- [0xzer0x/quran-companion](https://github.com/0xzer0x/quran-companion) - Free and open-source desktop Quran reader and player 💻
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [kkebo/dotfiles](https://github.com/kkebo/dotfiles) - 
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
@@ -1659,6 +1660,7 @@
 
 ## qt 
 
+- [0xzer0x/quran-companion](https://github.com/0xzer0x/quran-companion) - Free and open-source desktop Quran reader and player 💻
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [FedoraQt/QGnomePlatform](https://github.com/FedoraQt/QGnomePlatform) - QPlatformTheme for a better Qt application inclusion in GNOME
 - [gentoo/qt](https://github.com/gentoo/qt) - [MIRROR] Qt Team's testing overlay
@@ -1913,6 +1915,7 @@
 
 ## windows 
 
+- [0xzer0x/quran-companion](https://github.com/0xzer0x/quran-companion) - Free and open-source desktop Quran reader and player 💻
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
