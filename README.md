@@ -80,6 +80,7 @@
 
 ## C 
 
+- [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 - [mt190502/c-socket-programming](https://github.com/mt190502/c-socket-programming) - Basic Projects for learning Socket Programming in C
 - [mt190502/pomobar](https://github.com/mt190502/pomobar) - A waybar compatible pomodoro timer
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
