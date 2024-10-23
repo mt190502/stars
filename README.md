@@ -416,7 +416,7 @@
 - [mt190502/rss-finder-firefox](https://github.com/mt190502/rss-finder-firefox) - Lists RSS and Atom feeds available on the current web page
 - [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
 - [MarcelRobitaille/nextcloud_google_synchronization](https://github.com/MarcelRobitaille/nextcloud_google_synchronization) - 🇬 Google integration into Nextcloud
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [zulip/zulip-mobile](https://github.com/zulip/zulip-mobile) - Zulip mobile apps for Android and iOS.
 - [sapics/ip-location-db](https://github.com/sapics/ip-location-db) - ip to location database by ASN, GeoFeed, Whois, iptoasn.com, db-ip lite, GeoLite2
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
