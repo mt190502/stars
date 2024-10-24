@@ -403,7 +403,7 @@
 - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [julelang/jule](https://github.com/julelang/jule) - Effective programming language to build efficient, fast, reliable and safe software while maintaining simplicity
 - [Headline/discord-compiler-bot](https://github.com/Headline/discord-compiler-bot) - A discord bot that compiles your spaghetti
 
