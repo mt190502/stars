@@ -495,6 +495,7 @@
 
 ## Kotlin 
 
+- [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - IdeaVim – A Vim engine for JetBrains IDEs
 - [hushenghao/AndroidEasterEggs](https://github.com/hushenghao/AndroidEasterEggs) - Android Easter Egg Collections
 - [Razeeman/Android-SimpleTimeTracker](https://github.com/Razeeman/Android-SimpleTimeTracker) - Simple app that tracks time.
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
