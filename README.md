@@ -482,6 +482,7 @@
 
 ## Jinja 
 
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [murat-akpinar/ansible-role-rke2-cluster](https://github.com/murat-akpinar/ansible-role-rke2-cluster) - Ansible ile 1 Master 2 Worker Cluster ve üstüne metallb, longhorn
 
 ## Jupyter Notebook 
