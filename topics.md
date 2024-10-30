@@ -1204,6 +1204,7 @@
 
 ## others 
 
+- [1stupidgeek/save-deez-notes](https://github.com/1stupidgeek/save-deez-notes) - Note-taking app which uses Discord as a DB.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [dim0x69/mdx](https://github.com/dim0x69/mdx) - 
 - [mt190502/c-socket-programming](https://github.com/mt190502/c-socket-programming) - Basic Projects for learning Socket Programming in C
