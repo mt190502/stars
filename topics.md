@@ -1324,7 +1324,7 @@
 - [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
 - [axel358/waydroid-settings](https://github.com/axel358/waydroid-settings) - GTK app written in Python to control Waydroid settings
 - [electrikjesus/wd-scripts](https://github.com/electrikjesus/wd-scripts) - 
-- [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
+- [vasanthv/pinggy](https://github.com/vasanthv/pinggy) - Group video call for the web. No signups. No downloads.
 - [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions
 - [JetBrains/toolbox-browser-extension](https://github.com/JetBrains/toolbox-browser-extension) - JetBrains Toolbox App browser extension
 - [akiffeyzioglu/docker-notes](https://github.com/akiffeyzioglu/docker-notes) - My Docker Notes
