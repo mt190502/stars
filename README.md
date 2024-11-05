@@ -434,7 +434,7 @@
 - [Soushi-Atsumi/Open-in-Popup](https://github.com/Soushi-Atsumi/Open-in-Popup) - Very simple and useful extension. You can open a link in the popup.
 - [Soushi-Atsumi/Open-in-Sidebar](https://github.com/Soushi-Atsumi/Open-in-Sidebar) - Very simple and useful extension. You can open a link in the sidebar.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [vasanthv/pinggy](https://github.com/vasanthv/pinggy) - Group video call for the web. No signups. No downloads.
+- [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [JetBrains/toolbox-browser-extension](https://github.com/JetBrains/toolbox-browser-extension) - JetBrains Toolbox App browser extension
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
@@ -882,6 +882,7 @@
 
 ## TypeScript 
 
+- [mt190502/firerss](https://github.com/mt190502/firerss) - A RSS Scraper for Browsers
 - [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian
 - [1stupidgeek/save-deez-notes](https://github.com/1stupidgeek/save-deez-notes) - Note-taking app which uses Discord as a DB.
 - [tim-koehler/Helm-Intellisense](https://github.com/tim-koehler/Helm-Intellisense) - Extension for Visual Studio Code - Intellisense in helm-templates from the values.yaml
