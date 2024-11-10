@@ -551,6 +551,7 @@
 
 ## Nix 
 
+- [kreatoo/dots-mac](https://github.com/kreatoo/dots-mac) - Dotfiles for my Macbook, Managed using nix-darwin
 - [usdogu/dotfiles.nix](https://github.com/usdogu/dotfiles.nix) - 
 
 ## Others 
