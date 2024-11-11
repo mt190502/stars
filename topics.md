@@ -1209,6 +1209,7 @@
 
 ## others 
 
+- [mt190502/usmanagabot](https://github.com/mt190502/usmanagabot) - 
 - [kreatoo/dots-mac](https://github.com/kreatoo/dots-mac) - Dotfiles for my Macbook, Managed using nix-darwin
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
 - [mt190502/firerss](https://github.com/mt190502/firerss) - A RSS Scraper for Browsers
