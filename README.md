@@ -301,6 +301,7 @@
 
 ## Go 
 
+- [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [dim0x69/mdx](https://github.com/dim0x69/mdx) - 
@@ -888,6 +889,7 @@
 
 ## TypeScript 
 
+- [AsenaJs/Asena](https://github.com/AsenaJs/Asena) - A fast and easy-to-use IoC web framework built on top of Bun and Hono.
 - [mt190502/usmanagabot](https://github.com/mt190502/usmanagabot) - 
 - [mt190502/firerss](https://github.com/mt190502/firerss) - A RSS Scraper for Browsers
 - [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian
