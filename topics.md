@@ -495,6 +495,7 @@
 
 ## discord 
 
+- [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
 - [fieu/discord.sh](https://github.com/fieu/discord.sh) - Write-only command-line Discord webhooks integration written in 100% Bash script
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
@@ -686,6 +687,7 @@
 
 ## go 
 
+- [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [coder/websocket](https://github.com/coder/websocket) - Minimal and idiomatic WebSocket library for Go
 - [minio/mc](https://github.com/minio/mc) - Unix like utilities for object store
@@ -715,6 +717,7 @@
 
 ## golang 
 
+- [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [minio/mc](https://github.com/minio/mc) - Unix like utilities for object store
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -1218,6 +1221,7 @@
 
 ## others 
 
+- [AsenaJs/Asena](https://github.com/AsenaJs/Asena) - A fast and easy-to-use IoC web framework built on top of Bun and Hono.
 - [mt190502/usmanagabot](https://github.com/mt190502/usmanagabot) - 
 - [kreatoo/dots-mac](https://github.com/kreatoo/dots-mac) - Dotfiles for my Macbook, Managed using nix-darwin
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
