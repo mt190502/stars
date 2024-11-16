@@ -1222,6 +1222,8 @@
 
 ## others 
 
+- [LacledesLAN/gamesvr-cssource](https://github.com/LacledesLAN/gamesvr-cssource) - Counter-Strike Source Dedicated Server in Docker
+- [tractr/counter-strike-source-servers](https://github.com/tractr/counter-strike-source-servers) - Docker images to server Counter-Strike:Source with mods
 - [libbpf/libbpf](https://github.com/libbpf/libbpf) - Automated upstream mirror for libbpf stand-alone build.
 - [libbpf/bpftool](https://github.com/libbpf/bpftool) - Automated upstream mirror for bpftool stand-alone build.
 - [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Visualize the time packets spend in the kernel, watch & analyze in command line.
