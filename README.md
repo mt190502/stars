@@ -895,7 +895,7 @@
 
 ## TypeScript 
 
-- [AsenaJs/Asena](https://github.com/AsenaJs/Asena) - A fast and easy-to-use IoC web framework built on top of Bun and Hono.
+- [AsenaJs/Asena](https://github.com/AsenaJs/Asena) - A high-performance TypeScript web framework combining NestJS-style development with Bun runtime. Built on Hono, featuring dependency injection and decorator-based routing for modern web applications.
 - [mt190502/usmanagabot](https://github.com/mt190502/usmanagabot) - 
 - [mt190502/firerss](https://github.com/mt190502/firerss) - A RSS Scraper for Browsers
 - [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian
