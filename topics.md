@@ -1222,6 +1222,7 @@
 
 ## others 
 
+- [nix-community/nix-user-chroot](https://github.com/nix-community/nix-user-chroot) - Install & Run nix without root permissions [maintainer=@Mic92]
 - [LacledesLAN/gamesvr-cssource](https://github.com/LacledesLAN/gamesvr-cssource) - Counter-Strike Source Dedicated Server in Docker
 - [tractr/counter-strike-source-servers](https://github.com/tractr/counter-strike-source-servers) - Docker images to server Counter-Strike:Source with mods
 - [libbpf/libbpf](https://github.com/libbpf/libbpf) - Automated upstream mirror for libbpf stand-alone build.
