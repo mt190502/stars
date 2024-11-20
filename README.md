@@ -899,7 +899,6 @@
 
 - [AsenaJs/Asena](https://github.com/AsenaJs/Asena) - A high-performance TypeScript web framework combining NestJS-style development with Bun runtime. Built on Hono, featuring dependency injection and decorator-based routing for modern web applications.
 - [mt190502/usmanagabot](https://github.com/mt190502/usmanagabot) - 
-- [mt190502/firerss](https://github.com/mt190502/firerss) - A RSS Scraper for Browsers
 - [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian
 - [1stupidgeek/save-deez-notes](https://github.com/1stupidgeek/save-deez-notes) - Note-taking app which uses Discord as a DB.
 - [tim-koehler/Helm-Intellisense](https://github.com/tim-koehler/Helm-Intellisense) - Extension for Visual Studio Code - Intellisense in helm-templates from the values.yaml
