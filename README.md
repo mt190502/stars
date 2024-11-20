@@ -897,6 +897,7 @@
 
 ## TypeScript 
 
+- [mt190502/firerss](https://github.com/mt190502/firerss) - A RSS Scraper for Browsers
 - [AsenaJs/Asena](https://github.com/AsenaJs/Asena) - A high-performance TypeScript web framework combining NestJS-style development with Bun runtime. Built on Hono, featuring dependency injection and decorator-based routing for modern web applications.
 - [mt190502/usmanagabot](https://github.com/mt190502/usmanagabot) - 
 - [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian
