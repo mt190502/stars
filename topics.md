@@ -175,6 +175,7 @@
 
 ## 3d 
 
+- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 
 ## algorithm 
@@ -949,6 +950,7 @@
 
 ## linux 
 
+- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [0xzer0x/quran-companion](https://github.com/0xzer0x/quran-companion) - Free and open-source desktop Quran reader and player 💻
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
@@ -1968,6 +1970,7 @@
 
 ## windows 
 
+- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [0xzer0x/quran-companion](https://github.com/0xzer0x/quran-companion) - Free and open-source desktop Quran reader and player 💻
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
