@@ -1224,6 +1224,7 @@
 
 ## others 
 
+- [doxx/darkflare](https://github.com/doxx/darkflare) - DarkFlare TCPoCDN (TCP over CDN)
 - [mt190502/firerss](https://github.com/mt190502/firerss) - A RSS Scraper for Browsers
 - [nix-community/nix-user-chroot](https://github.com/nix-community/nix-user-chroot) - Install & Run nix without root permissions [maintainer=@Mic92]
 - [LacledesLAN/gamesvr-cssource](https://github.com/LacledesLAN/gamesvr-cssource) - Counter-Strike Source Dedicated Server in Docker
