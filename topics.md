@@ -719,6 +719,7 @@
 
 ## golang 
 
+- [doxx/darkflare](https://github.com/doxx/darkflare) - DarkFlare Firewall Piercing (TCP over CDN)
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [minio/mc](https://github.com/minio/mc) - Unix like utilities for object store
@@ -1226,7 +1227,6 @@
 
 ## others 
 
-- [doxx/darkflare](https://github.com/doxx/darkflare) - DarkFlare TCPoCDN (TCP over CDN)
 - [mt190502/firerss](https://github.com/mt190502/firerss) - A RSS Scraper for Browsers
 - [nix-community/nix-user-chroot](https://github.com/nix-community/nix-user-chroot) - Install & Run nix without root permissions [maintainer=@Mic92]
 - [LacledesLAN/gamesvr-cssource](https://github.com/LacledesLAN/gamesvr-cssource) - Counter-Strike Source Dedicated Server in Docker
@@ -1783,6 +1783,7 @@
 
 ## security 
 
+- [doxx/darkflare](https://github.com/doxx/darkflare) - DarkFlare Firewall Piercing (TCP over CDN)
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
