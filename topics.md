@@ -6,6 +6,7 @@
 ## Contents
 
 - [3d](#3d)
+- [ai](#ai)
 - [algorithm](#algorithm)
 - [android](#android)
 - [angular](#angular)
@@ -43,6 +44,7 @@
 - [data-structures](#data-structures)
 - [database](#database)
 - [deep-learning](#deep-learning)
+- [deno](#deno)
 - [deployment](#deployment)
 - [design](#design)
 - [devops](#devops)
@@ -57,6 +59,7 @@
 - [es6](#es6)
 - [eslint](#eslint)
 - [ethereum](#ethereum)
+- [firebase](#firebase)
 - [firefox](#firefox)
 - [flask](#flask)
 - [flutter](#flutter)
@@ -177,6 +180,10 @@
 
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
+
+## ai 
+
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 ## algorithm 
 
@@ -471,12 +478,17 @@
 
 ## database 
 
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [coderserdar/Documents](https://github.com/coderserdar/Documents) - This repo includes some kind of documentation files about Information Technologies like Programming, Operating Systems, Cyber Security, Algorithm, Mobile Development etc.
 
 ## deep-learning 
 
 - [muratali016/Minecraft_AI_assistant](https://github.com/muratali016/Minecraft_AI_assistant) - AI based assitant for minecarft
+
+## deno 
+
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 ## deployment 
 
@@ -600,6 +612,10 @@
 ## ethereum 
 
 - [DexLegion/isRug.API](https://github.com/DexLegion/isRug.API) - isRug is a honeypot checker tool that detects scams and rugpulls in ERC-20 smart contracts across multiple chains.
+
+## firebase 
+
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 ## firefox 
 
@@ -1151,6 +1167,7 @@
 
 ## nextjs 
 
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [Cveinnt/LiveTerm](https://github.com/Cveinnt/LiveTerm) - 💻 Build terminal styled websites in minutes!
 
 ## node 
@@ -1628,6 +1645,7 @@
 
 ## postgresql 
 
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [brianc/node-postgres](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js.
 - [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
