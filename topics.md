@@ -1252,7 +1252,7 @@
 - [libbpf/libbpf](https://github.com/libbpf/libbpf) - Automated upstream mirror for libbpf stand-alone build.
 - [libbpf/bpftool](https://github.com/libbpf/bpftool) - Automated upstream mirror for bpftool stand-alone build.
 - [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Visualize the time packets spend in the kernel, watch & analyze in command line.
-- [AsenaJs/Asena](https://github.com/AsenaJs/Asena) - A high-performance TypeScript web framework combining NestJS-style development with Bun runtime. Built on Hono, featuring dependency injection and decorator-based routing for modern web applications.
+- [AsenaJs/Asena](https://github.com/AsenaJs/Asena) - IoC web framework for bun
 - [mt190502/usmanagabot](https://github.com/mt190502/usmanagabot) - 
 - [kreatoo/dots-mac](https://github.com/kreatoo/dots-mac) - Dotfiles for my Macbook, Managed using nix-darwin
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
