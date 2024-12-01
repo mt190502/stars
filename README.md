@@ -761,6 +761,7 @@
 
 ## Rust 
 
+- [fspoettel/advent-of-code-rust](https://github.com/fspoettel/advent-of-code-rust) - 🎄Starter template for solving Advent of Code in Rust.
 - [adamperkowski/highlightos](https://github.com/adamperkowski/highlightos) - 🌄 x86_64 OS (kernel) made from scratch in Rust & Assembly
 - [nix-community/nix-user-chroot](https://github.com/nix-community/nix-user-chroot) - Install & Run nix without root permissions [maintainer=@Mic92]
 - [reemus-dev/gitnr](https://github.com/reemus-dev/gitnr) - Create `.gitignore` files using one or more templates from TopTal, GitHub or your own collection
