@@ -609,7 +609,6 @@
 - [ekartal/turkce-kelime-database](https://github.com/ekartal/turkce-kelime-database) - Turkce Kelime Database
 - [eyupkaganeyupoglu/python_tutorial_tr](https://github.com/eyupkaganeyupoglu/python_tutorial_tr) - Türkçe Python Tutorial
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
-- [LuNiZz/soru](https://github.com/LuNiZz/soru) - 
 - [LineageOS/android](https://github.com/LineageOS/android) - 
 
 ## PHP 
