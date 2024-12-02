@@ -766,6 +766,7 @@
 
 ## hacktoberfest 
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) - 
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar) - A yabai status bar widget for Übersicht
@@ -1251,7 +1252,7 @@
 - [tractr/counter-strike-source-servers](https://github.com/tractr/counter-strike-source-servers) - Docker images to server Counter-Strike:Source with mods
 - [libbpf/libbpf](https://github.com/libbpf/libbpf) - Automated upstream mirror for libbpf stand-alone build.
 - [libbpf/bpftool](https://github.com/libbpf/bpftool) - Automated upstream mirror for bpftool stand-alone build.
-- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Visualize the time packets spend in the kernel, watch & analyze in command line.
+- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Visualize the time packets spend in the kernel, analyze requests/responses in command line.
 - [AsenaJs/Asena](https://github.com/AsenaJs/Asena) - IoC web framework for bun
 - [mt190502/usmanagabot](https://github.com/mt190502/usmanagabot) - 
 - [kreatoo/dots-mac](https://github.com/kreatoo/dots-mac) - Dotfiles for my Macbook, Managed using nix-darwin
@@ -1588,7 +1589,6 @@
 - [Dobreli/Opencv-Squid](https://github.com/Dobreli/Opencv-Squid) - 
 - [Askannz/optimus-manager](https://github.com/Askannz/optimus-manager) - A Linux program to handle GPU switching on Optimus laptops.
 - [furkanbakkal/Machine-Learning-with-Tensorflow](https://github.com/furkanbakkal/Machine-Learning-with-Tensorflow) - Detecting custom shapes with Tensorflow using machine learning
-- [LuNiZz/soru](https://github.com/LuNiZz/soru) - 
 - [barryclark/jekyll-now](https://github.com/barryclark/jekyll-now) - Build a Jekyll blog in minutes, without touching the command line.
 - [pixelb/ps_mem](https://github.com/pixelb/ps_mem) - A utility to accurately report the in core memory usage for a program
 - [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
