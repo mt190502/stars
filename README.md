@@ -373,6 +373,7 @@
 
 ## HTML 
 
+- [mt190502/blog.mtaha.dev](https://github.com/mt190502/blog.mtaha.dev) - 
 - [geerlingguy/kubernetes-101](https://github.com/geerlingguy/kubernetes-101) - Kubernetes 101 - by Jeff Geerling
 - [w3c/activitypub](https://github.com/w3c/activitypub) - 
 - [ozgurozturknet/AdanZyeDocker](https://github.com/ozgurozturknet/AdanZyeDocker) - A'dan Z'ye Docker Eğitimi
@@ -569,7 +570,6 @@
 
 ## Others 
 
-- [mt190502/blog.mtaha.dev](https://github.com/mt190502/blog.mtaha.dev) - 
 - [raifpy/Notes.c](https://github.com/raifpy/Notes.c) - My C assignment grades. Free to contribute
 - [mt190502/stars](https://github.com/mt190502/stars) - 
 - [rfmoz/grafana-dashboards](https://github.com/rfmoz/grafana-dashboards) - Grafana dashboards
