@@ -1549,7 +1549,6 @@
 - [pciutils/pciutils](https://github.com/pciutils/pciutils) - The PCI Utilities
 - [bedrocklinux/bedrocklinux-userland](https://github.com/bedrocklinux/bedrocklinux-userland) - This tracks development for the things such as scripts and (defaults for) config files for Bedrock Linux
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
-- [getting-things-gnome/gtg](https://github.com/getting-things-gnome/gtg) - Getting Things GNOME! trunk
 - [GNOME/mutter](https://github.com/GNOME/mutter) - Read-only mirror of https://gitlab.gnome.org/GNOME/mutter
 - [ezores/ezores](https://github.com/ezores/ezores) - 
 - [rpm-software-management/dnf-plugins-core](https://github.com/rpm-software-management/dnf-plugins-core) - Core DNF Plugins
@@ -1711,6 +1710,7 @@
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [mt190502/python-bin](https://github.com/mt190502/python-bin) - Some Python Projects
 - [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
+- [getting-things-gnome/gtg](https://github.com/getting-things-gnome/gtg) - Getting Things GNOME! desktop app development
 - [ahmed-al-balochi/LibreGaming](https://github.com/ahmed-al-balochi/LibreGaming) - Python Program that downloads gaming required packages based on your Linux Distribution.
 - [rpm-software-management/libdnf](https://github.com/rpm-software-management/libdnf) - Package management library.
 - [wilfredinni/python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet) - All-inclusive Python cheatsheet
