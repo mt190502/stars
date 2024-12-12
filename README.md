@@ -703,7 +703,7 @@
 - [pisilinux/main](https://github.com/pisilinux/main) - Packages for Pisi-2.0 library, desktops, programming, supported with team.
 - [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
 - [Zren/breeze-alphablack](https://github.com/Zren/breeze-alphablack) - Breeze Light theme with minor improvements and a black panel/titlebar.
-- [getting-things-gnome/gtg](https://github.com/getting-things-gnome/gtg) - Getting Things GNOME! trunk
+- [getting-things-gnome/gtg](https://github.com/getting-things-gnome/gtg) - Getting Things GNOME! desktop app development
 - [ahmed-al-balochi/LibreGaming](https://github.com/ahmed-al-balochi/LibreGaming) - Python Program that downloads gaming required packages based on your Linux Distribution.
 - [rpm-software-management/dnf-plugins-core](https://github.com/rpm-software-management/dnf-plugins-core) - Core DNF Plugins
 - [scx/aegisub-flatpak](https://github.com/scx/aegisub-flatpak) - Flatpak package for Aegisub
