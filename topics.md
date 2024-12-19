@@ -1295,7 +1295,7 @@
 - [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix) - Fix Play Integrity (and SafetyNet) verdicts.
 - [monobilisim/mono.sh-old](https://github.com/monobilisim/mono.sh-old) - 
 - [jdah/minecraft-weekend](https://github.com/jdah/minecraft-weekend) - Minecraft, but I made it in 48 hours.
-- [jiangcuo/Proxmox-Port](https://github.com/jiangcuo/Proxmox-Port) - Proxmox VE   arm64 riscv64 loongarch64
+- [jiangcuo/Proxmox-Port](https://github.com/jiangcuo/Proxmox-Port) - This version of Proxmox VE is compatible with the arm64, riscv64, and loongarch64 architectures.
 - [maytinhdibo/battery-friendly-pocketmode](https://github.com/maytinhdibo/battery-friendly-pocketmode) - Support me
 - [jdinhify/vscode-theme-gruvbox](https://github.com/jdinhify/vscode-theme-gruvbox) - Gruvbox theme for vscode based on https://github.com/morhetz/gruvbox
 - [DiscordMessenger/dm](https://github.com/DiscordMessenger/dm) - Discord Messenger is a free Discord-compatible messaging client targeting both new and old Windows.
