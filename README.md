@@ -566,6 +566,7 @@
 
 ## Nix 
 
+- [mt190502/dotfiles.nix](https://github.com/mt190502/dotfiles.nix) - 
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [usdogu/dotfiles.nix](https://github.com/usdogu/dotfiles.nix) - 
 
