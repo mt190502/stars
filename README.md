@@ -63,7 +63,7 @@
 
 ## Assembly 
 
-- [shikaan/x86-64-asm-intro](https://github.com/shikaan/x86-64-asm-intro) - Learning x86-64 assembly
+- [shikaan/x86-64-asm-intro](https://github.com/shikaan/x86-64-asm-intro) - 💾 Learning x86-64 assembly
 - [xrarch/mintia](https://github.com/xrarch/mintia) - Paging operating system for a custom computer architecture
 - [xeome/assembly-web](https://github.com/xeome/assembly-web) - doing web dev using native assembly &gt;:)
 
