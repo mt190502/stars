@@ -1255,6 +1255,7 @@
 
 ## others 
 
+- [TenSoja/clear-cache](https://github.com/TenSoja/clear-cache) - Add-on to clear browser cache with a single click or via the F9 key.
 - [mt190502/dotfiles.nix](https://github.com/mt190502/dotfiles.nix) - 
 - [mt190502/rehlds-docker-cstrike](https://github.com/mt190502/rehlds-docker-cstrike) - 🎮 Half-Life Dedicated Server as a Docker image
 - [mt190502/firerss](https://github.com/mt190502/firerss) - A RSS Scraper for Browsers
