@@ -380,6 +380,7 @@
 - [ozgurozturknet/AdanZyeDocker](https://github.com/ozgurozturknet/AdanZyeDocker) - A'dan Z'ye Docker Eğitimi
 - [acikyazilimagi/afet-org](https://github.com/acikyazilimagi/afet-org) - 
 - [Asabeneh/10-days-of-git-and-github](https://github.com/Asabeneh/10-days-of-git-and-github) - Some video lessons on YouTube: This videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
+- [Stardust-kyun/calla](https://github.com/Stardust-kyun/calla) - Calla Desktop Environment
 - [silenc3r/fedora-better-fonts](https://github.com/silenc3r/fedora-better-fonts) - Better looking fonts for Fedora
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [yucellmustafa/yucellmustafa.github.io](https://github.com/yucellmustafa/yucellmustafa.github.io) - sadece minimalist, kişisel bir blog
@@ -542,7 +543,6 @@
 - [kreatoo/dots-mac](https://github.com/kreatoo/dots-mac) - Dotfiles for my Macbook, Managed using nix-darwin
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
-- [Stardust-kyun/calla](https://github.com/Stardust-kyun/calla) - Calla Desktop Environment
 - [aurum77/.dotfiles](https://github.com/aurum77/.dotfiles) - 
 - [nikneym/picodns](https://github.com/nikneym/picodns) - Caching and non-blocking DNS resolver for Lua
 - [eminboydak/.dotfiles](https://github.com/eminboydak/.dotfiles) - My dotfiles
