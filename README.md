@@ -546,7 +546,7 @@
 - [aurum77/.dotfiles](https://github.com/aurum77/.dotfiles) - 
 - [nikneym/picodns](https://github.com/nikneym/picodns) - Caching and non-blocking DNS resolver for Lua
 - [eminboydak/.dotfiles](https://github.com/eminboydak/.dotfiles) - My dotfiles
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 
 ## Makefile 
