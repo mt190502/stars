@@ -765,6 +765,7 @@
 
 ## Rust 
 
+- [pipelight/boulette](https://github.com/pipelight/boulette) - Prevents you from accidentally shutting down remote hosts!
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [fspoettel/advent-of-code-rust](https://github.com/fspoettel/advent-of-code-rust) - 🎄Starter template for solving Advent of Code in Rust.
 - [adamperkowski/highlightos](https://github.com/adamperkowski/highlightos) - 🌄 x86_64 OS (kernel) made from scratch in Rust & Assembly
@@ -912,6 +913,7 @@
 
 ## TypeScript 
 
+- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [mt190502/firerss](https://github.com/mt190502/firerss) - A RSS Scraper for Browsers
 - [AsenaJs/Asena](https://github.com/AsenaJs/Asena) - IoC web framework for bun
