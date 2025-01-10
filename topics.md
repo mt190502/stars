@@ -561,6 +561,7 @@
 
 ## documentation 
 
+- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [TKCERT/pfFocus](https://github.com/TKCERT/pfFocus) - Generate meaningful output from your pfSense configuration backup, like Markdown documentation.
 - [xeome/notes.xeome.dev](https://github.com/xeome/notes.xeome.dev) - Personal documentation site, based on quartz
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
@@ -1209,6 +1210,7 @@
 
 ## open-source 
 
+- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -1784,6 +1786,7 @@
 
 ## rust 
 
+- [pipelight/boulette](https://github.com/pipelight/boulette) - Prevents you from accidentally shutting down remote hosts!
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [fspoettel/advent-of-code-rust](https://github.com/fspoettel/advent-of-code-rust) - 🎄Starter template for solving Advent of Code in Rust.
 - [adamperkowski/highlightos](https://github.com/adamperkowski/highlightos) - 🌄 x86_64 OS (kernel) made from scratch in Rust & Assembly
