@@ -1786,7 +1786,7 @@
 
 ## rust 
 
-- [pipelight/boulette](https://github.com/pipelight/boulette) - Prevents you from accidentally shutting down remote hosts!
+- [pipelight/boulette](https://github.com/pipelight/boulette) - Protect you from yourself (even as root).
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [fspoettel/advent-of-code-rust](https://github.com/fspoettel/advent-of-code-rust) - 🎄Starter template for solving Advent of Code in Rust.
 - [adamperkowski/highlightos](https://github.com/adamperkowski/highlightos) - 🌄 x86_64 OS (kernel) made from scratch in Rust & Assembly
