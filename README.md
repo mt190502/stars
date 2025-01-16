@@ -271,6 +271,7 @@
 ## CSS 
 
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
+- [mt190502/blog.mtaha.dev](https://github.com/mt190502/blog.mtaha.dev) - 
 - [Siumauricio/rippleui](https://github.com/Siumauricio/rippleui) - Clean, modern and beautiful Tailwind CSS components.
 - [xeome/dots](https://github.com/xeome/dots) - dotfiles
 - [NsCDE/NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
@@ -376,7 +377,6 @@
 
 ## HTML 
 
-- [mt190502/blog.mtaha.dev](https://github.com/mt190502/blog.mtaha.dev) - 
 - [geerlingguy/kubernetes-101](https://github.com/geerlingguy/kubernetes-101) - Kubernetes 101 - by Jeff Geerling
 - [w3c/activitypub](https://github.com/w3c/activitypub) - 
 - [ozgurozturknet/AdanZyeDocker](https://github.com/ozgurozturknet/AdanZyeDocker) - A'dan Z'ye Docker Eğitimi
