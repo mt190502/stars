@@ -570,7 +570,6 @@
 
 ## Nix 
 
-- [pipelight/boulette](https://github.com/pipelight/boulette) - A terminal confirmation prompt that prevents you from accidentally damaging remote hosts.
 - [danth/stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [usdogu/dotfiles.nix](https://github.com/usdogu/dotfiles.nix) - 
@@ -769,6 +768,7 @@
 
 ## Rust 
 
+- [pipelight/boulette](https://github.com/pipelight/boulette) - A terminal confirmation prompt that prevents you from accidentally damaging remote hosts.
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [fspoettel/advent-of-code-rust](https://github.com/fspoettel/advent-of-code-rust) - 🎄Starter template for solving Advent of Code in Rust.
 - [adamperkowski/highlightos](https://github.com/adamperkowski/highlightos) - 🌄 x86_64 OS (kernel) made from scratch in Rust & Assembly
