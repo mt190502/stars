@@ -657,7 +657,7 @@
 ## Python 
 
 - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container.
-- [madeyexz/whisper_subtitle](https://github.com/madeyexz/whisper_subtitle) - This project uses Whisper from OpenAI to generate video subtitles automatically.
+- [madeyexz/whisper_subtitle](https://github.com/madeyexz/whisper_subtitle) - uses Whisper from OpenAI to generate video subtitles automatically.
 - [JetBrains/colorSchemeTool](https://github.com/JetBrains/colorSchemeTool) - 
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [jelmer/xandikos](https://github.com/jelmer/xandikos) - A CalDAV/CardDAV server backed by Git
