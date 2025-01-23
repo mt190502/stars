@@ -1230,7 +1230,7 @@
 
 ## openai 
 
-- [madeyexz/whisper_subtitle](https://github.com/madeyexz/whisper_subtitle) - This project uses Whisper from OpenAI to generate video subtitles automatically.
+- [madeyexz/whisper_subtitle](https://github.com/madeyexz/whisper_subtitle) - uses Whisper from OpenAI to generate video subtitles automatically.
 
 ## opengl 
 
@@ -1706,7 +1706,7 @@
 
 ## python 
 
-- [madeyexz/whisper_subtitle](https://github.com/madeyexz/whisper_subtitle) - This project uses Whisper from OpenAI to generate video subtitles automatically.
+- [madeyexz/whisper_subtitle](https://github.com/madeyexz/whisper_subtitle) - uses Whisper from OpenAI to generate video subtitles automatically.
 - [friendlyanon/cmake-init](https://github.com/friendlyanon/cmake-init) - The missing CMake project initializer
 - [jelmer/xandikos](https://github.com/jelmer/xandikos) - A CalDAV/CardDAV server backed by Git
 - [mathialo/bython](https://github.com/mathialo/bython) - Python with braces. Because python is awesome, but whitespace is awful.
