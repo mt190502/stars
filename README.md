@@ -577,6 +577,7 @@
 
 ## Others 
 
+- [mt190502/k8s](https://github.com/mt190502/k8s) - Kubernetes Setup
 - [raifpy/Notes.c](https://github.com/raifpy/Notes.c) - My C assignment grades. Free to contribute
 - [mt190502/stars](https://github.com/mt190502/stars) - 
 - [rfmoz/grafana-dashboards](https://github.com/rfmoz/grafana-dashboards) - Grafana dashboards
