@@ -1258,6 +1258,7 @@
 
 ## others 
 
+- [mt190502/k8s](https://github.com/mt190502/k8s) - Kubernetes Setup
 - [danth/stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS
 - [TenSoja/clear-cache](https://github.com/TenSoja/clear-cache) - Add-on to clear browser cache with a single click or via the F9 key.
 - [mt190502/dotfiles.nix](https://github.com/mt190502/dotfiles.nix) - 
