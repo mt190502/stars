@@ -770,6 +770,7 @@
 
 ## Rust 
 
+- [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
 - [pipelight/boulette](https://github.com/pipelight/boulette) - A terminal confirmation prompt that prevents you from accidentally damaging remote hosts.
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [fspoettel/advent-of-code-rust](https://github.com/fspoettel/advent-of-code-rust) - 🎄Starter template for solving Advent of Code in Rust.
