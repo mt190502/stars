@@ -95,7 +95,6 @@
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [gnif/LookingGlass](https://github.com/gnif/LookingGlass) - An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.
 - [jdah/minecraft-weekend](https://github.com/jdah/minecraft-weekend) - Minecraft, but I made it in 48 hours.
-- [LineageOS/android_hardware_samsung](https://github.com/LineageOS/android_hardware_samsung) - 
 - [LineageOS/android_kernel_samsung_sm7125](https://github.com/LineageOS/android_kernel_samsung_sm7125) - 
 - [coreutils/coreutils](https://github.com/coreutils/coreutils) - upstream mirror
 - [taviso/ctypes.sh](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash.
@@ -220,6 +219,7 @@
 - [SerenityOS/serenity](https://github.com/SerenityOS/serenity) - The Serenity Operating System 🐞
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [DiscordMessenger/dm](https://github.com/DiscordMessenger/dm) - Discord Messenger is a free Discord-compatible messaging client targeting both new and old Windows.
+- [LineageOS/android_hardware_samsung](https://github.com/LineageOS/android_hardware_samsung) - 
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 - [julelang/jule](https://github.com/julelang/jule) - Effective programming language to build efficient, fast, reliable and safe software while maintaining simplicity
 - [OpenSteamClient/OpenSteamClient](https://github.com/OpenSteamClient/OpenSteamClient) - Partially open-source alternative Steam Client for Linux.
