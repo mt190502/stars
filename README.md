@@ -818,6 +818,7 @@
 
 ## Shell 
 
+- [saveside/dots.nix](https://github.com/saveside/dots.nix) - jomo dotfiles but as nix
 - [mt190502/dotfiles.nix](https://github.com/mt190502/dotfiles.nix) - 
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [marcan/takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
