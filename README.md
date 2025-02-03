@@ -564,6 +564,7 @@
 
 ## Mustache 
 
+- [danth/stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators.
 
 ## Nim 
@@ -572,7 +573,6 @@
 
 ## Nix 
 
-- [danth/stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [usdogu/dotfiles.nix](https://github.com/usdogu/dotfiles.nix) - 
 
