@@ -1482,7 +1482,7 @@
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [ezgiturali/Machine-Learning-Deep-Learning-Resources](https://github.com/ezgiturali/Machine-Learning-Deep-Learning-Resources) - 
 - [HugoBlox/theme-portfolio](https://github.com/HugoBlox/theme-portfolio) - Easily create your own portfolio website with Hugo.
-- [umlaeute/v4l2loopback](https://github.com/umlaeute/v4l2loopback) - v4l2-loopback device
+- [v4l2loopback/v4l2loopback](https://github.com/v4l2loopback/v4l2loopback) - v4l2-loopback device
 - [onetrueawk/awk](https://github.com/onetrueawk/awk) - One true awk
 - [sandsmark/selectdefaultapplication](https://github.com/sandsmark/selectdefaultapplication) - an ugly hack to be able to select default applications in linux in a better way
 - [hahuang65/wofi-config](https://github.com/hahuang65/wofi-config) - A mirror for https://git.sr.ht/~hwrd/wofi-config
