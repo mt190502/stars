@@ -271,7 +271,6 @@
 ## CSS 
 
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
-- [mt190502/blog.mtaha.dev](https://github.com/mt190502/blog.mtaha.dev) - 
 - [Siumauricio/rippleui](https://github.com/Siumauricio/rippleui) - Clean, modern and beautiful Tailwind CSS components.
 - [xeome/dots](https://github.com/xeome/dots) - dotfiles
 - [NsCDE/NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
