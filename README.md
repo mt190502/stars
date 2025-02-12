@@ -645,7 +645,7 @@
 
 ## Pawn 
 
-- [mt190502/rehlds-docker-cstrike](https://github.com/mt190502/rehlds-docker-cstrike) - 🎮 Half-Life Dedicated Server as a Docker image
+- [mt190502/gamesvr-hl](https://github.com/mt190502/gamesvr-hl) - 🎮 Half-Life Dedicated Server as a Docker image
 
 ## Perl 
 
