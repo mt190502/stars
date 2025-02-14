@@ -1270,6 +1270,7 @@
 
 ## others 
 
+- [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays) - Output management utility for sway and Hyprland.
 - [metno/ansible-role-chrony](https://github.com/metno/ansible-role-chrony) - Configure NTP for server using recommended chronyd.
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [saveside/dots.nix](https://github.com/saveside/dots.nix) - jomo dotfiles but as nix
