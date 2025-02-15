@@ -1593,7 +1593,7 @@
 - [KDE/kwin](https://github.com/KDE/kwin) - Easy to use, but flexible, X Window Manager and Wayland Compositor
 - [muratali016/AI-plays-games-](https://github.com/muratali016/AI-plays-games-) - 
 - [johnthebrit/CertificationMaterials](https://github.com/johnthebrit/CertificationMaterials) - A collection of materials related to my certification videos
-- [usdogu/usdogu.github.io](https://github.com/usdogu/usdogu.github.io) - My blog
+- [usdogu/blog](https://github.com/usdogu/blog) - My blog
 - [ShyykoSerhiy/vscode-spotify](https://github.com/ShyykoSerhiy/vscode-spotify) - Use Spotify inside vscode(on Mac, Windows, and Linux).
 - [CivanDogan/wordle_tr](https://github.com/CivanDogan/wordle_tr) - 
 - [yilozt/mutter-rounded](https://github.com/yilozt/mutter-rounded) - A window manager for GNOME, with rounded corners patch
