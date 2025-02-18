@@ -933,6 +933,7 @@
 
 ## TypeScript 
 
+- [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [mt190502/firerss](https://github.com/mt190502/firerss) - A RSS Scraper for Browsers
