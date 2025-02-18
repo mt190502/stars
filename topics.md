@@ -515,6 +515,7 @@
 
 ## discord 
 
+- [JakeStanger/mpd-discord-rpc](https://github.com/JakeStanger/mpd-discord-rpc) - Rust application which displays your currently playing song / album / artist from MPD in Discord using Rich Presence.
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
 - [fieu/discord.sh](https://github.com/fieu/discord.sh) - Write-only command-line Discord webhooks integration written in 100% Bash script
@@ -1170,6 +1171,7 @@
 
 ## music 
 
+- [JakeStanger/mpd-discord-rpc](https://github.com/JakeStanger/mpd-discord-rpc) - Rust application which displays your currently playing song / album / artist from MPD in Discord using Rich Presence.
 - [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 - [fishuke/ytmparty](https://github.com/fishuke/ytmparty) - Chrome extension that allows you to listen to music with your friends in Youtube Music.
 
@@ -1270,6 +1272,7 @@
 
 ## others 
 
+- [eonpatapon/mpDris2](https://github.com/eonpatapon/mpDris2) - MPRIS V2.1 support for mpd
 - [xdp-project/xdp-tutorial](https://github.com/xdp-project/xdp-tutorial) - XDP tutorial
 - [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays) - Output management utility for sway and Hyprland.
 - [metno/ansible-role-chrony](https://github.com/metno/ansible-role-chrony) - Configure NTP for server using recommended chronyd.
@@ -1818,6 +1821,7 @@
 
 ## rust 
 
+- [JakeStanger/mpd-discord-rpc](https://github.com/JakeStanger/mpd-discord-rpc) - Rust application which displays your currently playing song / album / artist from MPD in Discord using Rich Presence.
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration Tool
 - [bilelmoussaoui/ashpd](https://github.com/bilelmoussaoui/ashpd) - A Rust wrapper around XDG portals DBus interfaces
 - [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
