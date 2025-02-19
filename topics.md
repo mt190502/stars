@@ -1273,6 +1273,7 @@
 
 ## others 
 
+- [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [eonpatapon/mpDris2](https://github.com/eonpatapon/mpDris2) - MPRIS V2.1 support for mpd
 - [xdp-project/xdp-tutorial](https://github.com/xdp-project/xdp-tutorial) - XDP tutorial
 - [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays) - Output management utility for sway and Hyprland.
