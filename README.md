@@ -577,6 +577,7 @@
 
 ## Nix 
 
+- [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [usdogu/dotfiles.nix](https://github.com/usdogu/dotfiles.nix) - 
 
