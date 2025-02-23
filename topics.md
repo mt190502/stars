@@ -1468,7 +1468,6 @@
 - [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
 - [dremin/RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows
-- [Vallentinus/linuxgaming](https://github.com/Vallentinus/linuxgaming) - Linux Gaming Guide
 - [rotemdan/ExportCookies](https://github.com/rotemdan/ExportCookies) - WebExtension to export cookies to a Netscape format cookies.txt file.
 - [GNOME/zenity](https://github.com/GNOME/zenity) - Read-only mirror of https://gitlab.gnome.org/GNOME/zenity
 - [axtloss/flatpaks](https://github.com/axtloss/flatpaks) - random stuff i packaged as flatpak
@@ -1521,7 +1520,6 @@
 - [enolgor/ungoogled-chromium-extension-installer](https://github.com/enolgor/ungoogled-chromium-extension-installer) - Extension for Ungoogled Chromium that allows easy installation of extensions from Chrome webstore.
 - [gohugoio/hugoThemes](https://github.com/gohugoio/hugoThemes) - A curated directory of Hugo themes
 - [andylshort/rss-finder](https://github.com/andylshort/rss-finder) - Lists RSS and Atom feeds available on the current web page
-- [Vallentinus/open-source-apps](https://github.com/Vallentinus/open-source-apps) - Includes Windows Alternative Apps
 - [axel358/smartdock](https://github.com/axel358/smartdock) - A user-friendly desktop mode launcher that offers a modern and customizable user interface
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [Ckrielle/RSS-Feeder](https://github.com/Ckrielle/RSS-Feeder) - A script to automatically add Github, Youtube, Reddit, and Twitter feeds to newsboat
