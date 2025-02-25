@@ -1274,6 +1274,7 @@
 
 ## others 
 
+- [lustryrose882/victus-control](https://github.com/lustryrose882/victus-control) - An utility tool for HP Victus 16-s1000 laptops. :3
 - [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK
 - [szclsya/mpdris2-rs](https://github.com/szclsya/mpdris2-rs) - Exposing MPRIS V2.2 D-Bus interface for mpd
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
