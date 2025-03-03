@@ -2112,7 +2112,7 @@
 
 ## zig 
 
-- [seatedro/asciigen](https://github.com/seatedro/asciigen) - convert images, video to ascii!
+- [seatedro/glyph](https://github.com/seatedro/glyph) - convert images, video to ascii!
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
