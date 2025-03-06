@@ -835,6 +835,7 @@
 
 ## Shell 
 
+- [tailscale-dev/deck-tailscale](https://github.com/tailscale-dev/deck-tailscale) - Tailscale install script for the Steam Deck
 - [saveside/dots.nix](https://github.com/saveside/dots.nix) - jomo dotfiles but as nix
 - [mt190502/dotfiles.nix](https://github.com/mt190502/dotfiles.nix) - 
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
