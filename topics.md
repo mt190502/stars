@@ -1273,6 +1273,7 @@
 
 ## others 
 
+- [tailscale-dev/deck-tailscale](https://github.com/tailscale-dev/deck-tailscale) - Tailscale install script for the Steam Deck
 - [nakst/gf](https://github.com/nakst/gf) - A GDB frontend for Linux.
 - [lustryrose882/victus-control](https://github.com/lustryrose882/victus-control) - An utility tool for HP Victus 16-s1000 laptops. :3
 - [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK
