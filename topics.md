@@ -1277,6 +1277,7 @@
 
 ## others 
 
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [tailscale-dev/deck-tailscale](https://github.com/tailscale-dev/deck-tailscale) - Tailscale install script for the Steam Deck
 - [nakst/gf](https://github.com/nakst/gf) - A GDB frontend for Linux.
 - [lustryrose882/victus-control](https://github.com/lustryrose882/victus-control) - An utility tool for HP Victus 16-s1000 laptops. :3
@@ -1292,7 +1293,7 @@
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [mt190502/k8s](https://github.com/mt190502/k8s) - Kubernetes Setup
-- [danth/stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS
+- [danth/stylix](https://github.com/danth/stylix) - Theming framework for NixOS, Home Manager, and nix-darwin
 - [TenSoja/clear-cache](https://github.com/TenSoja/clear-cache) - Add-on to clear browser cache with a single click or via the F9 key.
 - [mt190502/dotfiles.nix](https://github.com/mt190502/dotfiles.nix) - 
 - [mt190502/gameserver-hl](https://github.com/mt190502/gameserver-hl) - 🎮 Half-Life Dedicated Server as a Docker image
@@ -1603,7 +1604,7 @@
 - [atilsamancioglu/TurkcellPython](https://github.com/atilsamancioglu/TurkcellPython) - 
 - [psifidotos/applet-window-buttons](https://github.com/psifidotos/applet-window-buttons) - Plasma 5 applet in order to show window buttons in your panels
 - [gottcode/xfce4-whiskermenu-plugin](https://github.com/gottcode/xfce4-whiskermenu-plugin) - Alternate Xfce menu.
-- [KDE/kwin](https://github.com/KDE/kwin) - Easy to use, but flexible, X Window Manager and Wayland Compositor
+- [KDE/kwin](https://github.com/KDE/kwin) - Easy to use, but flexible, Wayland Compositor
 - [muratali016/AI-plays-games-](https://github.com/muratali016/AI-plays-games-) - 
 - [johnthebrit/CertificationMaterials](https://github.com/johnthebrit/CertificationMaterials) - A collection of materials related to my certification videos
 - [usdogu/blog](https://github.com/usdogu/blog) - My blog
