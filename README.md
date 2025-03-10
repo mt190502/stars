@@ -260,7 +260,7 @@
 - [SuperTux/supertux](https://github.com/SuperTux/supertux) - SuperTux source code
 - [psifidotos/applet-window-buttons](https://github.com/psifidotos/applet-window-buttons) - Plasma 5 applet in order to show window buttons in your panels
 - [gottcode/xfce4-whiskermenu-plugin](https://github.com/gottcode/xfce4-whiskermenu-plugin) - Alternate Xfce menu.
-- [KDE/kwin](https://github.com/KDE/kwin) - Easy to use, but flexible, X Window Manager and Wayland Compositor
+- [KDE/kwin](https://github.com/KDE/kwin) - Easy to use, but flexible, Wayland Compositor
 - [GhostNaN/recidia-audio-visualizer](https://github.com/GhostNaN/recidia-audio-visualizer) - A highly customizable real time audio visualizer on Linux
 - [rpm-software-management/libdnf](https://github.com/rpm-software-management/libdnf) - Package management library.
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
@@ -571,7 +571,7 @@
 
 ## Mustache 
 
-- [danth/stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS
+- [danth/stylix](https://github.com/danth/stylix) - Theming framework for NixOS, Home Manager, and nix-darwin
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators.
 
 ## Nim 
