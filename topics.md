@@ -1564,7 +1564,6 @@
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 2.10+ for Photoshop Users
 - [nikneym/buffy.h](https://github.com/nikneym/buffy.h) - Simple string buffer implementation in C
 - [xorg62/tty-clock](https://github.com/xorg62/tty-clock) - Clock using lib ncurses
-- [felixonmars/aur3-mirror](https://github.com/felixonmars/aur3-mirror) - Git archive of the Arch User Repository 3. (Cloned from pkgbuild.com/git/aur-mirror.git)
 - [SELinuxProject/selinux](https://github.com/SELinuxProject/selinux) - This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux
 - [KDE/breeze-icons](https://github.com/KDE/breeze-icons) - Breeze icon theme.
 - [Zren/plasma-applet-volumewin7mixer](https://github.com/Zren/plasma-applet-volumewin7mixer) - 
