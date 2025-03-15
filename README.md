@@ -932,6 +932,7 @@
 
 ## Swift 
 
+- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [swiftlang/swift-java](https://github.com/swiftlang/swift-java) - 
 - [kkebo/DNSecure](https://github.com/kkebo/DNSecure) - DNSecure is a configuration tool of DoT and DoH for iOS and iPadOS.
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
