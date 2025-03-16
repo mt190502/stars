@@ -678,7 +678,6 @@
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models
 - [mrvladus/Errands](https://github.com/mrvladus/Errands) - Todo application for those who prefer simplicity.
-- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [madeyexz/whisper_subtitle](https://github.com/madeyexz/whisper_subtitle) - uses Whisper from OpenAI to generate video subtitles automatically.
 - [JetBrains/colorSchemeTool](https://github.com/JetBrains/colorSchemeTool) - 
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -841,6 +840,7 @@
 - [tailscale-dev/deck-tailscale](https://github.com/tailscale-dev/deck-tailscale) - Tailscale install script for the Steam Deck
 - [saveside/dots.nix](https://github.com/saveside/dots.nix) - jomo dotfiles but as nix
 - [mt190502/dotfiles.nix](https://github.com/mt190502/dotfiles.nix) - 
+- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [marcan/takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
 - [Syakhisk/proxmox-minikube-knative](https://github.com/Syakhisk/proxmox-minikube-knative) - Proxmox Minikube Knative - Serverless Proof of Concept. This repository is a guide based on my final research project for my degree at Institut Teknologi Sepuluh Nopember.
