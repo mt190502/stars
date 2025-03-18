@@ -673,6 +673,7 @@
 
 ## Python 
 
+- [fedora-copr/copr](https://github.com/fedora-copr/copr) - RPM build system - upstream for https://copr.fedorainfracloud.org/
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
 - [jellyfin/mopidy-jellyfin](https://github.com/jellyfin/mopidy-jellyfin) - Jellyfin Extension for Mopidy
 - [eonpatapon/mpDris2](https://github.com/eonpatapon/mpDris2) - MPRIS V2.1 support for mpd
