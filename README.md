@@ -434,6 +434,7 @@
 
 ## JavaScript 
 
+- [extesy/hoverzoom](https://github.com/extesy/hoverzoom) - Google Chrome extension for zooming images on mouse hover
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [TenSoja/clear-cache](https://github.com/TenSoja/clear-cache) - Add-on to clear browser cache with a single click or via the F9 key.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
@@ -942,6 +943,7 @@
 
 ## TeX 
 
+- [dendibakh/perf-book](https://github.com/dendibakh/perf-book) - The book "Performance Analysis and Tuning on Modern CPU"
 - [oetiker/lshort](https://github.com/oetiker/lshort) - The Not So Short Introduction to LaTeX
 - [latex3/latex2e](https://github.com/latex3/latex2e) - The LaTeX2e kernel
 
