@@ -331,7 +331,7 @@
 
 ## c 
 
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 - [raifpy/Notes.c](https://github.com/raifpy/Notes.c) - My C assignment grades. Free to contribute
 - [friendlyanon/cmake-init](https://github.com/friendlyanon/cmake-init) - The missing CMake project initializer
@@ -788,7 +788,7 @@
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [jellyfin/mopidy-jellyfin](https://github.com/jellyfin/mopidy-jellyfin) - Jellyfin Extension for Mopidy
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) - 
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
