@@ -943,6 +943,7 @@
 
 ## TeX 
 
+- [kreatoo/cv-template](https://github.com/kreatoo/cv-template) - Kreato's CV template (also known as the worlds most overengineered CV), using Nix, LaTeX and GitHub Actions
 - [dendibakh/perf-book](https://github.com/dendibakh/perf-book) - The book "Performance Analysis and Tuning on Modern CPU"
 - [oetiker/lshort](https://github.com/oetiker/lshort) - The Not So Short Introduction to LaTeX
 - [latex3/latex2e](https://github.com/latex3/latex2e) - The LaTeX2e kernel
