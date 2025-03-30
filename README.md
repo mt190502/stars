@@ -673,6 +673,7 @@
 
 ## Python 
 
+- [anonfaded/QuranCLI](https://github.com/anonfaded/QuranCLI) - Your Terminal Companion for the Holy Quran: Read, Listen & Generate Subtitles for Video Editing!
 - [fedora-copr/copr](https://github.com/fedora-copr/copr) - RPM build system - upstream for https://copr.fedorainfracloud.org/
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
 - [jellyfin/mopidy-jellyfin](https://github.com/jellyfin/mopidy-jellyfin) - Jellyfin Extension for Mopidy
@@ -951,6 +952,7 @@
 
 ## TypeScript 
 
+- [mt190502/blog.mtaha.dev](https://github.com/mt190502/blog.mtaha.dev) - M.Taha's Blog
 - [bekh6ex/firefox-container-proxy](https://github.com/bekh6ex/firefox-container-proxy) - [Firefox extension] Assign a proxy to a Firefox container
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player
