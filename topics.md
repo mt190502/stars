@@ -1285,6 +1285,8 @@
 
 ## others 
 
+- [anonfaded/QuranCLI](https://github.com/anonfaded/QuranCLI) - Your Terminal Companion for the Holy Quran: Read, Listen & Generate Subtitles for Video Editing!
+- [mt190502/blog.mtaha.dev](https://github.com/mt190502/blog.mtaha.dev) - M.Taha's Blog
 - [kreatoo/cv-template](https://github.com/kreatoo/cv-template) - Kreato's CV template (also known as the worlds most overengineered CV), using Nix, LaTeX and GitHub Actions
 - [dendibakh/perf-book](https://github.com/dendibakh/perf-book) - The book "Performance Analysis and Tuning on Modern CPU"
 - [bekh6ex/firefox-container-proxy](https://github.com/bekh6ex/firefox-container-proxy) - [Firefox extension] Assign a proxy to a Firefox container
