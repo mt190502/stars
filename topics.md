@@ -1285,6 +1285,7 @@
 
 ## others 
 
+- [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel
 - [ayasa520/waydroid-helper](https://github.com/ayasa520/waydroid-helper) - 
 - [anonfaded/QuranCLI](https://github.com/anonfaded/QuranCLI) - Your Terminal Companion for the Holy Quran: Read, Listen & Generate Subtitles for Video Editing!
 - [mt190502/blog.mtaha.dev](https://github.com/mt190502/blog.mtaha.dev) - M.Taha's Blog
