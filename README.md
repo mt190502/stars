@@ -789,12 +789,14 @@
 
 ## Ruby 
 
+- [theforeman/foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
 
 ## Rust 
 
+- [reubeno/brush](https://github.com/reubeno/brush) - bash/POSIX-compatible shell implemented in Rust
 - [szclsya/mpdris2-rs](https://github.com/szclsya/mpdris2-rs) - Exposing MPRIS V2.2 D-Bus interface for mpd
 - [JakeStanger/mpd-discord-rpc](https://github.com/JakeStanger/mpd-discord-rpc) - Rust application which displays your currently playing song / album / artist from MPD in Discord using Rich Presence.
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
