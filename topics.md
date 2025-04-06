@@ -1290,6 +1290,7 @@
 
 ## others 
 
+- [mrliptontea/PurpleMine2](https://github.com/mrliptontea/PurpleMine2) - A free Redmine theme for modern browsers
 - [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm) - Universal Wayland Session Manager
 - [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel
 - [ayasa520/waydroid-helper](https://github.com/ayasa520/waydroid-helper) - 
