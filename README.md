@@ -674,6 +674,7 @@
 
 ## Python 
 
+- [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm) - Universal Wayland Session Manager
 - [ayasa520/waydroid-helper](https://github.com/ayasa520/waydroid-helper) - 
 - [anonfaded/QuranCLI](https://github.com/anonfaded/QuranCLI) - Your Terminal Companion for the Holy Quran: Read, Listen & Generate Subtitles for Video Editing!
 - [fedora-copr/copr](https://github.com/fedora-copr/copr) - RPM build system - upstream for https://copr.fedorainfracloud.org/
