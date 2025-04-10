@@ -959,6 +959,7 @@
 
 ## TypeScript 
 
+- [libbpf/bpfvv](https://github.com/libbpf/bpfvv) - 
 - [tegonhq/tegon](https://github.com/tegonhq/tegon) - Tegon is an open-source, dev-first alternative to Jira, Linear
 - [mt190502/blog.mtaha.dev](https://github.com/mt190502/blog.mtaha.dev) - M.Taha's Blog
 - [bekh6ex/firefox-container-proxy](https://github.com/bekh6ex/firefox-container-proxy) - [Firefox extension] Assign a proxy to a Firefox container
