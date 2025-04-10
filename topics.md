@@ -1322,7 +1322,7 @@
 - [danth/stylix](https://github.com/danth/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid
 - [TenSoja/clear-cache](https://github.com/TenSoja/clear-cache) - Add-on to clear browser cache with a single click or via the F9 key.
 - [mt190502/dotfiles.nix](https://github.com/mt190502/dotfiles.nix) - 
-- [mt190502/gameserver-hl](https://github.com/mt190502/gameserver-hl) - 🎮 Half-Life Dedicated Server as a Docker image
+- [LibreTurks/gameserver-hl](https://github.com/LibreTurks/gameserver-hl) - 🎮 Half-Life Dedicated Server as a Docker image
 - [mt190502/firerss](https://github.com/mt190502/firerss) - A RSS Scraper for Browsers
 - [nix-community/nix-user-chroot](https://github.com/nix-community/nix-user-chroot) - Install & Run nix without root permissions [maintainer=@Mic92]
 - [LacledesLAN/gamesvr-cssource](https://github.com/LacledesLAN/gamesvr-cssource) - Counter-Strike Source Dedicated Server in Docker
