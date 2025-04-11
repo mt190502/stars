@@ -541,7 +541,7 @@
 - [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - #mpv-android @ libera.chat
 - [LiberaTeMetuMortis/KotlinSpigotPluginTemplate](https://github.com/LiberaTeMetuMortis/KotlinSpigotPluginTemplate) - Basic Kotlin Spigot Plugin Template for plugin developers who wants to use Kotlin. You can clone this repo or create a fork. You can change name, version and main from plugin.yml and they will change 
 - [axel358/smartdock](https://github.com/axel358/smartdock) - A user-friendly desktop mode launcher that offers a modern and customizable user interface
-- [keymapperorg/KeyMapper](https://github.com/keymapperorg/KeyMapper) - An Android app that change what the buttons do on your devices!
+- [keymapperorg/KeyMapper](https://github.com/keymapperorg/KeyMapper) - An Android app to remap the buttons on your devices
 - [quran/quran_android](https://github.com/quran/quran_android) - a quran reading application for android
 
 ## LLVM 
