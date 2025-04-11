@@ -47,6 +47,7 @@
 - [deno](#deno)
 - [deployment](#deployment)
 - [design](#design)
+- [development](#development)
 - [devops](#devops)
 - [discord](#discord)
 - [django](#django)
@@ -220,7 +221,7 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [coderserdar/Documents](https://github.com/coderserdar/Documents) - This repo includes some kind of documentation files about Information Technologies like Programming, Operating Systems, Cyber Security, Algorithm, Mobile Development etc.
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
-- [keymapperorg/KeyMapper](https://github.com/keymapperorg/KeyMapper) - An Android app that change what the buttons do on your devices!
+- [keymapperorg/KeyMapper](https://github.com/keymapperorg/KeyMapper) - An Android app to remap the buttons on your devices
 - [quran/quran_android](https://github.com/quran/quran_android) - a quran reading application for android
 - [DantSu/ESCPOS-ThermalPrinter-Android](https://github.com/DantSu/ESCPOS-ThermalPrinter-Android) - Useful library to help Android developpers to print with (Bluetooth, TCP, USB) ESC/POS thermal printer.
 - [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
@@ -508,6 +509,11 @@
 
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [DinoChan/OnePomodoro](https://github.com/DinoChan/OnePomodoro) - OnePomodoro is just a simple podomoro technique app. Include some simple Pomodoro timers.
+
+## development 
+
+- [alimkoca/oshean](https://github.com/alimkoca/oshean) - oceanic shell for developers.
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 
 ## devops 
 
@@ -953,7 +959,7 @@
 - [Razeeman/Android-SimpleTimeTracker](https://github.com/Razeeman/Android-SimpleTimeTracker) - Simple app that tracks time.
 - [darshanparajuli/LogcatReader](https://github.com/darshanparajuli/LogcatReader) - A simple app for viewing logs on an android device.
 - [LiberaTeMetuMortis/KotlinSpigotPluginTemplate](https://github.com/LiberaTeMetuMortis/KotlinSpigotPluginTemplate) - Basic Kotlin Spigot Plugin Template for plugin developers who wants to use Kotlin. You can clone this repo or create a fork. You can change name, version and main from plugin.yml and they will change 
-- [keymapperorg/KeyMapper](https://github.com/keymapperorg/KeyMapper) - An Android app that change what the buttons do on your devices!
+- [keymapperorg/KeyMapper](https://github.com/keymapperorg/KeyMapper) - An Android app to remap the buttons on your devices
 
 ## kubernetes 
 
