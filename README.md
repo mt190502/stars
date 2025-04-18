@@ -492,7 +492,6 @@
 - [DBChoco/Muezzin](https://github.com/DBChoco/Muezzin) - A prayer times (Adhan) and Quran app for Windows, macOS and GNU/Linux.
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [shevabam/get-rss-feed-url-extension](https://github.com/shevabam/get-rss-feed-url-extension) - Retreive RSS feeds URLs from WebSite - Chrome Extension
-- [caglarturali/girizgah](https://github.com/caglarturali/girizgah) - LightDM Webkit theme for Pardus Linux. Based on https://github.com/NoiSek/Aether
 - [GooseMod/GooseMod](https://github.com/GooseMod/GooseMod) - GooseMod is a new, store-driven Discord mod.
 - [enolgor/ungoogled-chromium-extension-installer](https://github.com/enolgor/ungoogled-chromium-extension-installer) - Extension for Ungoogled Chromium that allows easy installation of extensions from Chrome webstore.
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
