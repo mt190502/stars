@@ -1553,7 +1553,6 @@
 - [MFDGaming/ubuntu-in-termux](https://github.com/MFDGaming/ubuntu-in-termux) - This is a script by which you can install Ubuntu in your termux application without a rooted device
 - [deviantfero/wpgtk](https://github.com/deviantfero/wpgtk) - :flower_playing_cards: a colorscheme, wallpaper and template manager for *nix
 - [OpenRC/openrc](https://github.com/OpenRC/openrc) - The OpenRC init system
-- [caglarturali/girizgah](https://github.com/caglarturali/girizgah) - LightDM Webkit theme for Pardus Linux. Based on https://github.com/NoiSek/Aether
 - [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
 - [jtheoof/swappy](https://github.com/jtheoof/swappy) - A Wayland native snapshot editing tool, inspired by Snappy on macOS
 - [aurum77/.dotfiles](https://github.com/aurum77/.dotfiles) - 
