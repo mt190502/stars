@@ -164,6 +164,7 @@
 - [swiftui](#swiftui)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
+- [telegram-bot](#telegram-bot)
 - [terminal](#terminal)
 - [termux](#termux)
 - [terraform](#terraform)
@@ -2025,6 +2026,12 @@
 - [go-telegram/bot](https://github.com/go-telegram/bot) - Telegram Bot API Go framework
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
+- [yusufusta/AsenaUserBot](https://github.com/yusufusta/AsenaUserBot) - Asena UserBot is the most advantageous and fast UserBot with changeable language and permanent plugin system.
+
+## telegram-bot 
+
+- [go-telegram/bot](https://github.com/go-telegram/bot) - Telegram Bot API Go framework
+- [UsergeTeam/Userge](https://github.com/UsergeTeam/Userge) - Userge, Durable as a Serge
 - [yusufusta/AsenaUserBot](https://github.com/yusufusta/AsenaUserBot) - Asena UserBot is the most advantageous and fast UserBot with changeable language and permanent plugin system.
 
 ## terminal 
