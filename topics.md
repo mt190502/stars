@@ -529,6 +529,7 @@
 
 ## discord 
 
+- [DiscordFS/DiscordFS](https://github.com/DiscordFS/DiscordFS) - Use Discord as your personal cloud storage. Integrated natively with Windows Explorer.
 - [JakeStanger/mpd-discord-rpc](https://github.com/JakeStanger/mpd-discord-rpc) - Rust application which displays your currently playing song / album / artist from MPD in Discord using Rich Presence.
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
@@ -2137,6 +2138,7 @@
 
 ## windows 
 
+- [DiscordFS/DiscordFS](https://github.com/DiscordFS/DiscordFS) - Use Discord as your personal cloud storage. Integrated natively with Windows Explorer.
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [0xzer0x/quran-companion](https://github.com/0xzer0x/quran-companion) - Free and open-source desktop Quran reader and player 💻
