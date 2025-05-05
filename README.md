@@ -195,6 +195,7 @@
 
 ## C# # 
 
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [DiscordFS/DiscordFS](https://github.com/DiscordFS/DiscordFS) - Use Discord as your personal cloud storage. Integrated natively with Windows Explorer.
 - [emberstack/kubernetes-reflector](https://github.com/emberstack/kubernetes-reflector) - Custom Kubernetes controller that can be used to replicate secrets, configmaps and certificates.
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
