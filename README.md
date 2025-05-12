@@ -424,6 +424,7 @@
 
 ## Java 
 
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted personal RSS reader.
 - [maytinhdibo/battery-friendly-pocketmode](https://github.com/maytinhdibo/battery-friendly-pocketmode) - Support me
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
@@ -810,6 +811,7 @@
 
 ## Rust 
 
+- [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
 - [reubeno/brush](https://github.com/reubeno/brush) - bash/POSIX-compatible shell implemented in Rust
 - [szclsya/mpdris2-rs](https://github.com/szclsya/mpdris2-rs) - Exposing MPRIS V2.2 D-Bus interface for mpd
 - [JakeStanger/mpd-discord-rpc](https://github.com/JakeStanger/mpd-discord-rpc) - Rust application which displays your currently playing song / album / artist from MPD in Discord using Rich Presence.
