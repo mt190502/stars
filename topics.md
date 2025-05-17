@@ -1369,7 +1369,7 @@
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [mt190502/k8s](https://github.com/mt190502/k8s) - Kubernetes Setup
-- [danth/stylix](https://github.com/danth/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid
+- [danth/stylix](https://github.com/danth/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@awwpotato, @danth, @trueNAHO]
 - [TenSoja/clear-cache](https://github.com/TenSoja/clear-cache) - Add-on to clear browser cache with a single click or via the F9 key.
 - [mt190502/dotfiles.nix](https://github.com/mt190502/dotfiles.nix) - 
 - [LibreTurks/gameserver-hl](https://github.com/LibreTurks/gameserver-hl) - 🎮 Half-Life Dedicated Server as a Docker image
