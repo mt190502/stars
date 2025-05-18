@@ -812,6 +812,7 @@
 
 ## Rust 
 
+- [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - [szclsya/mpdris2-rs](https://github.com/szclsya/mpdris2-rs) - Exposing MPRIS V2.2 D-Bus interface for mpd
