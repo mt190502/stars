@@ -32,7 +32,6 @@
 - [Less](#less)
 - [Lua](#lua)
 - [Makefile](#makefile)
-- [Mustache](#mustache)
 - [Nim](#nim)
 - [Nix](#nix)
 - [Objective-C](#objective-c)
@@ -587,10 +586,6 @@
 - [supremegamers/vendor_intel_proprietary_houdini](https://github.com/supremegamers/vendor_intel_proprietary_houdini) - 
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 
-## Mustache 
-
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators.
-
 ## Nim 
 
 - [tsoding/boomer](https://github.com/tsoding/boomer) - Zoomer application for Linux
@@ -953,6 +948,7 @@
 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) - 
 - [mt190502/helm-charts](https://github.com/mt190502/helm-charts) - 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators.
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 
 ## Svelte 
