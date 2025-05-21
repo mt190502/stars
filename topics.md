@@ -1357,7 +1357,7 @@
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [tailscale-dev/deck-tailscale](https://github.com/tailscale-dev/deck-tailscale) - Tailscale install script for the Steam Deck
 - [nakst/gf](https://github.com/nakst/gf) - A GDB frontend for Linux.
-- [lustryrose882/victus-control](https://github.com/lustryrose882/victus-control) - An utility tool for HP Victus 16-s1000 laptops. :3
+- [betelqeyza/victus-control](https://github.com/betelqeyza/victus-control) - An utility tool for HP Victus 16-s1000 laptops. :3
 - [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK
 - [szclsya/mpdris2-rs](https://github.com/szclsya/mpdris2-rs) - Exposing MPRIS V2.2 D-Bus interface for mpd
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
