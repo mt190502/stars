@@ -495,7 +495,7 @@
 - [cryptee/web-client](https://github.com/cryptee/web-client) - Cryptee's web client source code for all platforms.
 - [iltekin/dahi-anlamindaki-de](https://github.com/iltekin/dahi-anlamindaki-de) - 
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
-- [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - Complete open source web conferencing system.
+- [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - A complete web conferencing system for virtual classes and more!
 - [rotemdan/ExportCookies](https://github.com/rotemdan/ExportCookies) - WebExtension to export cookies to a Netscape format cookies.txt file.
 - [mt190502/my-empty-obsidian-vault](https://github.com/mt190502/my-empty-obsidian-vault) - 
 - [mozilla/side-view](https://github.com/mozilla/side-view) - An experiment with opening mobile views of pages in the sidebar
