@@ -845,7 +845,6 @@
 - [AsteroidOS/unofficial-watchfaces](https://github.com/AsteroidOS/unofficial-watchfaces) - Database of community-made watchfaces for AsteroidOS.
 - [EasyEngine/easyengine](https://github.com/EasyEngine/easyengine) - Command-line control panel for Nginx Server to manage WordPress sites running on Nginx, PHP, MySQL, and Let's Encrypt
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
-- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [tsoding/boomer](https://github.com/tsoding/boomer) - Zoomer application for Linux
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [openandroidinstaller-dev/openandroidinstaller](https://github.com/openandroidinstaller-dev/openandroidinstaller) - Makes installing alternative Android distributions nice and easy.
