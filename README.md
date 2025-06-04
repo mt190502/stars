@@ -353,7 +353,7 @@
 - [caddyserver/ingress](https://github.com/caddyserver/ingress) - WIP Caddy 2 ingress controller for Kubernetes
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [go-telegram/bot](https://github.com/go-telegram/bot) - Telegram Bot API Go framework
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
+- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [go-latex/latex](https://github.com/go-latex/latex) - Go package for LaTeX
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
