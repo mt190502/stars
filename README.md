@@ -814,6 +814,7 @@
 
 ## Rust 
 
+- [0l3d/ffetch](https://github.com/0l3d/ffetch) - F-Fetch targets low-spec systems. Written in Rust. It's very simple, designed so you can pick it up and replace it.
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
