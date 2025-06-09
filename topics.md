@@ -1340,6 +1340,7 @@
 
 ## others 
 
+- [0l3d/ffetch](https://github.com/0l3d/ffetch) - F-Fetch targets low-spec systems. Written in Rust. It's very simple, designed so you can pick it up and replace it.
 - [xeome/slimserve](https://github.com/xeome/slimserve) - 
 - [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
