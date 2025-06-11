@@ -1341,6 +1341,8 @@
 
 ## others 
 
+- [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
 - [0l3d/ffetch](https://github.com/0l3d/ffetch) - F-Fetch targets low-spec systems. Written in Rust. It's very simple, designed so you can pick it up and replace it.
 - [xeome/slimserve](https://github.com/xeome/slimserve) - 
 - [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android
@@ -2085,6 +2087,7 @@
 
 ## terminal 
 
+- [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [directvt/vtm](https://github.com/directvt/vtm) - Text-based desktop environment
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
