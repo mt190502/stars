@@ -90,6 +90,7 @@
 - [ios](#ios)
 - [java](#java)
 - [javascript](#javascript)
+- [jenkins](#jenkins)
 - [js](#js)
 - [json](#json)
 - [kotlin](#kotlin)
@@ -963,6 +964,10 @@
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [tayfunerbilen/30-gunde-javascript](https://github.com/tayfunerbilen/30-gunde-javascript) - 30 Günde Javascript, orijinali "30 days of challenge" olan ve adım adım 30 günde javascript öğretmeyi hedefleyen bir deneyimdir.
 - [Splode/pomotroid](https://github.com/Splode/pomotroid) - :tomato: Simple and visually-pleasing Pomodoro timer
+
+## jenkins 
+
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
 
 ## js 
 
