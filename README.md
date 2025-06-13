@@ -478,7 +478,6 @@
 - [jgraph/drawio-nextcloud](https://github.com/jgraph/drawio-nextcloud) - Fork from 2022 nextcloud repo
 - [nextcloud/integration_github](https://github.com/nextcloud/integration_github) - 🐙 GitHub integration into Nextcloud
 - [ettoolong/PopupWindow](https://github.com/ettoolong/PopupWindow) - Firefox add-on, move tab to standalone window, without tabs bar, navigation bar and bookmark bar UI.
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Dotfiles built for usability.
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [Soushi-Atsumi/Open-in-Popup](https://github.com/Soushi-Atsumi/Open-in-Popup) - Very simple and useful extension. You can open a link in the popup.
 - [Soushi-Atsumi/Open-in-Sidebar](https://github.com/Soushi-Atsumi/Open-in-Sidebar) - Very simple and useful extension. You can open a link in the sidebar.
@@ -793,6 +792,7 @@
 ## QML 
 
 - [AsteroidOS/unofficial-watchfaces](https://github.com/AsteroidOS/unofficial-watchfaces) - Database of community-made watchfaces for AsteroidOS.
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Dotfiles built for usability.
 - [adhec/launchpad-plasma](https://github.com/adhec/launchpad-plasma) - Launchpad plasmoid for Plasma
 - [adhec/dittoMenuKDE](https://github.com/adhec/dittoMenuKDE) - Menu launcher for plasma KDE
 - [maliit/keyboard](https://github.com/maliit/keyboard) - Maliit Keyboard, a free software virtual keyboard for Linux
