@@ -563,6 +563,7 @@
 
 ## docker 
 
+- [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs) - macOS: mount any linux-supported filesystem read/write using NFS and a microVM
 - [nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes) - A curated list of awesome references collected since 2018.
 - [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
@@ -1044,6 +1045,7 @@
 
 ## linux 
 
+- [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs) - macOS: mount any linux-supported filesystem read/write using NFS and a microVM
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [mrvladus/Errands](https://github.com/mrvladus/Errands) - Todo application for those who prefer simplicity.
@@ -1154,6 +1156,7 @@
 
 ## macos 
 
+- [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs) - macOS: mount any linux-supported filesystem read/write using NFS and a microVM
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
