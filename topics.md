@@ -1235,6 +1235,7 @@
 
 ## music 
 
+- [htkhiem/euphonica](https://github.com/htkhiem/euphonica) - An MPD client with delusions of grandeur, made with Rust, GTK and Libadwaita.
 - [vaxerski/Vermilion](https://github.com/vaxerski/Vermilion) - Vermilion is a clean, minimal and simple music player for MPD, Tidal, Spotify and more.
 - [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon
 - [JakeStanger/mpd-discord-rpc](https://github.com/JakeStanger/mpd-discord-rpc) - Rust application which displays your currently playing song / album / artist from MPD in Discord using Rich Presence.
@@ -1954,6 +1955,7 @@
 
 ## rust 
 
+- [htkhiem/euphonica](https://github.com/htkhiem/euphonica) - An MPD client with delusions of grandeur, made with Rust, GTK and Libadwaita.
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
