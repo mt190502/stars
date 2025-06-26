@@ -320,6 +320,7 @@
 
 ## Go 
 
+- [erencanucarr/imapsync](https://github.com/erencanucarr/imapsync) - 
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [xeome/slimserve](https://github.com/xeome/slimserve) - 
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
