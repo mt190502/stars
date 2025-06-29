@@ -320,6 +320,7 @@
 
 ## Go 
 
+- [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
 - [erencanucarr/imapsync](https://github.com/erencanucarr/imapsync) - 
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [xeome/slimserve](https://github.com/xeome/slimserve) - 
