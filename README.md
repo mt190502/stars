@@ -82,6 +82,7 @@
 
 ## C 
 
+- [ValveSoftware/wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice
 - [sched-ext/scx](https://github.com/sched-ext/scx) - sched_ext schedulers and tools
 - [xdp-project/xdp-tutorial](https://github.com/xdp-project/xdp-tutorial) - XDP tutorial
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
