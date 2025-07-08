@@ -214,6 +214,7 @@
 
 ## C++ 
 
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [directvt/vtm](https://github.com/directvt/vtm) - Text-based desktop environment
 - [betelqeyza/victus-control](https://github.com/betelqeyza/victus-control) - An utility tool for HP Victus 16-s1000 laptops. :3
 - [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK
