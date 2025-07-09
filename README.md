@@ -82,6 +82,7 @@
 
 ## C 
 
+- [j-kaltes/Juggluco](https://github.com/j-kaltes/Juggluco) - Android app for Freestyle Libre 1,2 and 3, Dexcom G7/ONE+ and Sibionics GS1Sb sensors
 - [ValveSoftware/wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice
 - [sched-ext/scx](https://github.com/sched-ext/scx) - sched_ext schedulers and tools
 - [xdp-project/xdp-tutorial](https://github.com/xdp-project/xdp-tutorial) - XDP tutorial
