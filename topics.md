@@ -609,7 +609,7 @@
 
 ## dotfiles 
 
-- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
 - [kkebo/dotfiles](https://github.com/kkebo/dotfiles) - 
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Rice built for usability
 - [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
