@@ -867,7 +867,7 @@
 
 ## SCSS 
 
-- [mrliptontea/PurpleMine2](https://github.com/mrliptontea/PurpleMine2) - A free Redmine theme for modern browsers
+- [mrliptontea/PurpleMine2](https://github.com/mrliptontea/PurpleMine2) - Theme for Redmine 3.x - 4.x. For newer, see: https://github.com/gagnieray/opale
 - [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3) - The theme from libadwaita ported to GTK-3
 - [HugoBlox/theme-portfolio](https://github.com/HugoBlox/theme-portfolio) - Easily create your own portfolio website with Hugo.
 - [adi1090x/widgets](https://github.com/adi1090x/widgets) - Few widgets for Eww, Elkowar’s Wacky Widgets.
