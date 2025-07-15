@@ -868,6 +868,7 @@
 
 ## SCSS 
 
+- [gagnieray/opale](https://github.com/gagnieray/opale) - A Redmine 5.x - 6.x theme
 - [mrliptontea/PurpleMine2](https://github.com/mrliptontea/PurpleMine2) - Theme for Redmine 3.x - 4.x. For newer, see: https://github.com/gagnieray/opale
 - [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3) - The theme from libadwaita ported to GTK-3
 - [HugoBlox/theme-portfolio](https://github.com/HugoBlox/theme-portfolio) - Easily create your own portfolio website with Hugo.
