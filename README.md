@@ -323,6 +323,7 @@
 
 ## Go 
 
+- [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
 - [erencanucarr/imapsync](https://github.com/erencanucarr/imapsync) - 
