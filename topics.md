@@ -1574,7 +1574,6 @@
 - [openSUSE/scout](https://github.com/openSUSE/scout) - Scout - commmandline tool for command-not-found operations
 - [xeome/JomOS](https://github.com/xeome/JomOS) - scripts for conversion to jomOS
 - [Paragon-Software-Group/linux-ntfs3](https://github.com/Paragon-Software-Group/linux-ntfs3) - Linux kernel source tree
-- [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [aaronsvk/CVE-2022-30075](https://github.com/aaronsvk/CVE-2022-30075) - Tp-Link Archer AX50 Authenticated RCE (CVE-2022-30075)
 - [rozniak/xfce-winxp-tc](https://github.com/rozniak/xfce-winxp-tc) - Windows XP stuff for XFCE
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
