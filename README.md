@@ -814,6 +814,7 @@
 
 ## Ruby 
 
+- [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps
 - [theforeman/foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
