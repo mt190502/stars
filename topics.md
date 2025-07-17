@@ -1368,6 +1368,7 @@
 
 ## others 
 
+- [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps
 - [gagnieray/opale](https://github.com/gagnieray/opale) - A Redmine 5.x - 6.x theme
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [monobilisim/monokit-ui](https://github.com/monobilisim/monokit-ui) - 
@@ -1381,7 +1382,7 @@
 - [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
-- [kreatoo/krea.to](https://github.com/kreatoo/krea.to) - krea.to site
+- [bouquet2/krea.to](https://github.com/bouquet2/krea.to) - krea.to site
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [libbpf/bpfvv](https://github.com/libbpf/bpfvv) - 
 - [sounddrill31/crave_aosp_builder](https://github.com/sounddrill31/crave_aosp_builder) - Build android ROMs using github actions! Also automatically releases them here for easy OTA setup
