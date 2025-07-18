@@ -1064,6 +1064,7 @@
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
 - [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs) - macOS: mount any linux-supported filesystem read/write using NFS and a microVM
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
+- [libbpf/bpfvv](https://github.com/libbpf/bpfvv) - A tool to help programmers debug and analyze Linux Kernel BPF verification failures.
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [mrvladus/Errands](https://github.com/mrvladus/Errands) - Todo application for those who prefer simplicity.
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
@@ -1384,7 +1385,6 @@
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [bouquet2/krea.to](https://github.com/bouquet2/krea.to) - krea.to site
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
-- [libbpf/bpfvv](https://github.com/libbpf/bpfvv) - 
 - [sounddrill31/crave_aosp_builder](https://github.com/sounddrill31/crave_aosp_builder) - Build android ROMs using github actions! Also automatically releases them here for easy OTA setup
 - [mrliptontea/PurpleMine2](https://github.com/mrliptontea/PurpleMine2) - Theme for Redmine 3.x - 4.x. For newer, see: https://github.com/gagnieray/opale
 - [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm) - Universal Wayland Session Manager
