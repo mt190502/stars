@@ -641,7 +641,7 @@
 - [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 - [mt190502/mt190502](https://github.com/mt190502/mt190502) - 
 - [ezgiturali/Machine-Learning-Deep-Learning-Resources](https://github.com/ezgiturali/Machine-Learning-Deep-Learning-Resources) - 
-- [zee-shan-ahmad/learn-regex](https://github.com/zee-shan-ahmad/learn-regex) - Learn regex the easy way
+- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [LogicWavelength/Manjaro-Stuff](https://github.com/LogicWavelength/Manjaro-Stuff) - 
 - [flathub/com.valvesoftware.Steam.CompatibilityTool.Proton-GE](https://github.com/flathub/com.valvesoftware.Steam.CompatibilityTool.Proton-GE) - 
 - [waydroid/docs](https://github.com/waydroid/docs) - 
