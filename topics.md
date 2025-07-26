@@ -1645,7 +1645,7 @@
 - [yucellmustafa/yucellmustafa.github.io](https://github.com/yucellmustafa/yucellmustafa.github.io) - sadece minimalist, kişisel bir blog
 - [GooseMod/GooseMod](https://github.com/GooseMod/GooseMod) - GooseMod is a new, store-driven Discord mod.
 - [nikneym/picodns](https://github.com/nikneym/picodns) - Caching and non-blocking DNS resolver for Lua
-- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
+- [zee-shan-ahmad/learn-regex](https://github.com/zee-shan-ahmad/learn-regex) - Learn regex the easy way
 - [x0b/rcx](https://github.com/x0b/rcx) - Rclone for Android
 - [enolgor/ungoogled-chromium-extension-installer](https://github.com/enolgor/ungoogled-chromium-extension-installer) - Extension for Ungoogled Chromium that allows easy installation of extensions from Chrome webstore.
 - [gohugoio/hugoThemes](https://github.com/gohugoio/hugoThemes) - A curated directory of Hugo themes
