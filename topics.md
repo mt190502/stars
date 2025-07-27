@@ -433,6 +433,7 @@
 - [dmi3/bin](https://github.com/dmi3/bin) - Useful scripts and configs for Linux users
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 
 ## clojure 
 
@@ -1386,6 +1387,7 @@
 
 ## others 
 
+- [vivoblueos/kernel](https://github.com/vivoblueos/kernel) - 
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps
 - [gagnieray/opale](https://github.com/gagnieray/opale) - A Redmine 5.x - 6.x theme
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
