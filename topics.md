@@ -1388,6 +1388,7 @@
 
 ## others 
 
+- [fdesc/8paste](https://github.com/fdesc/8paste) - simple paste service
 - [vivoblueos/kernel](https://github.com/vivoblueos/kernel) - 
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps
 - [gagnieray/opale](https://github.com/gagnieray/opale) - A Redmine 5.x - 6.x theme
