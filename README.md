@@ -403,7 +403,6 @@
 - [utkusen/wholeaked](https://github.com/utkusen/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage
 - [coreos/go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
-- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [hugolgst/rich-go](https://github.com/hugolgst/rich-go) - Discord Rich Presence implementation for Linux, macOS and Windows in Golang
 - [raifpy/ClipBoardTranslater](https://github.com/raifpy/ClipBoardTranslater) - Cross Platform ClipBoard Translater. Made with Golang
 - [codeksion/PhishDroid](https://github.com/codeksion/PhishDroid) - Simple Phishing Application For Education :')
