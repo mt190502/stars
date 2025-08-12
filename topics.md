@@ -1388,6 +1388,7 @@
 
 ## others 
 
+- [bouquet2/bug](https://github.com/bouquet2/bug) - Simple and easy-to-use reverse proxy/load balancer
 - [kreatolinux/kpkg-repo](https://github.com/kreatolinux/kpkg-repo) - Official repository for Kreato Linux.
 - [fdesc/8paste](https://github.com/fdesc/8paste) - simple paste service
 - [vivoblueos/kernel](https://github.com/vivoblueos/kernel) - 
