@@ -1396,6 +1396,7 @@
 
 ## others 
 
+- [usdogu/zkitap2pdf](https://github.com/usdogu/zkitap2pdf) - z-Kitap -&gt; PDF dönüştürücü
 - [cyprieng/github-breakout](https://github.com/cyprieng/github-breakout) - Generate a Breakout game SVG from a GitHub user's contributions graph
 - [bouquet2/bug](https://github.com/bouquet2/bug) - Simple and easy-to-use reverse proxy/load balancer
 - [kreatolinux/kpkg-repo](https://github.com/kreatolinux/kpkg-repo) - Official repository for Kreato Linux.
