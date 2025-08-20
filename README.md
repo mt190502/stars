@@ -323,6 +323,7 @@
 
 ## Go 
 
+- [usdogu/zkitap2pdf](https://github.com/usdogu/zkitap2pdf) - z-Kitap -&gt; PDF dönüştürücü
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [bouquet2/bug](https://github.com/bouquet2/bug) - Simple and easy-to-use reverse proxy/load balancer
 - [fdesc/8paste](https://github.com/fdesc/8paste) - simple paste service
