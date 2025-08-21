@@ -1493,7 +1493,7 @@
 - [jiangcuo/pxvirt](https://github.com/jiangcuo/pxvirt) - A fork of Proxmox VE for ARM and LoongArch architectures
 - [maytinhdibo/battery-friendly-pocketmode](https://github.com/maytinhdibo/battery-friendly-pocketmode) - Support me
 - [jdinhify/vscode-theme-gruvbox](https://github.com/jdinhify/vscode-theme-gruvbox) - Gruvbox theme for vscode based on https://github.com/morhetz/gruvbox
-- [DiscordMessenger/dm](https://github.com/DiscordMessenger/dm) - Discord Messenger is a free Discord-compatible messaging client that works on almost 30 years of Windows.
+- [DiscordMessenger/dm](https://github.com/DiscordMessenger/dm) - Discord Messenger is a free Discord-compatible messaging client that works on 30 years of Windows versions.
 - [go-latex/latex](https://github.com/go-latex/latex) - Go package for LaTeX
 - [kreatoo/uptime-kuma-playbook-pub](https://github.com/kreatoo/uptime-kuma-playbook-pub) - 
 - [LineageOS/android_hardware_samsung](https://github.com/LineageOS/android_hardware_samsung) - 
