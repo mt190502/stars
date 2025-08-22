@@ -703,7 +703,7 @@
 
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm) - Universal Wayland Session Manager
-- [ayasa520/waydroid-helper](https://github.com/ayasa520/waydroid-helper) - 
+- [waydroid-helper/waydroid-helper](https://github.com/waydroid-helper/waydroid-helper) - 
 - [anonfaded/QuranCLI](https://github.com/anonfaded/QuranCLI) - Your Terminal Companion for the Holy Quran: Read, Listen & Generate Subtitles for Video Editing!
 - [fedora-copr/copr](https://github.com/fedora-copr/copr) - RPM build system - upstream for https://copr.fedorainfracloud.org/
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
