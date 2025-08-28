@@ -555,7 +555,7 @@
 
 ## Just 
 
-- [martinpitt/ostree-pitti-workstation](https://github.com/martinpitt/ostree-pitti-workstation) - Fedora minimal sway developer desktop OSTree
+- [martinpitt/ostree-pitti-workstation](https://github.com/martinpitt/ostree-pitti-workstation) - Obsolete, superseded by https://github.com/martinpitt/workstation-bootc
 
 ## Kotlin 
 
