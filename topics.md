@@ -1632,7 +1632,7 @@
 - [silenc3r/fedora-better-fonts](https://github.com/silenc3r/fedora-better-fonts) - Better looking fonts for Fedora
 - [mt190502/customized-fedora-baseimage-ostree](https://github.com/mt190502/customized-fedora-baseimage-ostree) - 
 - [RainCat1998/obsidian-custom-attachment-location](https://github.com/RainCat1998/obsidian-custom-attachment-location) - Customize attachment location with variables($filename, $data, etc) like typora.
-- [martinpitt/ostree-pitti-workstation](https://github.com/martinpitt/ostree-pitti-workstation) - Fedora minimal sway developer desktop OSTree
+- [martinpitt/ostree-pitti-workstation](https://github.com/martinpitt/ostree-pitti-workstation) - Obsolete, superseded by https://github.com/martinpitt/workstation-bootc
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
 - [sodaliterocks/sodalite](https://github.com/sodaliterocks/sodalite) - 🪨 A Pantheon experience for rpm-ostree
 - [IlanCosman/tide](https://github.com/IlanCosman/tide) - 🌊 The ultimate Fish prompt.
