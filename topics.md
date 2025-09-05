@@ -564,7 +564,7 @@
 - [fieu/discord.sh](https://github.com/fieu/discord.sh) - Write-only command-line Discord webhooks integration written in 100% Bash script
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 - [ckt1031/DraconianBot](https://github.com/ckt1031/DraconianBot) - With its robust performance, intuitive design, and vast array of functionalities, the Draconian Bot is the ultimate solution for all your needs.
-- [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
+- [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord modification
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [Cogmasters/concord](https://github.com/Cogmasters/concord) - A Discord API wrapper library made in C
 - [lazypwny751/manyak.py](https://github.com/lazypwny751/manyak.py) - Manyak.py is a discord.py based discord bot
