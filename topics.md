@@ -96,6 +96,7 @@
 - [jenkins](#jenkins)
 - [js](#js)
 - [json](#json)
+- [kali-linux](#kali-linux)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -1024,6 +1025,10 @@
 - [codyogden/killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google's doomed apps, services, and hardware.
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
+
+## kali-linux 
+
+- [Linux-Dersleri/linux-dersleri.github.io](https://github.com/Linux-Dersleri/linux-dersleri.github.io) - Linux Dokümantasyonu Web Platformu
 
 ## kotlin 
 
