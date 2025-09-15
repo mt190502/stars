@@ -188,6 +188,7 @@
 - [vpn](#vpn)
 - [vue](#vue)
 - [web](#web)
+- [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
@@ -533,6 +534,7 @@
 
 ## design 
 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [DinoChan/OnePomodoro](https://github.com/DinoChan/OnePomodoro) - OnePomodoro is just a simple podomoro technique app. Include some simple Pomodoro timers.
 
@@ -544,6 +546,7 @@
 
 ## development 
 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [alimkoca/oshean](https://github.com/alimkoca/oshean) - oceanic shell for developers.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 
@@ -1412,6 +1415,7 @@
 
 ## others 
 
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [usdogu/zkitap2pdf](https://github.com/usdogu/zkitap2pdf) - z-Kitap -&gt; PDF dönüştürücü
 - [cyprieng/github-breakout](https://github.com/cyprieng/github-breakout) - Generate a Breakout game SVG from a GitHub user's contributions graph
 - [bouquet2/bug](https://github.com/bouquet2/bug) - Simple and easy-to-use reverse proxy/load balancer
@@ -1907,6 +1911,7 @@
 
 ## programming 
 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 
 ## project-management 
@@ -1925,6 +1930,7 @@
 
 ## python 
 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
 - [mrvladus/Errands](https://github.com/mrvladus/Errands) - Todo application for those who prefer simplicity.
 - [madeyexz/whisper_subtitle](https://github.com/madeyexz/whisper_subtitle) - uses Whisper from OpenAI to generate video subtitles automatically.
@@ -2298,8 +2304,13 @@
 
 ## web 
 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+
+## webapp 
+
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## website 
 
