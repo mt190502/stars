@@ -124,6 +124,7 @@
 - [node](#node)
 - [nodejs](#nodejs)
 - [npm](#npm)
+- [obsidian](#obsidian)
 - [obsidian-md](#obsidian-md)
 - [obsidian-plugin](#obsidian-plugin)
 - [open-data](#open-data)
@@ -1356,6 +1357,13 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
+
+## obsidian 
+
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
+- [IdreesInc/Waypoint](https://github.com/IdreesInc/Waypoint) - Obsidian plugin that gives you the power to generate dynamic MOCs in your folder notes. Enables folders to show up in the graph view and removes the need for messy tags!
+- [mgmeyers/obsidian-kanban](https://github.com/mgmeyers/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 
 ## obsidian-md 
 
