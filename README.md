@@ -613,7 +613,7 @@
 - [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@awwpotato, @danth, @trueNAHO]
 - [mt190502/dotfiles.nix](https://github.com/mt190502/dotfiles.nix) - 
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
-- [kreatoo/dots-mac](https://github.com/kreatoo/dots-mac) - Dotfiles for my Macbook, Managed using nix-darwin
+- [kreatoo/dots-mac](https://github.com/kreatoo/dots-mac) - Dotfiles for macOS, managed using nix-darwin
 - [usdogu/dotfiles.nix](https://github.com/usdogu/dotfiles.nix) - 
 
 ## Objective-C 
