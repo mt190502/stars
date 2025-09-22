@@ -796,7 +796,6 @@
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [yazbel/python](https://github.com/yazbel/python) - YazBel Python Belgeleri; En kapsamlı ve ayrıntılı Türkçe Python belgelendirmesi
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [coderatornet/Pycade](https://github.com/coderatornet/Pycade) - Fun arcade game - Made with Pygame
 - [hugolabe/Wike](https://github.com/hugolabe/Wike) - Wikipedia Reader for the GNOME Desktop
 - [ThemeSaverApp/themesaver](https://github.com/ThemeSaverApp/themesaver) - This is a program that will help you to save your different Linux rice and apply them without rebooting.
@@ -968,6 +967,7 @@
 - [dmi3/bin](https://github.com/dmi3/bin) - Useful scripts and configs for Linux users
 - [caglarturali/catalina-dynamic-wallpaper](https://github.com/caglarturali/catalina-dynamic-wallpaper) - macOS Catalina dynamic wallpaper for KDE Plasma 5 and DDE.
 - [adi1090x/dynamic-wallpaper](https://github.com/adi1090x/dynamic-wallpaper) - A simple bash script to set wallpapers according to current time, using cron job scheduler.
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [archlinuxhardened/selinux](https://github.com/archlinuxhardened/selinux) - PKGBUILDs to build SELinux enabled packages for Arch Linux
 - [egemert-dogan/EBALinux](https://github.com/egemert-dogan/EBALinux) - EBA Canlı Ders projesi için resmi olmayan Linux desteği.
 - [simon-bueler/dotfiles](https://github.com/simon-bueler/dotfiles) - 
