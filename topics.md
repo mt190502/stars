@@ -1438,6 +1438,7 @@
 
 ## others 
 
+- [carbonatedWaterOrg/yt-dlp-co2](https://github.com/carbonatedWaterOrg/yt-dlp-co2) - It's a modern web interface for yt-dlp with real-time progress tracking and multiple pretty cool themes.
 - [ItsLimeNade/Beetroot](https://github.com/ItsLimeNade/Beetroot) - A discord bot for diabetics usable everywhere, anywhere.
 - [redmine/redmine](https://github.com/redmine/redmine) - Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
