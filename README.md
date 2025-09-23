@@ -823,6 +823,7 @@
 
 ## Ruby 
 
+- [alphanodes/additional_tags](https://github.com/alphanodes/additional_tags) - Redmine Plugin for adding tags functionality to issues and wiki pages.
 - [redmine/redmine](https://github.com/redmine/redmine) - Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps
 - [theforeman/foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
