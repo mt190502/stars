@@ -833,6 +833,7 @@
 
 ## Rust 
 
+- [chenxiaolong/avbroot](https://github.com/chenxiaolong/avbroot) - Tool for manipulating and re-signing Android A/B OTAs
 - [ItsLimeNade/Beetroot](https://github.com/ItsLimeNade/Beetroot) - A discord bot for diabetics usable everywhere, anywhere.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative.
 - [vivoblueos/kernel](https://github.com/vivoblueos/kernel) - 
