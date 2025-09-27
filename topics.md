@@ -1062,6 +1062,7 @@
 
 ## kubernetes 
 
+- [cncf/kubernetes-community-days](https://github.com/cncf/kubernetes-community-days) - 📅 Kubernetes Community Days website
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
