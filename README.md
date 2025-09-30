@@ -957,7 +957,7 @@
 - [waydroid/waydroid-package-manager](https://github.com/waydroid/waydroid-package-manager) - 
 - [pdeljanov/infinality-remix](https://github.com/pdeljanov/infinality-remix) - Arch Linux PKGBUILDs for Infinality patched FreeType, Fontconfig, and Cairo packages
 - [mt190502/debianefihelper](https://github.com/mt190502/debianefihelper) - Efistub helper for debian based systems
-- [dell/dkms](https://github.com/dell/dkms) - Dynamic Kernel Module Support
+- [dell/dkms](https://github.com/dell/dkms) - Dynamic Kernel Module System
 - [m9rco/Genymotion_ARM_Translation](https://github.com/m9rco/Genymotion_ARM_Translation) - 👾👾 Genymotion_ARM_Translation Please enjoy！
 - [felixonmars/aur3-mirror](https://github.com/felixonmars/aur3-mirror) - Git archive of the Arch User Repository 3. (Cloned from pkgbuild.com/git/aur-mirror.git)
 - [popey/unsnap](https://github.com/popey/unsnap) - Quickly migrate from using snap packages to flatpaks
