@@ -825,6 +825,7 @@
 
 ## Ruby 
 
+- [buschmais/redmics](https://github.com/buschmais/redmics) - Plug-in for Redmine (http://www.redmine.org/) to export project issues and versions as ICalendar (ICS) files
 - [alphanodes/additional_tags](https://github.com/alphanodes/additional_tags) - Redmine Plugin for adding tags functionality to issues and wiki pages.
 - [redmine/redmine](https://github.com/redmine/redmine) - Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps
