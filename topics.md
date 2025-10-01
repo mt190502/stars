@@ -1451,6 +1451,7 @@
 
 ## others 
 
+- [buschmais/redmics](https://github.com/buschmais/redmics) - Plug-in for Redmine (http://www.redmine.org/) to export project issues and versions as ICalendar (ICS) files
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]
 - [chenxiaolong/avbroot](https://github.com/chenxiaolong/avbroot) - Tool for manipulating and re-signing Android A/B OTAs
 - [alphanodes/additional_tags](https://github.com/alphanodes/additional_tags) - Redmine Plugin for adding tags functionality to issues and wiki pages.
