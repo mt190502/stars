@@ -1764,7 +1764,7 @@
 - [pagkly/MagiskOnWaydroid](https://github.com/pagkly/MagiskOnWaydroid) - Waydroid 11 with Magisk v26.1
 - [flatpak/flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework
 - [usdogu/usdogu](https://github.com/usdogu/usdogu) - 
-- [dell/dkms](https://github.com/dell/dkms) - Dynamic Kernel Module System
+- [dkms-project/dkms](https://github.com/dkms-project/dkms) - Dynamic Kernel Module System
 - [fangfufu/Linux-Fake-Background-Webcam](https://github.com/fangfufu/Linux-Fake-Background-Webcam) - Faking your webcam background under GNU/Linux, now supports background blurring, animated background, colour map effect, hologram effect and on-demand processing.
 - [m9rco/Genymotion_ARM_Translation](https://github.com/m9rco/Genymotion_ARM_Translation) - 👾👾 Genymotion_ARM_Translation Please enjoy！
 - [hakandundar34coding/system-monitoring-center](https://github.com/hakandundar34coding/system-monitoring-center) - Multi-featured system monitor
