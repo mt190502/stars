@@ -888,7 +888,6 @@
 - [theforeman/foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
 - [extesy/hoverzoom](https://github.com/extesy/hoverzoom) - Google Chrome extension for zooming images on mouse hover
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [jellyfin/mopidy-jellyfin](https://github.com/jellyfin/mopidy-jellyfin) - Jellyfin Extension for Mopidy
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) - 
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
@@ -1497,6 +1496,7 @@
 - [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK
 - [szclsya/mpdris2-rs](https://github.com/szclsya/mpdris2-rs) - Exposing MPRIS V2.2 D-Bus interface for mpd
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
+- [jellyfin/mopidy-jellyfin](https://github.com/jellyfin/mopidy-jellyfin) - Jellyfin Extension for Mopidy
 - [eonpatapon/mpDris2](https://github.com/eonpatapon/mpDris2) - MPRIS V2.1 support for mpd
 - [xdp-project/xdp-tutorial](https://github.com/xdp-project/xdp-tutorial) - XDP tutorial
 - [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays) - Output management utility for sway and Hyprland.
