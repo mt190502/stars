@@ -240,7 +240,7 @@
 - [refi64/zypak](https://github.com/refi64/zypak) - Run Electron binaries in a sandboxed Flatpak environment
 - [FedoraQt/QGnomePlatform](https://github.com/FedoraQt/QGnomePlatform) - QPlatformTheme for a better Qt application inclusion in GNOME
 - [ValveSoftware/halflife](https://github.com/ValveSoftware/halflife) - Half-Life 1 engine based games
-- [supertuxkart/stk-code](https://github.com/supertuxkart/stk-code) - The code base of supertuxkart
+- [supertuxkart/stk-code](https://github.com/supertuxkart/stk-code) - The code base of SuperTuxKart
 - [nwg-piotr/nwg-launchers](https://github.com/nwg-piotr/nwg-launchers) - GTK-based launchers: application grid, button bar, dmenu for sway and other window managers
 - [USBToolBox/kext](https://github.com/USBToolBox/kext) - Kext
 - [rpm-software-management/rpm](https://github.com/rpm-software-management/rpm) - The RPM package manager
