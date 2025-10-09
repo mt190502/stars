@@ -809,7 +809,7 @@
 ## QML 
 
 - [AsteroidOS/unofficial-watchfaces](https://github.com/AsteroidOS/unofficial-watchfaces) - Database of community-made watchfaces for AsteroidOS.
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Rice built for usability
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - uhh questioning the meaning of dotfiles
 - [adhec/launchpad-plasma](https://github.com/adhec/launchpad-plasma) - Launchpad plasmoid for Plasma
 - [adhec/dittoMenuKDE](https://github.com/adhec/dittoMenuKDE) - Menu launcher for plasma KDE
 - [maliit/keyboard](https://github.com/maliit/keyboard) - Maliit Keyboard, a free software virtual keyboard for Linux
