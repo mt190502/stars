@@ -133,7 +133,7 @@
 - [mjakeman/extension-manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions.
 - [tuxedocomputers/tuxedo-keyboard](https://github.com/tuxedocomputers/tuxedo-keyboard) - This repository will no longer get any updates as the code here is now part of tuxedo-drivers https://gitlab.com/tuxedocomputers/development/packages/tuxedo-drivers.
 - [Paragon-Software-Group/linux-ntfs3](https://github.com/Paragon-Software-Group/linux-ntfs3) - Linux kernel source tree
-- [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
+- [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [rozniak/xfce-winxp-tc](https://github.com/rozniak/xfce-winxp-tc) - Windows XP stuff for XFCE
 - [Cogmasters/concord](https://github.com/Cogmasters/concord) - A Discord API wrapper library made in C
