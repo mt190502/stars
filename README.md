@@ -905,7 +905,7 @@
 - [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
 - [sounddrill31/crave_aosp_builder](https://github.com/sounddrill31/crave_aosp_builder) - Build android ROMs using github actions! Also automatically releases them here for easy OTA setup
 - [tailscale-dev/deck-tailscale](https://github.com/tailscale-dev/deck-tailscale) - Tailscale install script for the Steam Deck
-- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
+- [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [marcan/takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
 - [Syakhisk/proxmox-minikube-knative](https://github.com/Syakhisk/proxmox-minikube-knative) - Proxmox Minikube Knative - Serverless Proof of Concept. This repository is a guide based on my final research project for my degree at Institut Teknologi Sepuluh Nopember.
