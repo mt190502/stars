@@ -839,6 +839,7 @@
 
 ## golang 
 
+- [owenthereal/upterm](https://github.com/owenthereal/upterm) - Instant Terminal Sharing
 - [MrJeffLarry/redmine-cli](https://github.com/MrJeffLarry/redmine-cli) - Redmine-cli is a CLI tool for interacting with the Redmine project management system. It allows you to perform tasks such as managing issues and listing projects from the command line, streamlining wo
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
@@ -2251,6 +2252,7 @@
 
 ## terminal 
 
+- [owenthereal/upterm](https://github.com/owenthereal/upterm) - Instant Terminal Sharing
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [directvt/vtm](https://github.com/directvt/vtm) - Text-based desktop environment
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
