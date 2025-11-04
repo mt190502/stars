@@ -622,7 +622,7 @@
 
 ## Objective-C 
 
-- [nakst/gf](https://github.com/nakst/gf) - A GDB frontend for Linux.
+- [nakst/gf](https://github.com/nakst/gf) - A GDB frontend for Lïnux.
 
 ## Others 
 
