@@ -1214,7 +1214,7 @@
 ## llm 
 
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call any LLM API with cost tracking, guardrails, logging and load balancing. 1.8k+ models, 80+ providers, 50+ endpoints (unified + native format). Available as a Python SDK or Proxy Server (AI Gateway
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models
 
@@ -1421,7 +1421,7 @@
 ## openai 
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call any LLM API with cost tracking, guardrails, logging and load balancing. 1.8k+ models, 80+ providers, 50+ endpoints (unified + native format). Available as a Python SDK or Proxy Server (AI Gateway
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [madeyexz/whisper_subtitle](https://github.com/madeyexz/whisper_subtitle) - uses Whisper from OpenAI to generate video subtitles automatically.
 
