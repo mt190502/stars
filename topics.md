@@ -1674,7 +1674,7 @@
 - [Paragon-Software-Group/linux-ntfs3](https://github.com/Paragon-Software-Group/linux-ntfs3) - Linux kernel source tree
 - [aaronsvk/CVE-2022-30075](https://github.com/aaronsvk/CVE-2022-30075) - Tp-Link Archer AX50 Authenticated RCE (CVE-2022-30075)
 - [rozniak/xfce-winxp-tc](https://github.com/rozniak/xfce-winxp-tc) - Windows XP stuff for XFCE
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
 - [iltekin/dahi-anlamindaki-de](https://github.com/iltekin/dahi-anlamindaki-de) - 
 - [KDE/kdeconnect-ios](https://github.com/KDE/kdeconnect-ios) - Native iOS port of KDE Connect
 - [hasherezade/exe_to_dll](https://github.com/hasherezade/exe_to_dll) - Converts a EXE into DLL
