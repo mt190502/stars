@@ -901,6 +901,7 @@
 
 ## Shell 
 
+- [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [kreatolinux/kpkg-repo](https://github.com/kreatolinux/kpkg-repo) - Official repository for Kreato Linux.
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
@@ -920,7 +921,7 @@
 - [LineageOS/android_device_samsung_sm7125-common](https://github.com/LineageOS/android_device_samsung_sm7125-common) - 
 - [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing installations of the Linux distributions in Termux.
 - [jorgebucaran/autopair.fish](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command line
-- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [metwse/rofi-tdk.sh](https://github.com/metwse/rofi-tdk.sh) - Rofi için Türkçe sözlük
 - [m3tozz/NeoCat](https://github.com/m3tozz/NeoCat) - NeoCat - NeoFetch Theme Pack
 - [omertahaoztop/MyDotfiles](https://github.com/omertahaoztop/MyDotfiles) - 
