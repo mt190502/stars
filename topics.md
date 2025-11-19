@@ -2005,7 +2005,7 @@
 - [getting-things-gnome/gtg](https://github.com/getting-things-gnome/gtg) - Getting Things GNOME! desktop app development
 - [ahmed-al-balochi/LibreGaming](https://github.com/ahmed-al-balochi/LibreGaming) - Python Program that downloads gaming required packages based on your Linux Distribution.
 - [rpm-software-management/libdnf](https://github.com/rpm-software-management/libdnf) - Package management library.
-- [wilfredinni/python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet) - All-inclusive Python cheatsheet
+- [labex-labs/python-cheatsheet](https://github.com/labex-labs/python-cheatsheet) - All-inclusive Python cheatsheet
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [eyupkaganeyupoglu/python_tutorial_tr](https://github.com/eyupkaganeyupoglu/python_tutorial_tr) - Türkçe Python Tutorial
 - [JaDogg/pydoro](https://github.com/JaDogg/pydoro) - 🍅 pydoro - Terminal Pomodoro Timer
