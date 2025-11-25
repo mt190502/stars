@@ -191,6 +191,7 @@
 - [vpn](#vpn)
 - [vue](#vue)
 - [web](#web)
+- [web3](#web3)
 - [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
@@ -2363,6 +2364,10 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+
+## web3 
+
+- [DexLegion/isRug.API](https://github.com/DexLegion/isRug.API) - isRug is a honeypot checker tool that detects scams and rugpulls in ERC-20 smart contracts across multiple chains.
 
 ## webapp 
 
