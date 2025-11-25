@@ -707,6 +707,7 @@
 
 ## Python 
 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [guillermodotn/pppoe-retriever](https://github.com/guillermodotn/pppoe-retriever) - A tool to extract PPPoE credentials from ISP-locked routers.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
