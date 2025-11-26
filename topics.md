@@ -34,6 +34,7 @@
 - [cloud](#cloud)
 - [cms](#cms)
 - [code](#code)
+- [command-line](#command-line)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [config](#config)
@@ -471,6 +472,16 @@
 ## code 
 
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
+
+## command-line 
+
+- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Kyanos is a networking analysis tool using eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient.
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
+- [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 
 ## compiler 
 
@@ -1534,7 +1545,6 @@
 - [tractr/counter-strike-source-servers](https://github.com/tractr/counter-strike-source-servers) - Docker images to server Counter-Strike:Source with mods
 - [libbpf/libbpf](https://github.com/libbpf/libbpf) - Automated upstream mirror for libbpf stand-alone build.
 - [libbpf/bpftool](https://github.com/libbpf/bpftool) - Automated upstream mirror for bpftool stand-alone build.
-- [hengyoush/kyanos](https://github.com/hengyoush/kyanos) - Kyanos is a networking analysis tool using eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient.
 - [AsenaJs/Asena](https://github.com/AsenaJs/Asena) - IoC web framework for bun
 - [mt190502/usmanagabot](https://github.com/mt190502/usmanagabot) - 
 - [kreatoo/dots-mac](https://github.com/kreatoo/dots-mac) - Dotfiles for macOS, managed using nix-darwin
