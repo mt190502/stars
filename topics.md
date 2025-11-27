@@ -493,7 +493,7 @@
 
 - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [julelang/jule](https://github.com/julelang/jule) - Effective programming language to build efficient, fast, reliable and safe software while maintaining simplicity
 - [Headline/discord-compiler-bot](https://github.com/Headline/discord-compiler-bot) - A discord bot that compiles your spaghetti
@@ -1122,7 +1122,7 @@
 ## language 
 
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [julelang/jule](https://github.com/julelang/jule) - Effective programming language to build efficient, fast, reliable and safe software while maintaining simplicity
 - [golang/go](https://github.com/golang/go) - The Go programming language
@@ -2469,7 +2469,7 @@
 
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [seatedro/glyph](https://github.com/seatedro/glyph) - convert images, video to ascii!
-- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 
 ## zsh 
 
