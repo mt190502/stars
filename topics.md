@@ -1480,6 +1480,7 @@
 
 ## others 
 
+- [arnarg/nixtml](https://github.com/arnarg/nixtml) - Static website and blog generator written in nix
 - [mrash/fwknop](https://github.com/mrash/fwknop) - Single Packet Authorization &gt; Port Knocking
 - [veltman/clmystery](https://github.com/veltman/clmystery) - A command-line murder mystery
 - [buschmais/redmics](https://github.com/buschmais/redmics) - Plug-in for Redmine (http://www.redmine.org/) to export project issues and versions as ICalendar (ICS) files
