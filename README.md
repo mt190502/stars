@@ -247,7 +247,7 @@
 - [rpm-software-management/rpm](https://github.com/rpm-software-management/rpm) - The RPM package manager
 - [hasherezade/exe_to_dll](https://github.com/hasherezade/exe_to_dll) - Converts a EXE into DLL
 - [Stremio/stremio-shell](https://github.com/Stremio/stremio-shell) - 🐚 Qt5-based shell for Stremio; compile this to run the desktop app
-- [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
+- [snapcast/snapcast](https://github.com/snapcast/snapcast) - Synchronous multiroom audio player
 - [rpm-software-management/dnf5](https://github.com/rpm-software-management/dnf5) - Next-generation RPM package management system
 - [openSUSE/zypper](https://github.com/openSUSE/zypper) - World's most powerful command line package manager
 - [MaskRay/ccls](https://github.com/MaskRay/ccls) - C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting
