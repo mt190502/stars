@@ -497,7 +497,7 @@
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
-- [julelang/jule](https://github.com/julelang/jule) - Simple and safe systems programming language with first-class C/C++ interoperability
+- [julelang/jule](https://github.com/julelang/jule) - Simple and safe programming language with first-class C/C++ interoperability and powerful compile-time capabilities
 - [Headline/discord-compiler-bot](https://github.com/Headline/discord-compiler-bot) - A discord bot that compiles your spaghetti
 
 ## computer-science 
@@ -1125,7 +1125,7 @@
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
-- [julelang/jule](https://github.com/julelang/jule) - Simple and safe systems programming language with first-class C/C++ interoperability
+- [julelang/jule](https://github.com/julelang/jule) - Simple and safe programming language with first-class C/C++ interoperability and powerful compile-time capabilities
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [wren-lang/wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
@@ -1996,7 +1996,7 @@
 
 ## programming-language 
 
-- [julelang/jule](https://github.com/julelang/jule) - Simple and safe systems programming language with first-class C/C++ interoperability
+- [julelang/jule](https://github.com/julelang/jule) - Simple and safe programming language with first-class C/C++ interoperability and powerful compile-time capabilities
 - [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
 - [golang/go](https://github.com/golang/go) - The Go programming language
 
