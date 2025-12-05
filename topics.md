@@ -155,6 +155,7 @@
 - [python](#python)
 - [python3](#python3)
 - [qt](#qt)
+- [rag](#rag)
 - [rails](#rails)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
@@ -2068,6 +2069,10 @@
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [FedoraQt/QGnomePlatform](https://github.com/FedoraQt/QGnomePlatform) - QPlatformTheme for a better Qt application inclusion in GNOME
 - [gentoo/qt](https://github.com/gentoo/qt) - [MIRROR] Qt Team's testing overlay
+
+## rag 
+
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## rails 
 
