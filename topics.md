@@ -497,7 +497,7 @@
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
-- [julelang/jule](https://github.com/julelang/jule) - Effective programming language to build efficient, fast, reliable and safe software while maintaining simplicity
+- [julelang/jule](https://github.com/julelang/jule) - Simple and safe systems programming language with first-class C/C++ interoperability
 - [Headline/discord-compiler-bot](https://github.com/Headline/discord-compiler-bot) - A discord bot that compiles your spaghetti
 
 ## computer-science 
@@ -1125,7 +1125,7 @@
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
-- [julelang/jule](https://github.com/julelang/jule) - Effective programming language to build efficient, fast, reliable and safe software while maintaining simplicity
+- [julelang/jule](https://github.com/julelang/jule) - Simple and safe systems programming language with first-class C/C++ interoperability
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [wren-lang/wren](https://github.com/wren-lang/wren) - The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
@@ -1481,7 +1481,7 @@
 
 ## others 
 
-- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
+- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
 - [arnarg/nixtml](https://github.com/arnarg/nixtml) - Static website and blog generator written in nix
 - [mrash/fwknop](https://github.com/mrash/fwknop) - Single Packet Authorization &gt; Port Knocking
 - [veltman/clmystery](https://github.com/veltman/clmystery) - A command-line murder mystery
@@ -1996,7 +1996,7 @@
 
 ## programming-language 
 
-- [julelang/jule](https://github.com/julelang/jule) - Effective programming language to build efficient, fast, reliable and safe software while maintaining simplicity
+- [julelang/jule](https://github.com/julelang/jule) - Simple and safe systems programming language with first-class C/C++ interoperability
 - [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
 - [golang/go](https://github.com/golang/go) - The Go programming language
 
