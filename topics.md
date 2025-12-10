@@ -1486,6 +1486,7 @@
 
 ## others 
 
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
 - [arnarg/nixtml](https://github.com/arnarg/nixtml) - Static website and blog generator written in nix
