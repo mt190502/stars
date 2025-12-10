@@ -1615,7 +1615,7 @@
 - [jorgebucaran/autopair.fish](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command line
 - [taviso/ctypes.sh](https://github.com/taviso/ctypes.sh) - A foreign function interface for bash.
 - [MarcelRobitaille/nextcloud_google_synchronization](https://github.com/MarcelRobitaille/nextcloud_google_synchronization) - 🇬 Google integration into Nextcloud
-- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+- [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
 - [zavg/linux-0.01](https://github.com/zavg/linux-0.01) - Historically first (actually 0.01) release of linux kernel made by Linus Torvalds
 - [metwse/rofi-tdk.sh](https://github.com/metwse/rofi-tdk.sh) - Rofi için Türkçe sözlük
