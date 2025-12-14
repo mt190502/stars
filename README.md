@@ -504,6 +504,7 @@
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [vasanthv/hello](https://github.com/vasanthv/hello) - Free group video call for the web. No signups. No downloads.
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
+- [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset
 - [JetBrains/toolbox-browser-extension](https://github.com/JetBrains/toolbox-browser-extension) - JetBrains Toolbox App browser extension
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [ilearnio/module-alias](https://github.com/ilearnio/module-alias) - Register aliases of directories and custom module paths in Node
@@ -1075,7 +1076,6 @@
 - [umuterozan/mantenna](https://github.com/umuterozan/mantenna) - Watch multiple live streams on Youtube at the same time.
 - [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
 - [ckt1031/DraconianBot](https://github.com/ckt1031/DraconianBot) - With its robust performance, intuitive design, and vast array of functionalities, the Draconian Bot is the ultimate solution for all your needs.
-- [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset
 - [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
