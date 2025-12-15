@@ -347,7 +347,7 @@
 - [fieu/discord.sh](https://github.com/fieu/discord.sh) - Write-only command-line Discord webhooks integration written in 100% Bash script
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
 - [mgree/ffs](https://github.com/mgree/ffs) - the file filesystem: mount semi-structured data (like JSON) as a Unix filesystem
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [lure-sh/lure](https://github.com/lure-sh/lure) - The community repository missing from your Linux distro
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -444,7 +444,7 @@
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [tvrzna/emptty](https://github.com/tvrzna/emptty) - Dead simple CLI Display Manager on TTY
 - [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [genuinetools/reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
@@ -881,7 +881,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [go-telegram/bot](https://github.com/go-telegram/bot) - Telegram Bot API Go framework
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 - [gorilla/mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -1075,7 +1075,7 @@
 
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [mgree/ffs](https://github.com/mgree/ffs) - the file filesystem: mount semi-structured data (like JSON) as a Unix filesystem
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [narbehaj/ssl-checker](https://github.com/narbehaj/ssl-checker) - Python script that collects SSL/TLS information from hosts
 - [codyogden/killedbygoogle](https://github.com/codyogden/killedbygoogle) - Part guillotine, part graveyard for Google's doomed apps, services, and hardware.
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
@@ -2474,7 +2474,7 @@
 
 ## xml 
 
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [adi1090x/widgets](https://github.com/adi1090x/widgets) - Few widgets for Eww, Elkowar’s Wacky Widgets.
 
 ## youtube 
