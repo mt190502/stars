@@ -1503,6 +1503,7 @@
 
 ## others 
 
+- [nix-community/plasma-manager](https://github.com/nix-community/plasma-manager) - Manage KDE Plasma with Home Manager [maintainer=@HeitorAugustoLN]
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
