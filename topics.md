@@ -1503,6 +1503,7 @@
 
 ## others 
 
+- [Rackarr/Rackarr](https://github.com/Rackarr/Rackarr) - Visual rack layout designer for homelabbers
 - [raine/workmux](https://github.com/raine/workmux) - git worktrees + tmux windows for zero-friction parallel dev
 - [jessehouwing/actions-semver-checker](https://github.com/jessehouwing/actions-semver-checker) - This action checks the version tags in your repository to ensure correct semantic versioning behavior.
 - [nix-community/plasma-manager](https://github.com/nix-community/plasma-manager) - Manage KDE Plasma with Home Manager [maintainer=@HeitorAugustoLN]
