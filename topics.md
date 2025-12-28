@@ -1503,6 +1503,7 @@
 
 ## others 
 
+- [farend/redmine_theme_farend_bleuclair](https://github.com/farend/redmine_theme_farend_bleuclair) - Custom theme for Redmine. Compatible with: Redmine 3.4 - 6.0
 - [Rackarr/Rackarr](https://github.com/Rackarr/Rackarr) - Visual rack layout designer for homelabbers
 - [raine/workmux](https://github.com/raine/workmux) - git worktrees + tmux windows for zero-friction parallel dev
 - [jessehouwing/actions-semver-checker](https://github.com/jessehouwing/actions-semver-checker) - This action checks the version tags in your repository to ensure correct semantic versioning behavior.
