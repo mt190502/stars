@@ -1623,7 +1623,6 @@
 - [jdinhify/vscode-theme-gruvbox](https://github.com/jdinhify/vscode-theme-gruvbox) - Gruvbox theme for vscode based on https://github.com/morhetz/gruvbox
 - [DiscordMessenger/dm](https://github.com/DiscordMessenger/dm) - Discord Messenger is a free Discord-compatible messaging client that works on 30 years of Windows versions.
 - [go-latex/latex](https://github.com/go-latex/latex) - Go package for LaTeX
-- [kreatoo/uptime-kuma-playbook-pub](https://github.com/kreatoo/uptime-kuma-playbook-pub) - 
 - [LineageOS/android_hardware_samsung](https://github.com/LineageOS/android_hardware_samsung) - 
 - [LineageOS/android_kernel_samsung_sm7125](https://github.com/LineageOS/android_kernel_samsung_sm7125) - 
 - [TheMuppets/proprietary_vendor_samsung_sm7125-common](https://github.com/TheMuppets/proprietary_vendor_samsung_sm7125-common) - 
