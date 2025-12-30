@@ -642,7 +642,6 @@
 - [mt190502/stars](https://github.com/mt190502/stars) - 
 - [rfmoz/grafana-dashboards](https://github.com/rfmoz/grafana-dashboards) - Grafana dashboards
 - [chlebik/rhcsa-practice-questions](https://github.com/chlebik/rhcsa-practice-questions) - RHCSA practice questions for version 7/8
-- [kreatoo/uptime-kuma-playbook-pub](https://github.com/kreatoo/uptime-kuma-playbook-pub) - 
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [IBM/IBMDeveloper-recipes](https://github.com/IBM/IBMDeveloper-recipes) - The repo holds Recipes from IBM Developer for user access to the information
 - [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
