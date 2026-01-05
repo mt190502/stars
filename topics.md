@@ -1520,7 +1520,7 @@
 - [raine/workmux](https://github.com/raine/workmux) - git worktrees + tmux windows for zero-friction parallel dev
 - [jessehouwing/actions-semver-checker](https://github.com/jessehouwing/actions-semver-checker) - This action checks the version tags in your repository to ensure correct semantic versioning behavior.
 - [nix-community/plasma-manager](https://github.com/nix-community/plasma-manager) - Manage KDE Plasma with Home Manager [maintainer=@HeitorAugustoLN]
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator (unofficial)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [arnarg/nixtml](https://github.com/arnarg/nixtml) - Static website and blog generator written in nix
