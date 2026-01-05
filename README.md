@@ -660,6 +660,7 @@
 - [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 - [mt190502/mt190502](https://github.com/mt190502/mt190502) - 
 - [ezgiturali/Machine-Learning-Deep-Learning-Resources](https://github.com/ezgiturali/Machine-Learning-Deep-Learning-Resources) - 
+- [HugoBlox/hugo-theme-developer-portfolio](https://github.com/HugoBlox/hugo-theme-developer-portfolio) - Easily create your own developer portfolio website with Hugo.
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [LogicWavelength/Manjaro-Stuff](https://github.com/LogicWavelength/Manjaro-Stuff) - 
 - [flathub/com.valvesoftware.Steam.CompatibilityTool.Proton-GE](https://github.com/flathub/com.valvesoftware.Steam.CompatibilityTool.Proton-GE) - 
@@ -912,7 +913,6 @@
 - [gagnieray/opale](https://github.com/gagnieray/opale) - A Redmine 5.x - 6.x theme
 - [mrliptontea/PurpleMine2](https://github.com/mrliptontea/PurpleMine2) - Theme for Redmine 3.x - 4.x. For newer, see: https://github.com/gagnieray/opale
 - [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3) - The theme from libadwaita ported to GTK-3
-- [HugoBlox/theme-portfolio](https://github.com/HugoBlox/theme-portfolio) - Easily create your own portfolio website with Hugo.
 - [adi1090x/widgets](https://github.com/adi1090x/widgets) - Few widgets for Eww, Elkowar’s Wacky Widgets.
 
 ## Shell 
