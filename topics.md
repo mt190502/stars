@@ -1786,7 +1786,7 @@
 - [skyfall3215/Dotfiles](https://github.com/skyfall3215/Dotfiles) - Dotfiles
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [ezgiturali/Machine-Learning-Deep-Learning-Resources](https://github.com/ezgiturali/Machine-Learning-Deep-Learning-Resources) - 
-- [HugoBlox/theme-portfolio](https://github.com/HugoBlox/theme-portfolio) - Easily create your own portfolio website with Hugo.
+- [HugoBlox/hugo-theme-developer-portfolio](https://github.com/HugoBlox/hugo-theme-developer-portfolio) - Easily create your own developer portfolio website with Hugo.
 - [v4l2loopback/v4l2loopback](https://github.com/v4l2loopback/v4l2loopback) - v4l2-loopback device
 - [onetrueawk/awk](https://github.com/onetrueawk/awk) - One true awk
 - [sandsmark/selectdefaultapplication](https://github.com/sandsmark/selectdefaultapplication) - an ugly hack to be able to select default applications in linux in a better way
