@@ -195,6 +195,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [userscript](#userscript)
+- [video](#video)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [visual-studio-code](#visual-studio-code)
@@ -1663,7 +1664,6 @@
 - [sapics/ip-location-db](https://github.com/sapics/ip-location-db) - ip to location database by ASN, GeoFeed, Whois, iptoasn.com, db-ip lite, GeoLite2
 - [IBM/IBMDeveloper-recipes](https://github.com/IBM/IBMDeveloper-recipes) - The repo holds Recipes from IBM Developer for user access to the information
 - [phhusson/treble_experimentations](https://github.com/phhusson/treble_experimentations) - Notes about tinkering with Android Project Treble
-- [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
 - [xeome/assembly-web](https://github.com/xeome/assembly-web) - doing web dev using native assembly &gt;:)
 - [HansKristian-Work/vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) - Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.
 - [yusufipk/dead-man-message](https://github.com/yusufipk/dead-man-message) - A dead man's switch. Send a message to people you love after you're dead.
@@ -1763,7 +1763,6 @@
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
 - [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
-- [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - A complete web conferencing system for virtual classes and more!
 - [dremin/RetroBar](https://github.com/dremin/RetroBar) - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows
 - [rotemdan/ExportCookies](https://github.com/rotemdan/ExportCookies) - WebExtension to export cookies to a Netscape format cookies.txt file.
 - [GNOME/zenity](https://github.com/GNOME/zenity) - Read-only mirror of https://gitlab.gnome.org/GNOME/zenity
@@ -1815,7 +1814,6 @@
 - [gohugoio/hugoThemes](https://github.com/gohugoio/hugoThemes) - A curated directory of Hugo themes
 - [andylshort/rss-finder](https://github.com/andylshort/rss-finder) - Lists RSS and Atom feeds available on the current web page
 - [axel358/smartdock](https://github.com/axel358/smartdock) - A user-friendly desktop mode launcher that offers a modern and customizable user interface
-- [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [Ckrielle/RSS-Feeder](https://github.com/Ckrielle/RSS-Feeder) - A script to automatically add Github, Youtube, Reddit, and Twitter feeds to newsboat
 - [nathanielevan/dotfiles](https://github.com/nathanielevan/dotfiles) - Linux configuration files
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
@@ -2431,6 +2429,15 @@
 ## userscript 
 
 - [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
+
+## video 
+
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
+- [madeyexz/whisper_subtitle](https://github.com/madeyexz/whisper_subtitle) - uses Whisper from OpenAI to generate video subtitles automatically.
+- [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
+- [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - A complete web conferencing system for virtual classes and more!
+- [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 
 ## vim 
 
