@@ -19,6 +19,7 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
+- [Go Template](#go-template)
 - [Groovy](#groovy)
 - [HTML](#html)
 - [JSON](#json)
@@ -419,6 +420,10 @@
 - [hugolgst/rich-go](https://github.com/hugolgst/rich-go) - Discord Rich Presence implementation for Linux, macOS and Windows in Golang
 - [raifpy/ClipBoardTranslater](https://github.com/raifpy/ClipBoardTranslater) - Cross Platform ClipBoard Translater. Made with Golang
 - [codeksion/PhishDroid](https://github.com/codeksion/PhishDroid) - Simple Phishing Application For Education :')
+
+## Go Template 
+
+- [mt190502/helm-charts](https://github.com/mt190502/helm-charts) - 
 
 ## Groovy 
 
@@ -1017,7 +1022,6 @@
 ## Smarty 
 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) - 
-- [mt190502/helm-charts](https://github.com/mt190502/helm-charts) - 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators.
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 
