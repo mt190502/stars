@@ -18,7 +18,6 @@
 - [Crystal](#crystal)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
-- [Fluent](#fluent)
 - [Go](#go)
 - [Go Template](#go-template)
 - [Groovy](#groovy)
@@ -326,10 +325,6 @@
 - [amake/innosetup-docker](https://github.com/amake/innosetup-docker) - Docker image to create Windows installer executables with Inno Setup
 - [linuxserver/docker-mysql-workbench](https://github.com/linuxserver/docker-mysql-workbench) - 
 
-## Fluent 
-
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
-
 ## Go 
 
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
@@ -491,6 +486,7 @@
 - [extesy/hoverzoom](https://github.com/extesy/hoverzoom) - Google Chrome extension for zooming images on mouse hover
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [TenSoja/clear-cache](https://github.com/TenSoja/clear-cache) - Add-on to clear browser cache with a single click or via the F9 key.
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [rNeomy/auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs
 - [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar) - A yabai, AeroSpace or FlashSpace status bar widget for Übersicht
