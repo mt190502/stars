@@ -1915,7 +1915,7 @@
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
 - [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!
 - [psifidotos/applet-window-appmenu](https://github.com/psifidotos/applet-window-appmenu) - Plasma 5 applet in order to show the window appmenu
-- [caglarturali/catalina-dynamic-wallpaper](https://github.com/caglarturali/catalina-dynamic-wallpaper) - macOS Catalina dynamic wallpaper for KDE Plasma 5 and DDE.
+- [turaling/catalina-dynamic-wallpaper](https://github.com/turaling/catalina-dynamic-wallpaper) - macOS Catalina dynamic wallpaper for KDE Plasma 5 and DDE.
 - [emersion/xdg-desktop-portal-wlr](https://github.com/emersion/xdg-desktop-portal-wlr) - xdg-desktop-portal backend for wlroots
 - [tchx84/Flatseal](https://github.com/tchx84/Flatseal) - Manage Flatpak permissions
 - [zagortenay333/cronomix](https://github.com/zagortenay333/cronomix) - All-in-one timer, stopwatch, pomodoro, alarm, todo, time tracker and flashcards gnome-shell extension
