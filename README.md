@@ -425,6 +425,7 @@
 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) - 
 - [mt190502/helm-charts](https://github.com/mt190502/helm-charts) - 
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 
 ## Groovy 
 
@@ -1023,7 +1024,6 @@
 ## Smarty 
 
 - [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators.
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 
 ## Svelte 
 
