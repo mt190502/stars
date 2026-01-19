@@ -51,7 +51,6 @@
 - [SCSS](#scss)
 - [Shell](#shell)
 - [Smali](#smali)
-- [Smarty](#smarty)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -425,6 +424,7 @@
 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) - 
 - [mt190502/helm-charts](https://github.com/mt190502/helm-charts) - 
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators.
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 
 ## Groovy 
@@ -1020,10 +1020,6 @@
 ## Smali 
 
 - [phhusson/treble_experimentations](https://github.com/phhusson/treble_experimentations) - Notes about tinkering with Android Project Treble
-
-## Smarty 
-
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators.
 
 ## Svelte 
 
