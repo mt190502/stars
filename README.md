@@ -45,7 +45,6 @@
 - [Python](#python)
 - [QML](#qml)
 - [R](#r)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -847,10 +846,6 @@
 
 - [omerozden/R-bouncing-dvd-logo](https://github.com/omerozden/R-bouncing-dvd-logo) - 
 
-## Roff 
-
-- [bombo82/bombo82-overlay](https://github.com/bombo82/bombo82-overlay) - My own collection of ebuilds
-
 ## Ruby 
 
 - [buschmais/redmics](https://github.com/buschmais/redmics) - Plug-in for Redmine (http://www.redmine.org/) to export project issues and versions as ICalendar (ICS) files
@@ -1013,6 +1008,7 @@
 - [archlinuxhardened/selinux](https://github.com/archlinuxhardened/selinux) - PKGBUILDs to build SELinux enabled packages for Arch Linux
 - [egemert-dogan/EBALinux](https://github.com/egemert-dogan/EBALinux) - EBA Canlı Ders projesi için resmi olmayan Linux desteği.
 - [simon-bueler/dotfiles](https://github.com/simon-bueler/dotfiles) - 
+- [bombo82/bombo82-overlay](https://github.com/bombo82/bombo82-overlay) - My own collection of ebuilds
 - [gentoo/gentoo](https://github.com/gentoo/gentoo) - [MIRROR] Official Gentoo ebuild repository
 - [tasmo/dotfiles](https://github.com/tasmo/dotfiles) - personal little helpers
 - [pimlie/ubuntu-mainline-kernel.sh](https://github.com/pimlie/ubuntu-mainline-kernel.sh) - Bash script for Ubuntu (and derivatives) to easily (un)install kernels from the Ubuntu Kernel PPA
