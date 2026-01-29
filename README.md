@@ -156,7 +156,7 @@
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
 - [nbfc-linux/nbfc-linux](https://github.com/nbfc-linux/nbfc-linux) - NoteBook FanControl ported to Linux
 - [hackbnw/faustus](https://github.com/hackbnw/faustus) - Experimental unofficial Linux platform driver module for ASUS TUF Gaming series laptops
-- [canonical/lightdm](https://github.com/canonical/lightdm) - Display Manager
+- [ubuntu/lightdm](https://github.com/ubuntu/lightdm) - Display Manager
 - [alimkoca/oshean](https://github.com/alimkoca/oshean) - oceanic shell for developers.
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [jovanlanik/gtklock](https://github.com/jovanlanik/gtklock) - GTK-based lockscreen for Wayland
