@@ -1832,7 +1832,7 @@
 - [bitbackofen/Rss-Atom-Feed-Integration-for-Mattermost](https://github.com/bitbackofen/Rss-Atom-Feed-Integration-for-Mattermost) - RSS- and Atom-Feed integration for Mattermost (orphaned)
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [shawon9324/keyboard-mouse-tester-webApp](https://github.com/shawon9324/keyboard-mouse-tester-webApp) - An Online Testing Utility that helps you to test all keys on your keyboard. Works accurately with any keyboard and any browser.
-- [canonical/lightdm](https://github.com/canonical/lightdm) - Display Manager
+- [ubuntu/lightdm](https://github.com/ubuntu/lightdm) - Display Manager
 - [notofonts/noto-fonts](https://github.com/notofonts/noto-fonts) - Noto fonts, except for CJK and emoji
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [Luwx/Lightly](https://github.com/Luwx/Lightly) - A modern style for qt applications.
