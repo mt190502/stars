@@ -325,6 +325,7 @@
 
 ## Go 
 
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
