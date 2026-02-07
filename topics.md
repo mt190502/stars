@@ -838,6 +838,7 @@
 
 ## github 
 
+- [jessehouwing/actions-semver-checker](https://github.com/jessehouwing/actions-semver-checker) - This action checks the version tags in your repository to ensure correct semantic versioning behavior.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [nextcloud/integration_github](https://github.com/nextcloud/integration_github) - 🐙 GitHub integration into Nextcloud
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
@@ -1535,7 +1536,6 @@
 - [farend/redmine_theme_farend_bleuclair](https://github.com/farend/redmine_theme_farend_bleuclair) - Custom theme for Redmine. Compatible with: Redmine 3.4 - 6.0
 - [Rackarr/Rackarr](https://github.com/Rackarr/Rackarr) - Visual rack layout designer for homelabbers
 - [raine/workmux](https://github.com/raine/workmux) - git worktrees + tmux windows for zero-friction parallel dev
-- [jessehouwing/actions-semver-checker](https://github.com/jessehouwing/actions-semver-checker) - This action checks the version tags in your repository to ensure correct semantic versioning behavior.
 - [nix-community/plasma-manager](https://github.com/nix-community/plasma-manager) - Manage KDE Plasma with Home Manager [maintainer=@HeitorAugustoLN]
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
