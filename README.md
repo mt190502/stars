@@ -647,6 +647,7 @@
 
 ## Others 
 
+- [supechicken/waydroid-builds](https://github.com/supechicken/waydroid-builds) - Android 13/14/15 builds for Waydroid
 - [veltman/clmystery](https://github.com/veltman/clmystery) - A command-line murder mystery
 - [cncf/kubernetes-community-days](https://github.com/cncf/kubernetes-community-days) - 📅 Kubernetes Community Days website
 - [ramaureirac/thinkpad-e14-linux](https://github.com/ramaureirac/thinkpad-e14-linux) - Current state of GNU/Linux on Lenovo Thinkpad E14
