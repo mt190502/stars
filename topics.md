@@ -948,6 +948,7 @@
 
 ## hacktoberfest 
 
+- [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
@@ -1134,6 +1135,7 @@
 
 ## kubernetes 
 
+- [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [iximiuz/labctl](https://github.com/iximiuz/labctl) - iximiuz Labs control - start remote microVM playgrounds from the command line.
