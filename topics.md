@@ -456,7 +456,7 @@
 
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [MrJeffLarry/redmine-cli](https://github.com/MrJeffLarry/redmine-cli) - Redmine-cli is a CLI tool for interacting with the Redmine project management system. It allows you to perform tasks such as managing issues and listing projects from the command line, streamlining wo
-- [0l3d/ffetch](https://github.com/0l3d/ffetch) - F-Fetch is Fast and Minimal. Written in Rust. It's very simple, designed so you can pick it up and replace it.
+- [0l3d/ffetch](https://github.com/0l3d/ffetch) - F-Fetch is Fast and Minimal. Written in Rust.
 - [reemus-dev/gitnr](https://github.com/reemus-dev/gitnr) - Create `.gitignore` files using one or more templates from TopTal, GitHub or your own collection
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
@@ -1202,7 +1202,7 @@
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
 - [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs) - macOS: mount any linux-supported filesystem read/write using NFS and a microVM
-- [0l3d/ffetch](https://github.com/0l3d/ffetch) - F-Fetch is Fast and Minimal. Written in Rust. It's very simple, designed so you can pick it up and replace it.
+- [0l3d/ffetch](https://github.com/0l3d/ffetch) - F-Fetch is Fast and Minimal. Written in Rust.
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [libbpf/bpfvv](https://github.com/libbpf/bpfvv) - A tool to help programmers debug and analyze Linux Kernel BPF verification failures.
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
@@ -2205,7 +2205,7 @@
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [htkhiem/euphonica](https://github.com/htkhiem/euphonica) - An MPD client with delusions of grandeur, made with Rust, GTK and Libadwaita.
-- [0l3d/ffetch](https://github.com/0l3d/ffetch) - F-Fetch is Fast and Minimal. Written in Rust. It's very simple, designed so you can pick it up and replace it.
+- [0l3d/ffetch](https://github.com/0l3d/ffetch) - F-Fetch is Fast and Minimal. Written in Rust.
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
