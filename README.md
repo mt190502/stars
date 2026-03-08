@@ -325,6 +325,7 @@
 
 ## Go 
 
+- [cozystack/local-ccm](https://github.com/cozystack/local-ccm) - Simple local CCM for bare-metal clusters
 - [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
