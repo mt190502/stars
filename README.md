@@ -437,7 +437,6 @@
 
 ## HTML 
 
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
 - [carbonatedWaterOrg/yt-dlp-co2](https://github.com/carbonatedWaterOrg/yt-dlp-co2) - It's a modern web interface for yt-dlp with real-time progress tracking and multiple pretty cool themes.
 - [geerlingguy/kubernetes-101](https://github.com/geerlingguy/kubernetes-101) - Kubernetes 101 - by Jeff Geerling
@@ -735,6 +734,7 @@
 
 ## Python 
 
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [guillermodotn/pppoe-retriever](https://github.com/guillermodotn/pppoe-retriever) - A tool to extract PPPoE credentials from ISP-locked routers.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
