@@ -1553,7 +1553,7 @@
 
 ## others 
 
-- [supechicken/waydroid-builds](https://github.com/supechicken/waydroid-builds) - Android 13/14/15 builds for Waydroid
+- [WayDroid-ATV/waydroid-builds](https://github.com/WayDroid-ATV/waydroid-builds) - Android 13/14/15 builds for Waydroid
 - [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) - Random digital audio effects
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
 - [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) - SteamOS session compositing window manager
