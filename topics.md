@@ -1581,7 +1581,6 @@
 - [bouquet2/bug](https://github.com/bouquet2/bug) - Simple and easy-to-use reverse proxy/load balancer
 - [kreatolinux/kpkg-repo](https://github.com/kreatolinux/kpkg-repo) - Official repository for Kreato Linux.
 - [fdesc/8paste](https://github.com/fdesc/8paste) - simple paste service
-- [vivoblueos/kernel](https://github.com/vivoblueos/kernel) - 
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps
 - [gagnieray/opale](https://github.com/gagnieray/opale) - A Redmine 5.x - 6.x theme
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
