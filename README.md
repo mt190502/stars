@@ -674,6 +674,7 @@
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [Elagoht/30-dakikada-markdown-ogrenin](https://github.com/Elagoht/30-dakikada-markdown-ogrenin) - MarkDown öğretmek için yazılmış Türkçe eğitim kaynağı.
 - [Elagoht/3-saatte-vim-ogrenin](https://github.com/Elagoht/3-saatte-vim-ogrenin) - Türkçe Vim Öğrenim Konu Anlatım ve Çalışma İçeriği
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 - [mt190502/mt190502](https://github.com/mt190502/mt190502) - 
 - [ezgiturali/Machine-Learning-Deep-Learning-Resources](https://github.com/ezgiturali/Machine-Learning-Deep-Learning-Resources) - 
@@ -727,7 +728,6 @@
 ## PowerShell 
 
 - [jessehouwing/actions-semver-checker](https://github.com/jessehouwing/actions-semver-checker) - This action checks the version tags in your repository to ensure correct semantic versioning behavior.
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
