@@ -397,7 +397,7 @@
 
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) - A Compiler Writing Journey
-- [raifpy/Notes.c](https://github.com/raifpy/Notes.c) - My C assignment grades. Free to contribute
+- [raiftekin/Notes.c](https://github.com/raiftekin/Notes.c) - My C assignment grades. Free to contribute
 - [friendlyanon/cmake-init](https://github.com/friendlyanon/cmake-init) - The missing CMake project initializer
 - [yaml/libyaml](https://github.com/yaml/libyaml) - Canonical source repository for LibYAML
 - [greenbone/openvas-smb](https://github.com/greenbone/openvas-smb) - SMB module for OpenVAS Scanner
@@ -1859,7 +1859,7 @@
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 - [ckb-next/ckb-next](https://github.com/ckb-next/ckb-next) - RGB Driver for Linux
 - [hackbnw/faustus](https://github.com/hackbnw/faustus) - Experimental unofficial Linux platform driver module for ASUS TUF Gaming series laptops
-- [raifpy/KaraAmbarKart](https://github.com/raifpy/KaraAmbarKart) - Kamyoncular Derneği Kart
+- [raiftekin/KaraAmbarKart](https://github.com/raiftekin/KaraAmbarKart) - Kamyoncular Derneği Kart
 - [bitbackofen/Rss-Atom-Feed-Integration-for-Mattermost](https://github.com/bitbackofen/Rss-Atom-Feed-Integration-for-Mattermost) - RSS- and Atom-Feed integration for Mattermost (orphaned)
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [shawon9324/keyboard-mouse-tester-webApp](https://github.com/shawon9324/keyboard-mouse-tester-webApp) - An Online Testing Utility that helps you to test all keys on your keyboard. Works accurately with any keyboard and any browser.
@@ -1970,7 +1970,7 @@
 - [ThemeSaverApp/themesaver](https://github.com/ThemeSaverApp/themesaver) - This is a program that will help you to save your different Linux rice and apply them without rebooting.
 - [dsheeler/CoverflowAltTab](https://github.com/dsheeler/CoverflowAltTab) - Coverflow like Alt-Tab replacement for Gnome-Shell
 - [b68h4/tddroid](https://github.com/b68h4/tddroid) - TDLib Android Easy Build Project
-- [raifpy/ClipBoardTranslater](https://github.com/raifpy/ClipBoardTranslater) - Cross Platform ClipBoard Translater. Made with Golang
+- [raiftekin/ClipBoardTranslater](https://github.com/raiftekin/ClipBoardTranslater) - Cross Platform ClipBoard Translater. Made with Golang
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [simon-bueler/dotfiles](https://github.com/simon-bueler/dotfiles) - 
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
