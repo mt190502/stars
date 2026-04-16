@@ -414,7 +414,7 @@
 - [nwg-piotr/nwg-dock](https://github.com/nwg-piotr/nwg-dock) - GTK3-based dock for sway
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [golang/go](https://github.com/golang/go) - The Go programming language
-- [raifpy/KaraAmbarKart](https://github.com/raifpy/KaraAmbarKart) - Kamyoncular Derneği Kart
+- [raiftekin/KaraAmbarKart](https://github.com/raiftekin/KaraAmbarKart) - Kamyoncular Derneği Kart
 - [utkusen/socialhunter](https://github.com/utkusen/socialhunter) - crawls the website and finds broken social media links that can be hijacked
 - [srevinsaju/zap](https://github.com/srevinsaju/zap) - :zap: Delightful AppImage package manager
 - [utkusen/wholeaked](https://github.com/utkusen/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage
@@ -422,7 +422,7 @@
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [hugolgst/rich-go](https://github.com/hugolgst/rich-go) - Discord Rich Presence implementation for Linux, macOS and Windows in Golang
-- [raifpy/ClipBoardTranslater](https://github.com/raifpy/ClipBoardTranslater) - Cross Platform ClipBoard Translater. Made with Golang
+- [raiftekin/ClipBoardTranslater](https://github.com/raiftekin/ClipBoardTranslater) - Cross Platform ClipBoard Translater. Made with Golang
 - [codeksion/PhishDroid](https://github.com/codeksion/PhishDroid) - Simple Phishing Application For Education :')
 
 ## Go Template 
@@ -657,7 +657,7 @@
 - [ramaureirac/thinkpad-e14-linux](https://github.com/ramaureirac/thinkpad-e14-linux) - Current state of GNU/Linux on Lenovo Thinkpad E14
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [mt190502/k8s](https://github.com/mt190502/k8s) - Kubernetes Setup
-- [raifpy/Notes.c](https://github.com/raifpy/Notes.c) - My C assignment grades. Free to contribute
+- [raiftekin/Notes.c](https://github.com/raiftekin/Notes.c) - My C assignment grades. Free to contribute
 - [mt190502/stars](https://github.com/mt190502/stars) - 
 - [rfmoz/grafana-dashboards](https://github.com/rfmoz/grafana-dashboards) - Grafana dashboards
 - [chlebik/rhcsa-practice-questions](https://github.com/chlebik/rhcsa-practice-questions) - RHCSA practice questions for version 7/8
