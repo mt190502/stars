@@ -675,7 +675,6 @@
 - [Elagoht/30-dakikada-markdown-ogrenin](https://github.com/Elagoht/30-dakikada-markdown-ogrenin) - MarkDown öğretmek için yazılmış Türkçe eğitim kaynağı.
 - [Elagoht/3-saatte-vim-ogrenin](https://github.com/Elagoht/3-saatte-vim-ogrenin) - Türkçe Vim Öğrenim Konu Anlatım ve Çalışma İçeriği
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
-- [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison) - Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc.
 - [mt190502/mt190502](https://github.com/mt190502/mt190502) - 
 - [ezgiturali/Machine-Learning-Deep-Learning-Resources](https://github.com/ezgiturali/Machine-Learning-Deep-Learning-Resources) - 
 - [HugoBlox/hugo-theme-developer-portfolio](https://github.com/HugoBlox/hugo-theme-developer-portfolio) - Easily create your own developer portfolio website with Hugo.
