@@ -21,6 +21,7 @@
 - [Go](#go)
 - [Go Template](#go-template)
 - [Groovy](#groovy)
+- [HCL](#hcl)
 - [HTML](#html)
 - [JSON](#json)
 - [Java](#java)
@@ -435,6 +436,10 @@
 ## Groovy 
 
 - [nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes) - A curated list of awesome references collected since 2018.
+
+## HCL 
+
+- [mt190502/k8s.tf](https://github.com/mt190502/k8s.tf) - Terraform based automated kubernetes infrastructure
 
 ## HTML 
 
