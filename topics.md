@@ -1548,6 +1548,7 @@
 
 ## others 
 
+- [mt190502/k8s.tf](https://github.com/mt190502/k8s.tf) - Terraform based automated kubernetes infrastructure
 - [WayDroid-ATV/waydroid-builds](https://github.com/WayDroid-ATV/waydroid-builds) - Android 13/14/15 builds for Waydroid
 - [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) - Random digital audio effects
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
