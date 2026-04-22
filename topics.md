@@ -1550,6 +1550,7 @@
 
 ## others 
 
+- [mt190502/uptime.mtaha.dev](https://github.com/mt190502/uptime.mtaha.dev) - Uptime monitoring for srv.mtaha.dev cluster (https://github.com/mt190502/k8s.tf)
 - [mt190502/k8s.tf](https://github.com/mt190502/k8s.tf) - Terraform based automated kubernetes infrastructure
 - [WayDroid-ATV/waydroid-builds](https://github.com/WayDroid-ATV/waydroid-builds) - Android 13/14/15 builds for Waydroid
 - [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) - Random digital audio effects
