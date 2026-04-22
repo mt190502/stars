@@ -688,7 +688,7 @@
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [mt190502/mt190502](https://github.com/mt190502/mt190502) - 
 - [ezgiturali/Machine-Learning-Deep-Learning-Resources](https://github.com/ezgiturali/Machine-Learning-Deep-Learning-Resources) - 
-- [HugoBlox/hugo-theme-developer-portfolio](https://github.com/HugoBlox/hugo-theme-developer-portfolio) - Easily create your own developer portfolio website with Hugo.
+- [HugoBlox/hugo-theme-developer-portfolio](https://github.com/HugoBlox/hugo-theme-developer-portfolio) - 💼 Dev portfolio that gets you hired. AI generates pages, you own as Markdown. Project grid, tech stack, blog, dark-first design — no React app to maintain. Free forever. 开发者作品集，AI 生成，免费托管 👇
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [LogicWavelength/Manjaro-Stuff](https://github.com/LogicWavelength/Manjaro-Stuff) - 
 - [flathub/com.valvesoftware.Steam.CompatibilityTool.Proton-GE](https://github.com/flathub/com.valvesoftware.Steam.CompatibilityTool.Proton-GE) - 
