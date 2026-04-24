@@ -2252,6 +2252,7 @@
 
 ## security 
 
+- [seraph3000/redmine_login_audit2](https://github.com/seraph3000/redmine_login_audit2) - Login audit plugin for Redmine 6.x - Track login attempts, API access, and SSO authentication
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
