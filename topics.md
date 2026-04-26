@@ -1619,7 +1619,7 @@
 - [jellyfin/mopidy-jellyfin](https://github.com/jellyfin/mopidy-jellyfin) - Jellyfin Extension for Mopidy
 - [eonpatapon/mpDris2](https://github.com/eonpatapon/mpDris2) - MPRIS V2.1 support for mpd
 - [xdp-project/xdp-tutorial](https://github.com/xdp-project/xdp-tutorial) - XDP tutorial
-- [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays) - Output management utility for sway and Hyprland.
+- [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays) - Output management utility for sway, Hyprland and Niri
 - [metno/ansible-role-chrony](https://github.com/metno/ansible-role-chrony) - Configure NTP for server using recommended chronyd.
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [saveside/dots.nix](https://github.com/saveside/dots.nix) - jomo dotfiles but as nix
