@@ -2226,7 +2226,7 @@
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [bilelmoussaoui/ashpd](https://github.com/bilelmoussaoui/ashpd) - A Rust wrapper around XDG portals DBus interfaces
 - [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
-- [pipelight/boulette](https://github.com/pipelight/boulette) - A terminal confirmation prompt that prevents you from accidentally damaging remote hosts.
+- [crocuda/boulette](https://github.com/crocuda/boulette) - A terminal confirmation prompt that prevents you from accidentally damaging remote hosts.
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [fspoettel/advent-of-code-rust](https://github.com/fspoettel/advent-of-code-rust) - 🎄Starter template for solving Advent of Code in Rust.
 - [koibtw/highlightos](https://github.com/koibtw/highlightos) - 🌄 x86_64 OS (kernel) made from scratch in Rust & Assembly
