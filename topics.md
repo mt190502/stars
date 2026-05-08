@@ -1004,7 +1004,6 @@
 - [openSUSE/zypper](https://github.com/openSUSE/zypper) - World's most powerful command line package manager
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
-- [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
 - [franekxtb/pywal-discord](https://github.com/franekxtb/pywal-discord) - 🎨 A script that dynamically generates discord theme based on the current wal colorscheme
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [gentoo/qt](https://github.com/gentoo/qt) - [MIRROR] Qt Team's testing overlay
