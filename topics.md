@@ -1643,7 +1643,7 @@
 - [libbpf/bpftool](https://github.com/libbpf/bpftool) - Automated upstream mirror for bpftool stand-alone build.
 - [AsenaJs/Asena](https://github.com/AsenaJs/Asena) - IoC web framework for bun
 - [LibreTurks/usmanagabot](https://github.com/LibreTurks/usmanagabot) - 
-- [kreatoo/dots-mac](https://github.com/kreatoo/dots-mac) - Dotfiles for macOS, managed using nix-darwin
+- [kreatoo/dots-mac](https://github.com/kreatoo/dots-mac) - Dotfiles, managed using Nix
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
 - [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi) - Raspberry Pi config for all things Internet.
 - [1stupidgeek/save-deez-notes](https://github.com/1stupidgeek/save-deez-notes) - Note-taking app which uses Discord as a DB.
