@@ -761,6 +761,7 @@
 - [jelmer/xandikos](https://github.com/jelmer/xandikos) - A CalDAV/CardDAV server backed by Git
 - [mathialo/bython](https://github.com/mathialo/bython) - Python with braces. Because python is awesome, but whitespace is awful.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
+- [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing installations of the Linux distributions in Termux.
 - [intel/intel-npu-acceleration-library](https://github.com/intel/intel-npu-acceleration-library) - Intel® NPU Acceleration Library
 - [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
 - [yusufipk/dead-man-message](https://github.com/yusufipk/dead-man-message) - A dead man's switch. Send a message to people you love after you're dead.
@@ -955,7 +956,6 @@
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
 - [ryanrudolfoba/SteamOS-Waydroid-Installer](https://github.com/ryanrudolfoba/SteamOS-Waydroid-Installer) - Script to easily install / uninstall Android via Waydroid on the Steam Deck running on SteamOS stable, beta or MAIN!
 - [LineageOS/android_device_samsung_sm7125-common](https://github.com/LineageOS/android_device_samsung_sm7125-common) - 
-- [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing installations of the Linux distributions in Termux.
 - [jorgebucaran/autopair.fish](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command line
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [metwse/rofi-tdk.sh](https://github.com/metwse/rofi-tdk.sh) - Rofi için Türkçe sözlük
