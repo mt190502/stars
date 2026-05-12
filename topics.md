@@ -1614,7 +1614,7 @@
 - [bekh6ex/firefox-container-proxy](https://github.com/bekh6ex/firefox-container-proxy) - [Firefox extension] Assign a proxy to a Firefox container
 - [fedora-copr/copr](https://github.com/fedora-copr/copr) - RPM build system - upstream for https://copr.fedorainfracloud.org/
 - [sched-ext/scx](https://github.com/sched-ext/scx) - sched_ext schedulers and tools
-- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [tailscale-dev/deck-tailscale](https://github.com/tailscale-dev/deck-tailscale) - Tailscale install script for the Steam Deck
 - [nakst/gf](https://github.com/nakst/gf) - A GDB frontend for Lïnux.
 - [betelqeyza/victus-control](https://github.com/betelqeyza/victus-control) - An utility tool for HP Victus 16-s1000 laptops. :3
