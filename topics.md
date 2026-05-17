@@ -534,7 +534,6 @@
 
 ## config 
 
-- [m3tozz/NeoCat](https://github.com/m3tozz/NeoCat) - NeoCat - NeoFetch Theme Pack
 - [Deathemonic/SweetDots](https://github.com/Deathemonic/SweetDots) - 🍚 Dotfiles themed with SweetPastel 🎨
 - [eminboydak/.dotfiles](https://github.com/eminboydak/.dotfiles) - My dotfiles
 
@@ -1232,7 +1231,6 @@
 - [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3) - The theme from libadwaita ported to GTK-3
 - [EasyEngine/easyengine](https://github.com/EasyEngine/easyengine) - Command-line control panel for Nginx Server to manage WordPress sites running on Nginx, PHP, MySQL, and Let's Encrypt
 - [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
-- [m3tozz/NeoCat](https://github.com/m3tozz/NeoCat) - NeoCat - NeoFetch Theme Pack
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [xeome/notes.xeome.dev](https://github.com/xeome/notes.xeome.dev) - Personal documentation site, based on quartz
 - [oracle/bpftune](https://github.com/oracle/bpftune) - bpftune uses BPF to auto-tune Linux systems
@@ -2419,7 +2417,6 @@
 
 ## termux 
 
-- [m3tozz/NeoCat](https://github.com/m3tozz/NeoCat) - NeoCat - NeoFetch Theme Pack
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 ## terraform 
