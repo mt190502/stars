@@ -326,6 +326,7 @@
 
 ## Go 
 
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
 - [cozystack/local-ccm](https://github.com/cozystack/local-ccm) - Simple local CCM for bare-metal clusters
 - [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator
