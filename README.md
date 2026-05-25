@@ -658,7 +658,7 @@
 - [cncf/kubernetes-community-days](https://github.com/cncf/kubernetes-community-days) - 📅 Kubernetes Community Days website
 - [ramaureirac/thinkpad-e14-linux](https://github.com/ramaureirac/thinkpad-e14-linux) - Current state of GNU/Linux on Lenovo Thinkpad E14
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
-- [mt190502/k8s](https://github.com/mt190502/k8s) - Kubernetes Setup
+- [mt190502/k8s](https://github.com/mt190502/k8s) - Kubernetes Setup (for new version -&gt; https://github.com/mt190502/k8s.tf)
 - [raiftekin/Notes.c](https://github.com/raiftekin/Notes.c) - My C assignment grades. Free to contribute
 - [mt190502/stars](https://github.com/mt190502/stars) - 
 - [rfmoz/grafana-dashboards](https://github.com/rfmoz/grafana-dashboards) - Grafana dashboards
