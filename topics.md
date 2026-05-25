@@ -1628,7 +1628,7 @@
 - [saveside/dots.nix](https://github.com/saveside/dots.nix) - jomo dotfiles but as nix
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
-- [mt190502/k8s](https://github.com/mt190502/k8s) - Kubernetes Setup
+- [mt190502/k8s](https://github.com/mt190502/k8s) - Kubernetes Setup (for new version -&gt; https://github.com/mt190502/k8s.tf)
 - [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]
 - [TenSoja/clear-cache](https://github.com/TenSoja/clear-cache) - Add-on to clear browser cache with a single click or via the F9 key.
 - [mt190502/dotfiles.nix](https://github.com/mt190502/dotfiles.nix) - 
