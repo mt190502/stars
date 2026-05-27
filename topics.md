@@ -1555,6 +1555,7 @@
 
 ## others 
 
+- [bouquet2/kdfs](https://github.com/bouquet2/kdfs) - Kreato's Distributed File System
 - [mt190502/uptime.mtaha.dev](https://github.com/mt190502/uptime.mtaha.dev) - Uptime monitoring for srv.mtaha.dev cluster (https://github.com/mt190502/k8s.tf)
 - [mt190502/k8s.tf](https://github.com/mt190502/k8s.tf) - Terraform based automated kubernetes infrastructure
 - [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) - Random digital audio effects
