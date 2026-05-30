@@ -789,7 +789,6 @@
 - [xeome/JomOS](https://github.com/xeome/JomOS) - scripts for conversion to jomOS
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated Nginx Reverse Proxy for Docker
 - [aaronsvk/CVE-2022-30075](https://github.com/aaronsvk/CVE-2022-30075) - Tp-Link Archer AX50 Authenticated RCE (CVE-2022-30075)
-- [gridhead/nvidia-auto-installer-for-fedora-linux](https://github.com/gridhead/nvidia-auto-installer-for-fedora-linux) - A CLI tool which lets you install proprietary NVIDIA drivers and much more easily on Fedora Linux (32 or above and Rawhide)
 - [picklepete/pyicloud](https://github.com/picklepete/pyicloud) - A Python + iCloud wrapper to access iPhone and Calendar data.
 - [mt190502/customized-fedora-baseimage-ostree](https://github.com/mt190502/customized-fedora-baseimage-ostree) - 
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
