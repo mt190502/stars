@@ -322,7 +322,7 @@
 - [tractr/counter-strike-source-servers](https://github.com/tractr/counter-strike-source-servers) - Docker images to server Counter-Strike:Source with mods
 - [linuxserver/docker-nextcloud](https://github.com/linuxserver/docker-nextcloud) - 
 - [amake/innosetup-docker](https://github.com/amake/innosetup-docker) - Docker image to create Windows installer executables with Inno Setup
-- [linuxserver/docker-mysql-workbench](https://github.com/linuxserver/docker-mysql-workbench) - 
+- [linuxserver/docker-mysql-workbench](https://github.com/linuxserver/docker-mysql-workbench) - Web accessible MySQL Workbench running on top of Arch
 
 ## Go 
 
