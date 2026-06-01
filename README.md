@@ -414,7 +414,7 @@
 - [mattn/go-mastodon](https://github.com/mattn/go-mastodon) - mastodon client for golang
 - [podman-container-tools/buildah](https://github.com/podman-container-tools/buildah) - A tool that facilitates building OCI images.
 - [nwg-piotr/nwg-dock](https://github.com/nwg-piotr/nwg-dock) - GTK3-based dock for sway
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+- [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [raiftekin/KaraAmbarKart](https://github.com/raiftekin/KaraAmbarKart) - Kamyoncular Derneği Kart
 - [utkusen/socialhunter](https://github.com/utkusen/socialhunter) - crawls the website and finds broken social media links that can be hijacked
