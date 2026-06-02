@@ -1860,7 +1860,6 @@
 - [raiftekin/KaraAmbarKart](https://github.com/raiftekin/KaraAmbarKart) - Kamyoncular Derneği Kart
 - [bitbackofen/Rss-Atom-Feed-Integration-for-Mattermost](https://github.com/bitbackofen/Rss-Atom-Feed-Integration-for-Mattermost) - RSS- and Atom-Feed integration for Mattermost (orphaned)
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
-- [shawon9324/keyboard-mouse-tester-webApp](https://github.com/shawon9324/keyboard-mouse-tester-webApp) - An Online Testing Utility that helps you to test all keys on your keyboard. Works accurately with any keyboard and any browser.
 - [ubuntu/lightdm](https://github.com/ubuntu/lightdm) - Display Manager
 - [notofonts/noto-fonts](https://github.com/notofonts/noto-fonts) - Noto fonts, except for CJK and emoji
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
@@ -2099,6 +2098,7 @@
 ## pwa 
 
 - [filips123/PWAsForFirefox](https://github.com/filips123/PWAsForFirefox) - A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox
+- [shawon9324/keyboard-mouse-tester-webApp](https://github.com/shawon9324/keyboard-mouse-tester-webApp) - Free in-browser tester for your keyboard, mouse & gamepad. Spot dead keys, check buttons, scroll & analog sticks. Private, offline-capable, no install.
 
 ## python 
 
