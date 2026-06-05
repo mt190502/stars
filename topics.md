@@ -1290,7 +1290,6 @@
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [sonnyp/Junction](https://github.com/sonnyp/Junction) - Application/browser chooser
 - [adi1090x/widgets](https://github.com/adi1090x/widgets) - Few widgets for Eww, Elkowar’s Wacky Widgets.
-- [abba23/spotify-adblock-linux](https://github.com/abba23/spotify-adblock-linux) - Spotify adblocker for Linux
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
