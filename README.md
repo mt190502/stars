@@ -190,7 +190,6 @@
 - [aircrack-ng/rtl8188eus](https://github.com/aircrack-ng/rtl8188eus) - RealTek RTL8188eus WiFi driver with monitor mode & frame injection support
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
-- [abba23/spotify-adblock-linux](https://github.com/abba23/spotify-adblock-linux) - Spotify adblocker for Linux
 - [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
 - [b68h4/tddroid](https://github.com/b68h4/tddroid) - TDLib Android Easy Build Project
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
