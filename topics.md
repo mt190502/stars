@@ -1554,6 +1554,7 @@
 
 ## others 
 
+- [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [kreatoo/ihtc](https://github.com/kreatoo/ihtc) - I Hate This Country
 - [bouquet2/kdfs](https://github.com/bouquet2/kdfs) - Kreato's Distributed File System
 - [mt190502/uptime.mtaha.dev](https://github.com/mt190502/uptime.mtaha.dev) - Uptime monitoring for srv.mtaha.dev cluster (https://github.com/mt190502/k8s.tf)
