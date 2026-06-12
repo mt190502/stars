@@ -441,6 +441,7 @@
 
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
 - [carbonatedWaterOrg/yt-dlp-co2](https://github.com/carbonatedWaterOrg/yt-dlp-co2) - It's a modern web interface for yt-dlp with real-time progress tracking and multiple pretty cool themes.
+- [nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes) - A curated list of awesome references collected since 2018.
 - [geerlingguy/kubernetes-101](https://github.com/geerlingguy/kubernetes-101) - Kubernetes 101 - by Jeff Geerling
 - [w3c/activitypub](https://github.com/w3c/activitypub) - 
 - [ozgurozturknet/AdanZyeDocker](https://github.com/ozgurozturknet/AdanZyeDocker) - A'dan Z'ye Docker Eğitimi
@@ -743,7 +744,6 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
-- [nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes) - A curated list of awesome references collected since 2018.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm) - Universal Wayland Session Manager
 - [waydroid-helper/waydroid-helper](https://github.com/waydroid-helper/waydroid-helper) - 
