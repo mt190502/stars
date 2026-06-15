@@ -666,6 +666,7 @@
 - [chlebik/rhcsa-practice-questions](https://github.com/chlebik/rhcsa-practice-questions) - RHCSA practice questions for version 7/8
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [IBM/IBMDeveloper-recipes](https://github.com/IBM/IBMDeveloper-recipes) - The repo holds Recipes from IBM Developer for user access to the information
+- [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 - [gurugio/lowlevelprogramming-university](https://github.com/gurugio/lowlevelprogramming-university) - How to be low-level programmer
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [GPUOpen-Drivers/AMDVLK](https://github.com/GPUOpen-Drivers/AMDVLK) - AMD Open Source Driver For Vulkan
@@ -1047,7 +1048,6 @@
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [swiftlang/swift-java](https://github.com/swiftlang/swift-java) - Java interopability support for Swift
 - [kkebo/DNSecure](https://github.com/kkebo/DNSecure) - DNSecure is a configuration tool of DoT and DoH for iOS and iPadOS.
-- [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A fully native Discord client for macOS built 100% in Swift!
 - [KDE/kdeconnect-ios](https://github.com/KDE/kdeconnect-ios) - Native iOS port of KDE Connect
 
 ## TeX 
