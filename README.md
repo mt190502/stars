@@ -767,7 +767,7 @@
 - [jelmer/xandikos](https://github.com/jelmer/xandikos) - A CalDAV/CardDAV server backed by Git
 - [mathialo/bython](https://github.com/mathialo/bython) - Python with braces. Because python is awesome, but whitespace is awful.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
-- [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing installations of the Linux distributions in Termux.
+- [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing proot containers.
 - [intel/intel-npu-acceleration-library](https://github.com/intel/intel-npu-acceleration-library) - Intel® NPU Acceleration Library
 - [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
 - [yusufipk/dead-man-message](https://github.com/yusufipk/dead-man-message) - A dead man's switch. Send a message to people you love after you're dead.
