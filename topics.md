@@ -1576,7 +1576,7 @@
 - [Rackarr/Rackarr](https://github.com/Rackarr/Rackarr) - Visual rack layout designer for homelabbers
 - [raine/workmux](https://github.com/raine/workmux) - git worktrees + tmux windows for zero-friction parallel dev
 - [nix-community/plasma-manager](https://github.com/nix-community/plasma-manager) - Manage KDE Plasma with Home Manager [maintainer=@HeitorAugustoLN]
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial)
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages. Bring premium downtime experience to your website. (unofficial)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [arnarg/nixtml](https://github.com/arnarg/nixtml) - Static website and blog generator written in nix
