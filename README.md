@@ -482,6 +482,7 @@
 
 ## JavaScript 
 
+- [alanwsmith/markdown_table_formatter](https://github.com/alanwsmith/markdown_table_formatter) - A javascript form to format markdown tables for easier reading.
 - [joe-desimone/mongobleed](https://github.com/joe-desimone/mongobleed) - 
 - [good-lly/s3mini](https://github.com/good-lly/s3mini) - ⚠️  Moved to Codeberg: https://codeberg.org/thinking_tools/s3mini - Tiny S3 client. Edge computing ready. No-dep. In Typescript.
 - [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android
