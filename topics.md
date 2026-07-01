@@ -1568,6 +1568,7 @@
 
 ## others 
 
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [alanwsmith/markdown_table_formatter](https://github.com/alanwsmith/markdown_table_formatter) - A javascript form to format markdown tables for easier reading.
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [kreatoo/ihtc](https://github.com/kreatoo/ihtc) - I Hate This Country
