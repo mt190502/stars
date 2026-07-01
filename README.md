@@ -1161,7 +1161,7 @@
 
 - [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
 - [system76/docs](https://github.com/system76/docs) - System76 support documentation site
-- [labex-labs/python-cheatsheet](https://github.com/labex-labs/python-cheatsheet) - Python Cheatsheet
+- [labex-labs/python-cheatsheet](https://github.com/labex-labs/python-cheatsheet) - Python Cheatsheet - interactive hands-on course by LabEx.
 
 ## Wren 
 
