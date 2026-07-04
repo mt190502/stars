@@ -943,7 +943,7 @@
 ## SCSS 
 
 - [farend/redmine_theme_farend_bleuclair](https://github.com/farend/redmine_theme_farend_bleuclair) - Custom theme for Redmine. Compatible with: Redmine 3.4 - 6.0
-- [gagnieray/opale](https://github.com/gagnieray/opale) - A Redmine 5.x - 6.x theme
+- [gagnieray/opale](https://github.com/gagnieray/opale) - A Redmine 5.x - 7.x theme
 - [mrliptontea/PurpleMine2](https://github.com/mrliptontea/PurpleMine2) - Theme for Redmine 3.x - 4.x. For newer, see: https://github.com/gagnieray/opale
 - [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3) - The theme from libadwaita ported to GTK-3
 - [adi1090x/widgets](https://github.com/adi1090x/widgets) - Few widgets for Eww, Elkowar’s Wacky Widgets.
