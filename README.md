@@ -350,7 +350,6 @@
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
-- [erencanucarr/imapsync](https://github.com/erencanucarr/imapsync) - 
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [xeome/slimserve](https://github.com/xeome/slimserve) - 
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
