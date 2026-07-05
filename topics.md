@@ -1642,7 +1642,7 @@
 - [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays) - Output management utility for sway, Hyprland and Niri
 - [metno/ansible-role-chrony](https://github.com/metno/ansible-role-chrony) - Configure NTP for server using recommended chronyd.
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
-- [saveside/dots.nix](https://github.com/saveside/dots.nix) - jomo dotfiles but as nix
+- [saveside/dots.nix](https://github.com/saveside/dots.nix) - yet another stolen config
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [mt190502/k8s](https://github.com/mt190502/k8s) - Kubernetes Setup (for new version -&gt; https://github.com/mt190502/k8s.tf)
@@ -1658,7 +1658,6 @@
 - [libbpf/bpftool](https://github.com/libbpf/bpftool) - Automated upstream mirror for bpftool stand-alone build.
 - [AsenaJs/Asena](https://github.com/AsenaJs/Asena) - IoC web framework for bun
 - [LibreTurks/usmanagabot](https://github.com/LibreTurks/usmanagabot) - 
-- [kreatoo/dots-mac](https://github.com/kreatoo/dots-mac) - Dotfiles, managed using Nix
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
 - [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi) - Raspberry Pi config for all things Internet.
 - [1stupidgeek/save-deez-notes](https://github.com/1stupidgeek/save-deez-notes) - Note-taking app which uses Discord as a DB.
