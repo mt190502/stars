@@ -648,11 +648,10 @@
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
 - [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
-- [saveside/dots.nix](https://github.com/saveside/dots.nix) - jomo dotfiles but as nix
+- [saveside/dots.nix](https://github.com/saveside/dots.nix) - yet another stolen config
 - [nix-community/stylix](https://github.com/nix-community/stylix) - Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]
 - [mt190502/dotfiles.nix](https://github.com/mt190502/dotfiles.nix) - 
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
-- [kreatoo/dots-mac](https://github.com/kreatoo/dots-mac) - Dotfiles, managed using Nix
 - [usdogu/dotfiles.nix](https://github.com/usdogu/dotfiles.nix) - 
 
 ## Objective-C 
