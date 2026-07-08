@@ -326,7 +326,6 @@
 ## Go 
 
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
-- [kreatoo/ihtc](https://github.com/kreatoo/ihtc) - I Hate This Country
 - [bouquet2/kdfs](https://github.com/bouquet2/kdfs) - Kreato's Distributed File System
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
