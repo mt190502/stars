@@ -6,6 +6,7 @@
 ## Contents
 
 - [Assembly](#assembly)
+- [Astro](#astro)
 - [AutoIt](#autoit)
 - [Awk](#awk)
 - [Batchfile](#batchfile)
@@ -67,6 +68,10 @@
 - [shikaan/x86-64-asm-intro](https://github.com/shikaan/x86-64-asm-intro) - 💾 Learning x86-64 assembly
 - [xrarch/mintia](https://github.com/xrarch/mintia) - Paging operating system for a custom computer architecture
 - [xeome/assembly-web](https://github.com/xeome/assembly-web) - doing web dev using native assembly &gt;:)
+
+## Astro 
+
+- [bouquet2/krea.to](https://github.com/bouquet2/krea.to) - krea.to site
 
 ## AutoIt 
 
@@ -284,7 +289,6 @@
 
 ## CSS 
 
-- [bouquet2/krea.to](https://github.com/bouquet2/krea.to) - krea.to site
 - [joeroe/risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
 - [Siumauricio/rippleui](https://github.com/Siumauricio/rippleui) - Clean, modern and beautiful Tailwind CSS components.
 - [NsCDE/NsCDE](https://github.com/NsCDE/NsCDE) - Modern and functional CDE desktop based on FVWM
@@ -961,7 +965,6 @@
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [marcan/takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
 - [Syakhisk/proxmox-minikube-knative](https://github.com/Syakhisk/proxmox-minikube-knative) - Proxmox Minikube Knative - Serverless Proof of Concept. This repository is a guide based on my final research project for my degree at Institut Teknologi Sepuluh Nopember.
-- [kreatoo/bouquet](https://github.com/kreatoo/bouquet) - Fully declarative Kubernetes configuration which includes multiple services and tooling
 - [fieu/discord.sh](https://github.com/fieu/discord.sh) - Write-only command-line Discord webhooks integration written in 100% Bash script
 - [monobilisim/mono.sh-old](https://github.com/monobilisim/mono.sh-old) - 
 - [jiangcuo/pxvirt](https://github.com/jiangcuo/pxvirt) - A fork of Proxmox VE for ARM and LoongArch architectures
