@@ -1699,7 +1699,7 @@
 - [TheMuppets/proprietary_vendor_samsung_a52q](https://github.com/TheMuppets/proprietary_vendor_samsung_a52q) - 
 - [LineageOS/android_device_samsung_a52q](https://github.com/LineageOS/android_device_samsung_a52q) - 
 - [LineageOS/android_device_samsung_sm7125-common](https://github.com/LineageOS/android_device_samsung_sm7125-common) - 
-- [coreutils/coreutils](https://github.com/coreutils/coreutils) - upstream mirror
+- [coreutils/coreutils](https://github.com/coreutils/coreutils) - Public mirror. Pull requests and Issues accepted
 - [xeome/dots](https://github.com/xeome/dots) - dotfiles
 - [murat-akpinar/ansible-role-rke2-cluster](https://github.com/murat-akpinar/ansible-role-rke2-cluster) - Ansible ile 1 Master 2 Worker Cluster ve üstüne metallb, longhorn
 - [mt190502/rss-finder-firefox](https://github.com/mt190502/rss-finder-firefox) - Lists RSS and Atom feeds available on the current web page
