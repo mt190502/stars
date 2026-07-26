@@ -154,7 +154,6 @@
 - [v4l2loopback/v4l2loopback](https://github.com/v4l2loopback/v4l2loopback) - v4l2-loopback device
 - [onetrueawk/awk](https://github.com/onetrueawk/awk) - One true awk
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
-- [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [OpenRC/openrc](https://github.com/OpenRC/openrc) - The OpenRC init system
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
@@ -690,6 +689,7 @@
 - [mt190502/mt190502](https://github.com/mt190502/mt190502) - 
 - [ezgiturali/Machine-Learning-Deep-Learning-Resources](https://github.com/ezgiturali/Machine-Learning-Deep-Learning-Resources) - 
 - [HugoBlox/hugo-theme-developer-portfolio](https://github.com/HugoBlox/hugo-theme-developer-portfolio) - 💼 Dev portfolio that gets you hired. AI generates pages, you own as Markdown. Project grid, tech stack, blog, dark-first design — no React app to maintain. Free forever. 开发者作品集，AI 生成，免费托管 👇
+- [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [LogicWavelength/Manjaro-Stuff](https://github.com/LogicWavelength/Manjaro-Stuff) - 
 - [flathub/com.valvesoftware.Steam.CompatibilityTool.Proton-GE](https://github.com/flathub/com.valvesoftware.Steam.CompatibilityTool.Proton-GE) - 
