@@ -455,7 +455,6 @@
 - [yucellmustafa/yucellmustafa.github.io](https://github.com/yucellmustafa/yucellmustafa.github.io) - sadece minimalist, kişisel bir blog
 - [coderserdar/Documents](https://github.com/coderserdar/Documents) - This repo includes some kind of documentation files about Information Technologies like Programming, Operating Systems, Cyber Security, Algorithm, Mobile Development etc.
 - [grassmunk/Chicago95](https://github.com/grassmunk/Chicago95) - A rendition of everyone's favorite 1995 Microsoft operating system for Linux.
-- [beucismis/pastewin](https://github.com/beucismis/pastewin) - Free alternative Pastebin front-end
 - [kagancapar/CVE-2022-29072](https://github.com/kagancapar/CVE-2022-29072) - 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help&gt;Contents area.
 - [w3c/uievents](https://github.com/w3c/uievents) - UI Events
 - [Linux-Dersleri/linux-dersleri.github.io](https://github.com/Linux-Dersleri/linux-dersleri.github.io) - Linux Dokümantasyonu Web Platformu
