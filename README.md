@@ -119,7 +119,7 @@
 - [id-Software/Quake-III-Arena](https://github.com/id-Software/Quake-III-Arena) - Quake III Arena GPL Source Release
 - [xeome/riscv-kernel](https://github.com/xeome/riscv-kernel) - riscv toy kernel
 - [greenbone/openvas-smb](https://github.com/greenbone/openvas-smb) - SMB module for OpenVAS Scanner
-- [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
+- [wlrfx/swayfx](https://github.com/wlrfx/swayfx) - SwayFX: Sway, but with eye candy!
 - [haproxy/haproxy](https://github.com/haproxy/haproxy) - HAProxy Load Balancer's development branch (mirror of git.haproxy.org)
 - [oracle/bpftune](https://github.com/oracle/bpftune) - bpftune uses BPF to auto-tune Linux systems
 - [mate-desktop/engrampa](https://github.com/mate-desktop/engrampa) - A file archiver for MATE
