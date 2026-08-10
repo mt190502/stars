@@ -1233,7 +1233,7 @@
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [chlebik/rhcsa-practice-questions](https://github.com/chlebik/rhcsa-practice-questions) - RHCSA practice questions for version 7/8
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
-- [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing proot containers.
+- [termux/proot-distro](https://github.com/termux/proot-distro) - A utility for managing proot containers.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [lassekongo83/adw-gtk3](https://github.com/lassekongo83/adw-gtk3) - The theme from libadwaita ported to GTK-3
 - [EasyEngine/easyengine](https://github.com/EasyEngine/easyengine) - Command-line control panel for Nginx Server to manage WordPress sites running on Nginx, PHP, MySQL, and Let's Encrypt
@@ -1472,7 +1472,7 @@
 ## nodejs 
 
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
-- [good-lly/s3mini](https://github.com/good-lly/s3mini) - ⚠️  Moved to Codeberg: https://codeberg.org/thinking_tools/s3mini - Tiny S3 client. Edge computing ready. No-dep. In Typescript.
+- [good-lly/s3mini](https://github.com/good-lly/s3mini) - ⚠️  Moved to Code.NOLOG: https://code.nolog.cz/thinking.tools/s3mini - Tiny S3 client. Edge computing ready. No-dep. In Typescript.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
@@ -2128,7 +2128,7 @@
 - [jelmer/xandikos](https://github.com/jelmer/xandikos) - A CalDAV/CardDAV server backed by Git
 - [mathialo/bython](https://github.com/mathialo/bython) - Python with braces. Because python is awesome, but whitespace is awful.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
-- [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing proot containers.
+- [termux/proot-distro](https://github.com/termux/proot-distro) - A utility for managing proot containers.
 - [narbehaj/ssl-checker](https://github.com/narbehaj/ssl-checker) - Python script that collects SSL/TLS information from hosts
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
@@ -2335,7 +2335,7 @@
 ## serverless 
 
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-- [good-lly/s3mini](https://github.com/good-lly/s3mini) - ⚠️  Moved to Codeberg: https://codeberg.org/thinking_tools/s3mini - Tiny S3 client. Edge computing ready. No-dep. In Typescript.
+- [good-lly/s3mini](https://github.com/good-lly/s3mini) - ⚠️  Moved to Code.NOLOG: https://code.nolog.cz/thinking.tools/s3mini - Tiny S3 client. Edge computing ready. No-dep. In Typescript.
 - [Syakhisk/proxmox-minikube-knative](https://github.com/Syakhisk/proxmox-minikube-knative) - Proxmox Minikube Knative - Serverless Proof of Concept. This repository is a guide based on my final research project for my degree at Institut Teknologi Sepuluh Nopember.
 - [madnight/githut](https://github.com/madnight/githut) - Github Language Statistics
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -2442,7 +2442,7 @@
 
 ## termux 
 
-- [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing proot containers.
+- [termux/proot-distro](https://github.com/termux/proot-distro) - A utility for managing proot containers.
 - [m3tozz/NeoCat](https://github.com/m3tozz/NeoCat) - NeoCat - NeoFetch Theme Pack
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
