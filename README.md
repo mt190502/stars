@@ -90,7 +90,6 @@
 
 - [HelenOS/helenos](https://github.com/HelenOS/helenos) - A portable microkernel-based multiserver operating system written from scratch.
 - [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) - Random digital audio effects
-- [j-kaltes/Juggluco](https://github.com/j-kaltes/Juggluco) - Android app for Freestyle Libre 1,2 and 3, Dexcom G7/ONE+, Sibionics GS1Sb and GS3 , AccuChek SmartGuide, CareSens Air and Linx/Aidex X sensors
 - [ValveSoftware/wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice
 - [sched-ext/scx](https://github.com/sched-ext/scx) - sched_ext schedulers and tools
 - [xdp-project/xdp-tutorial](https://github.com/xdp-project/xdp-tutorial) - XDP tutorial
@@ -223,6 +222,7 @@
 - [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) - SteamOS session compositing window manager
 - [ksnip/ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
+- [j-kaltes/Juggluco](https://github.com/j-kaltes/Juggluco) - Android app for Freestyle Libre 1,2 and 3, Dexcom G7/ONE+, Sibionics GS1Sb and GS3 , AccuChek SmartGuide, CareSens Air and Linx/Aidex X sensors
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [directvt/vtm](https://github.com/directvt/vtm) - Text-based desktop environment
 - [betelqeyza/victus-control](https://github.com/betelqeyza/victus-control) - An utility tool for HP Victus 16-s1000 laptops. :3
