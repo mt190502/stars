@@ -508,7 +508,7 @@
 - [sapics/ip-location-db](https://github.com/sapics/ip-location-db) - ip to location database by ASN, GeoFeed, Whois, iptoasn.com, db-ip lite, GeoLite2
 - [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.
 - [junstyle/vscode-php-cs-fixer](https://github.com/junstyle/vscode-php-cs-fixer) - PHP CS Fixer extension for VS Code
-- [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
+- [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive email easy
 - [meetDeveloper/Dictionary-Anywhere](https://github.com/meetDeveloper/Dictionary-Anywhere) - Dictionary extension that helps you stay focused on what you are reading by eliminating the need to search for meaning.
 - [jgraph/drawio-nextcloud](https://github.com/jgraph/drawio-nextcloud) - Fork from 2022 nextcloud repo
 - [nextcloud/integration_github](https://github.com/nextcloud/integration_github) - 🐙 GitHub integration into Nextcloud
