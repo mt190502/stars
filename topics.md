@@ -1730,7 +1730,7 @@
 - [usdogu/dotfiles.nix](https://github.com/usdogu/dotfiles.nix) - 
 - [jrsoftware/issrc](https://github.com/jrsoftware/issrc) - Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its introduction in 1997, Inno Setup has been trusted by developers and organizatio
 - [go-ole/go-ole](https://github.com/go-ole/go-ole) - win32 ole implementation for golang
-- [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
+- [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive email easy
 - [refi64/zypak](https://github.com/refi64/zypak) - Run Electron binaries in a sandboxed Flatpak environment
 - [mate-desktop/engrampa](https://github.com/mate-desktop/engrampa) - A file archiver for MATE
 - [artizirk/wdisplays](https://github.com/artizirk/wdisplays) - Mirror of cyclopsian/wdisplays
