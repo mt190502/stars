@@ -810,6 +810,7 @@
 - [ricardomv/snapper-gui](https://github.com/ricardomv/snapper-gui) - GUI for snapper, a tool for Linux filesystem snapshot management, works with btrfs, ext4 and thin-provisioned LVM volumes
 - [fangfufu/Linux-Fake-Background-Webcam](https://github.com/fangfufu/Linux-Fake-Background-Webcam) - Faking your webcam background under GNU/Linux, now supports background blurring, animated background, colour map effect, hologram effect and on-demand processing.
 - [hakandundar34coding/system-monitoring-center](https://github.com/hakandundar34coding/system-monitoring-center) - Multi-featured system monitor
+- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [Zren/plasma-applet-volumewin7mixer](https://github.com/Zren/plasma-applet-volumewin7mixer) - 
 - [pisilinux/old_contrib](https://github.com/pisilinux/old_contrib) - packages for Pisi-2.0 not supported  with team
 - [pisilinux/core](https://github.com/pisilinux/core) - Pisi-2.0 Core repository
@@ -1014,7 +1015,6 @@
 - [mt190502/debianefihelper](https://github.com/mt190502/debianefihelper) - Efistub helper for debian based systems
 - [dkms-project/dkms](https://github.com/dkms-project/dkms) - Dynamic Kernel Module System
 - [m9rco/Genymotion_ARM_Translation](https://github.com/m9rco/Genymotion_ARM_Translation) - 👾👾 Genymotion_ARM_Translation Please enjoy！
-- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [felixonmars/aur3-mirror](https://github.com/felixonmars/aur3-mirror) - Git archive of the Arch User Repository 3. (Cloned from pkgbuild.com/git/aur-mirror.git)
 - [popey/unsnap](https://github.com/popey/unsnap) - Quickly migrate from using snap packages to flatpaks
 - [altindas/stillarch](https://github.com/altindas/stillarch) - 
