@@ -1146,6 +1146,7 @@
 
 ## kubernetes 
 
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Unified Policy as Code
 - [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [cozystack/local-ccm](https://github.com/cozystack/local-ccm) - Simple local CCM for bare-metal clusters
@@ -2283,6 +2284,7 @@
 
 ## security 
 
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Unified Policy as Code
 - [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositorie
 - [seraph3000/redmine_login_audit2](https://github.com/seraph3000/redmine_login_audit2) - Login audit plugin for Redmine 6.x / 7.x - Track login attempts, API access, and SSO authentication
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
