@@ -609,7 +609,6 @@
 ## Lua 
 
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
-- [xeome/dots](https://github.com/xeome/dots) - dotfiles
 - [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
 - [Stardust-kyun/calla](https://github.com/Stardust-kyun/calla) - Calla Desktop Environment
 - [nikneym/picodns](https://github.com/nikneym/picodns) - Caching and non-blocking DNS resolver for Lua
@@ -855,6 +854,7 @@
 ## QML 
 
 - [saveside/dots.nix](https://github.com/saveside/dots.nix) - yet another stolen config
+- [xeome/dots](https://github.com/xeome/dots) - dotfiles
 - [AsteroidOS/unofficial-watchfaces](https://github.com/AsteroidOS/unofficial-watchfaces) - Database of community-made watchfaces for AsteroidOS.
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
 - [adhec/launchpad-plasma](https://github.com/adhec/launchpad-plasma) - Launchpad plasmoid for Plasma
