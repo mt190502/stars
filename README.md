@@ -422,6 +422,7 @@
 - [raiftekin/KaraAmbarKart](https://github.com/raiftekin/KaraAmbarKart) - Kamyoncular Derneği Kart
 - [utkusen/socialhunter](https://github.com/utkusen/socialhunter) - crawls the website and finds broken social media links that can be hijacked
 - [srevinsaju/zap](https://github.com/srevinsaju/zap) - :zap: Delightful AppImage package manager
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [utkusen/wholeaked](https://github.com/utkusen/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage
 - [coreos/go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files
@@ -1135,7 +1136,6 @@
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [tuxedocomputers/tuxedo-control-center](https://github.com/tuxedocomputers/tuxedo-control-center) - A tool to help you control performance, energy, fan and comfort settings on TUXEDO laptops.
 - [oae/gnome-shell-extensions-sync](https://github.com/oae/gnome-shell-extensions-sync) - Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations
-- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [fishuke/ytmparty](https://github.com/fishuke/ytmparty) - Chrome extension that allows you to listen to music with your friends in Youtube Music.
 - [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
 - [ShyykoSerhiy/vscode-spotify](https://github.com/ShyykoSerhiy/vscode-spotify) - Use Spotify inside vscode(on Mac, Windows, and Linux).
