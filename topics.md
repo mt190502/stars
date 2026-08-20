@@ -1701,7 +1701,6 @@
 - [LineageOS/android_device_samsung_sm7125-common](https://github.com/LineageOS/android_device_samsung_sm7125-common) - 
 - [coreutils/coreutils](https://github.com/coreutils/coreutils) - Public mirror. Pull requests and Issues accepted
 - [xeome/dots](https://github.com/xeome/dots) - dotfiles
-- [murat-akpinar/ansible-role-rke2-cluster](https://github.com/murat-akpinar/ansible-role-rke2-cluster) - Ansible ile 1 Master 2 Worker Cluster ve üstüne metallb, longhorn
 - [mt190502/rss-finder-firefox](https://github.com/mt190502/rss-finder-firefox) - Lists RSS and Atom feeds available on the current web page
 - [FreshRSS/Extensions](https://github.com/FreshRSS/Extensions) - A repository containing all the official FreshRSS extensions
 - [intel/intel-npu-acceleration-library](https://github.com/intel/intel-npu-acceleration-library) - Intel® NPU Acceleration Library
