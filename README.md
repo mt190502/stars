@@ -500,7 +500,7 @@
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [te-online/timemanager](https://github.com/te-online/timemanager) - TimeManager App within Nextcloud to manage time tracking.
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for optimal privacy and security. Your favorite browser, but better.
-- [mechatroner/vscode_rainbow_csv](https://github.com/mechatroner/vscode_rainbow_csv) - 🌈Rainbow CSV - VS Code extension: Highlight CSV and TSV files in different rainbow colors to make them more readable
+- [mechatroner/vscode_rainbow_csv](https://github.com/mechatroner/vscode_rainbow_csv) - Rainbow CSV - VS Code extension: Highlight CSV and TSV files in different rainbow colors to make them more readable
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [said7388/developer-portfolio](https://github.com/said7388/developer-portfolio) - Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.
 - [mt190502/rss-finder-firefox](https://github.com/mt190502/rss-finder-firefox) - Lists RSS and Atom feeds available on the current web page
