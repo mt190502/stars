@@ -330,6 +330,7 @@
 
 ## Go 
 
+- [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Unified Policy as Code
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [bouquet2/kdfs](https://github.com/bouquet2/kdfs) - Kreato's Distributed File System
@@ -749,6 +750,7 @@
 
 ## Python 
 
+- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositorie
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [guillermodotn/pppoe-retriever](https://github.com/guillermodotn/pppoe-retriever) - A tool to extract PPPoE credentials from ISP-locked routers.
