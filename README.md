@@ -330,6 +330,8 @@
 
 ## Go 
 
+- [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+- [containernetworking/cni](https://github.com/containernetworking/cni) - Container Network Interface - networking for Linux containers
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Unified Policy as Code
@@ -888,6 +890,7 @@
 
 ## Rust 
 
+- [valeninki/netui](https://github.com/valeninki/netui) - Lightweight, keyboard-driven Linux network TUI. Pure IWD, systemd-networkd, and systemd-resolved stack with zero NetworkManager dependency.
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
@@ -959,6 +962,7 @@
 
 ## Shell 
 
+- [immanuwell/k16s-exam-simulator](https://github.com/immanuwell/k16s-exam-simulator) - K16S - CKA/CKS lab that could actually break kubelet, systemd, containerd, static pods, etcd and certificates (not kind)
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
