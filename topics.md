@@ -1591,6 +1591,7 @@
 
 ## others 
 
+- [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using)
 - [nix-community/nixos-avf](https://github.com/nix-community/nixos-avf) - NixOS for Android Terminal (Android Virtualization Framework) [maintainers=@mkg20001]
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [alanwsmith/markdown_table_formatter](https://github.com/alanwsmith/markdown_table_formatter) - A javascript form to format markdown tables for easier reading.
