@@ -238,7 +238,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [RedPlanetHQ/tegon](https://github.com/RedPlanetHQ/tegon) - Tegon is an open-source, dev-first alternative to Jira, Linear
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian
+- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - Run agents in Obsidian - OpenCode, Codex, Claude Code etc.
 
 ## algorithm 
 
@@ -446,7 +446,7 @@
 
 ## chatgpt 
 
-- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian
+- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - Run agents in Obsidian - OpenCode, Codex, Claude Code etc.
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - This project is deprecated. Check my new project ChatHub:
 
 ## chrome 
@@ -1533,7 +1533,7 @@
 
 ## obsidian-plugin 
 
-- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian
+- [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - Run agents in Obsidian - OpenCode, Codex, Claude Code etc.
 - [ebullient/obsidian-admonition](https://github.com/ebullient/obsidian-admonition) - Adds admonition block-styled content to Obsidian.md
 - [IdreesInc/Waypoint](https://github.com/IdreesInc/Waypoint) - Obsidian plugin that gives you the power to generate dynamic MOCs in your folder notes. Enables folders to show up in the graph view and removes the need for messy tags!
 - [community-archive/obsidian-kanban](https://github.com/community-archive/obsidian-kanban) - Create markdown-backed Kanban boards in Obsidian.
