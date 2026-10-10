@@ -1161,6 +1161,7 @@
 
 ## Vala 
 
+- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME
 - [focustimerhq/FocusTimer](https://github.com/focustimerhq/FocusTimer) - A time management utility for GNOME based on the pomodoro technique!
 
 ## Vim Script 
