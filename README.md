@@ -988,7 +988,7 @@
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [metwse/rofi-tdk.sh](https://github.com/metwse/rofi-tdk.sh) - Rofi için Türkçe sözlük
 - [m3tozz/NeoCat](https://github.com/m3tozz/NeoCat) - NeoCat - NeoFetch Theme Pack
-- [omertahaoztop/MyDotfiles](https://github.com/omertahaoztop/MyDotfiles) - 
+- [omertahaoztop/MyDotfiles](https://github.com/omertahaoztop/MyDotfiles) - Personal Arch Linux dotfiles and setup scripts (bspwm, AstroNvim, tmux).
 - [nextcloud/docker](https://github.com/nextcloud/docker) - A community maintained docker micro-image for deploying Nextcloud on container platforms
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [yusufipk/hyprconf](https://github.com/yusufipk/hyprconf) - My hyprland conf files
