@@ -322,6 +322,7 @@
 
 ## archlinux 
 
+- [omertahaoztop/MyDotfiles](https://github.com/omertahaoztop/MyDotfiles) - Personal Arch Linux dotfiles and setup scripts (bspwm, AstroNvim, tmux).
 - [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos) - Archlinux Kernel based on different schedulers and some other performance improvements.
 - [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
 - [CachyOS/CachyOS-Settings](https://github.com/CachyOS/CachyOS-Settings) - Settings used for CachyOS
@@ -743,6 +744,7 @@
 - [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin) - Manage your macOS using Nix
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
 - [kkebo/dotfiles](https://github.com/kkebo/dotfiles) - 
+- [omertahaoztop/MyDotfiles](https://github.com/omertahaoztop/MyDotfiles) - Personal Arch Linux dotfiles and setup scripts (bspwm, AstroNvim, tmux).
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
 - [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
 - [Stardust-kyun/calla](https://github.com/Stardust-kyun/calla) - Calla Desktop Environment
@@ -1283,6 +1285,7 @@
 - [xeome/notes.xeome.dev](https://github.com/xeome/notes.xeome.dev) - Personal documentation site, based on quartz
 - [oracle/bpftune](https://github.com/oracle/bpftune) - bpftune uses BPF to auto-tune Linux systems
 - [stav121/i3wm-themer](https://github.com/stav121/i3wm-themer) - 🎨 Theme collection manager for i3-wm
+- [omertahaoztop/MyDotfiles](https://github.com/omertahaoztop/MyDotfiles) - Personal Arch Linux dotfiles and setup scripts (bspwm, AstroNvim, tmux).
 - [terhechte/Ebou](https://github.com/terhechte/Ebou) - A cross platform Mastodon Client written in Rust
 - [openandroidinstaller-dev/openandroidinstaller](https://github.com/openandroidinstaller-dev/openandroidinstaller) - Makes installing alternative Android distributions nice and easy.
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
@@ -1782,7 +1785,6 @@
 - [artizirk/wdisplays](https://github.com/artizirk/wdisplays) - Mirror of cyclopsian/wdisplays
 - [luispabon/wdisplays](https://github.com/luispabon/wdisplays) - 
 - [w3c/activitypub](https://github.com/w3c/activitypub) - 
-- [omertahaoztop/MyDotfiles](https://github.com/omertahaoztop/MyDotfiles) - 
 - [lpicanco/i3-autodisplay](https://github.com/lpicanco/i3-autodisplay) - i3wm multiple monitors auto configuration
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [jgraph/drawio-nextcloud](https://github.com/jgraph/drawio-nextcloud) - Fork from 2022 nextcloud repo
@@ -2405,6 +2407,7 @@
 - [chlebik/rhcsa-practice-questions](https://github.com/chlebik/rhcsa-practice-questions) - RHCSA practice questions for version 7/8
 - [mgree/ffs](https://github.com/mgree/ffs) - the file filesystem: mount semi-structured data (like JSON) as a Unix filesystem
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
+- [omertahaoztop/MyDotfiles](https://github.com/omertahaoztop/MyDotfiles) - Personal Arch Linux dotfiles and setup scripts (bspwm, AstroNvim, tmux).
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [cairoshell/cairoshell](https://github.com/cairoshell/cairoshell) - Cairo is a customizable, intuitive desktop environment for Windows.
 - [cairoshell/ManagedShell](https://github.com/cairoshell/ManagedShell) - A library for creating Windows shell replacements using .NET.
