@@ -395,7 +395,7 @@
 - [caddyserver/ingress](https://github.com/caddyserver/ingress) - WIP Caddy 2 ingress controller for Kubernetes
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [go-telegram/bot](https://github.com/go-telegram/bot) - Telegram Bot API Go framework
-- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
+- [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [go-latex/latex](https://github.com/go-latex/latex) - Go package for LaTeX
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
@@ -476,7 +476,6 @@
 - [maytinhdibo/battery-friendly-pocketmode](https://github.com/maytinhdibo/battery-friendly-pocketmode) - Support me
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [klausw/hackerskeyboard](https://github.com/klausw/hackerskeyboard) - Hacker's Keyboard (official)
-- [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Keyboard and mouse input mapper
 - [proninyaroslav/libretorrent](https://github.com/proninyaroslav/libretorrent) - Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent
 - [syncthing/syncthing-android](https://github.com/syncthing/syncthing-android) - Wrapper of syncthing for Android.
 - [Crendgrim/DynamicCrosshair](https://github.com/Crendgrim/DynamicCrosshair) - A Minecraft mod that hides or changes the crosshair dependent on context.
@@ -599,6 +598,7 @@
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 - [darshanparajuli/LogcatReader](https://github.com/darshanparajuli/LogcatReader) - A simple app for viewing logcat logs on an android device.
 - [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - Video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
+- [Xtr126/XtMapper](https://github.com/Xtr126/XtMapper) - Keyboard and mouse input mapper
 - [LiberaTeMetuMortis/KotlinSpigotPluginTemplate](https://github.com/LiberaTeMetuMortis/KotlinSpigotPluginTemplate) - Basic Kotlin Spigot Plugin Template for plugin developers who wants to use Kotlin. You can clone this repo or create a fork. You can change name, version and main from plugin.yml and they will change 
 - [axel358/smartdock](https://github.com/axel358/smartdock) - A user-friendly desktop mode launcher that offers a modern and customizable user interface
 - [keymapperorg/KeyMapper](https://github.com/keymapperorg/KeyMapper) - An Android app to remap the buttons on your devices
