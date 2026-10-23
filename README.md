@@ -35,7 +35,6 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
-- [Mustache](#mustache)
 - [Nim](#nim)
 - [Nix](#nix)
 - [Objective-C](#objective-c)
@@ -641,10 +640,6 @@
 - [mt190502/uptime.mtaha.dev](https://github.com/mt190502/uptime.mtaha.dev) - Uptime monitoring for srv.mtaha.dev cluster (https://github.com/mt190502/k8s.tf)
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
-## Mustache 
-
-- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators.
-
 ## Nim 
 
 - [tsoding/boomer](https://github.com/tsoding/boomer) - Zoomer application for Linux
@@ -980,6 +975,7 @@
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [marcan/takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
 - [Syakhisk/proxmox-minikube-knative](https://github.com/Syakhisk/proxmox-minikube-knative) - Proxmox Minikube Knative - Serverless Proof of Concept. This repository is a guide based on my final research project for my degree at Institut Teknologi Sepuluh Nopember.
+- [percona/percona-helm-charts](https://github.com/percona/percona-helm-charts) - Collection of Helm charts for Percona Kubernetes Operators.
 - [fieu/discord.sh](https://github.com/fieu/discord.sh) - Write-only command-line Discord webhooks integration written in 100% Bash script
 - [monobilisim/mono.sh-old](https://github.com/monobilisim/mono.sh-old) - 
 - [jiangcuo/pxvirt](https://github.com/jiangcuo/pxvirt) - A fork of Proxmox VE for ARM and LoongArch architectures
@@ -1182,7 +1178,7 @@
 ## Vue 
 
 - [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
-- [labex-labs/python-cheatsheet](https://github.com/labex-labs/python-cheatsheet) - Python Cheatsheet - interactive hands-on course by LabEx.
+- [labex-labs/python-cheatsheet](https://github.com/labex-labs/python-cheatsheet) - A comprehensive Python cheat sheet with code examples, built-in functions, module references, and hands-on labs by LabEx.
 
 ## Wren 
 
