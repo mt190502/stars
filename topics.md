@@ -1950,7 +1950,7 @@
 - [usdogu/usdogu](https://github.com/usdogu/usdogu) - 
 - [dkms-project/dkms](https://github.com/dkms-project/dkms) - Dynamic Kernel Module System
 - [fangfufu/Linux-Fake-Background-Webcam](https://github.com/fangfufu/Linux-Fake-Background-Webcam) - Faking your webcam background under GNU/Linux, now supports background blurring, animated background, colour map effect, hologram effect and on-demand processing.
-- [m9rco/Genymotion_ARM_Translation](https://github.com/m9rco/Genymotion_ARM_Translation) - ARM translation for Genymotion Desktop: legacy Android x86 packages and experimental Android 11 x86_64 ARM64/ARMv7 integration, with integrity checks and setup tools.
+- [m9rco/Genymotion_ARM_Translation](https://github.com/m9rco/Genymotion_ARM_Translation) - Genymotion ARM translation packages: legacy Android 4.3–9.0 and experimental Android 11–14 x86_64 ARM64 bundles, with offline configuration tools and checksums.
 - [hakandundar34coding/system-monitoring-center](https://github.com/hakandundar34coding/system-monitoring-center) - Multi-featured system monitor
 - [kagancapar/CVE-2022-29072](https://github.com/kagancapar/CVE-2022-29072) - 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help&gt;Contents area.
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
