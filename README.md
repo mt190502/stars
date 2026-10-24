@@ -817,6 +817,7 @@
 - [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase) - One of a few malware collections on the GitHub.
 - [ricardomv/snapper-gui](https://github.com/ricardomv/snapper-gui) - GUI for snapper, a tool for Linux filesystem snapshot management, works with btrfs, ext4 and thin-provisioned LVM volumes
 - [fangfufu/Linux-Fake-Background-Webcam](https://github.com/fangfufu/Linux-Fake-Background-Webcam) - Faking your webcam background under GNU/Linux, now supports background blurring, animated background, colour map effect, hologram effect and on-demand processing.
+- [m9rco/Genymotion_ARM_Translation](https://github.com/m9rco/Genymotion_ARM_Translation) - ARM translation for Genymotion Desktop: legacy Android x86 packages and experimental Android 11 x86_64 ARM64/ARMv7 integration, with integrity checks and setup tools.
 - [hakandundar34coding/system-monitoring-center](https://github.com/hakandundar34coding/system-monitoring-center) - Multi-featured system monitor
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [Zren/plasma-applet-volumewin7mixer](https://github.com/Zren/plasma-applet-volumewin7mixer) - 
@@ -1027,7 +1028,6 @@
 - [pdeljanov/infinality-remix](https://github.com/pdeljanov/infinality-remix) - Arch Linux PKGBUILDs for Infinality patched FreeType, Fontconfig, and Cairo packages
 - [mt190502/debianefihelper](https://github.com/mt190502/debianefihelper) - Efistub helper for debian based systems
 - [dkms-project/dkms](https://github.com/dkms-project/dkms) - Dynamic Kernel Module System
-- [m9rco/Genymotion_ARM_Translation](https://github.com/m9rco/Genymotion_ARM_Translation) - 👾👾 Genymotion_ARM_Translation Please enjoy！
 - [felixonmars/aur3-mirror](https://github.com/felixonmars/aur3-mirror) - Git archive of the Arch User Repository 3. (Cloned from pkgbuild.com/git/aur-mirror.git)
 - [popey/unsnap](https://github.com/popey/unsnap) - Quickly migrate from using snap packages to flatpaks
 - [altindas/stillarch](https://github.com/altindas/stillarch) - 
