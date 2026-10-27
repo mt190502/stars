@@ -184,6 +184,7 @@
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
+- [skills](#skills)
 - [software](#software)
 - [solidity](#solidity)
 - [sql](#sql)
@@ -1636,7 +1637,6 @@
 ## others 
 
 - [ErenEksen/LinuxOfficeInstallerSuite](https://github.com/ErenEksen/LinuxOfficeInstallerSuite) - A repository that helps users get Microsoft Office working on GNU/Linux with single click!
-- [android/skills](https://github.com/android/skills) - 
 - [peterfajdiga/karousel](https://github.com/peterfajdiga/karousel) - Scrollable tiling Kwin script
 - [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using)
 - [nix-community/nixos-avf](https://github.com/nix-community/nixos-avf) - NixOS for Android Terminal (Android Virtualization Framework) [maintainers=@mkg20001]
@@ -2436,6 +2436,10 @@
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [dmi3/bin](https://github.com/dmi3/bin) - Useful scripts and configs for Linux users
+
+## skills 
+
+- [android/skills](https://github.com/android/skills) - 
 
 ## software 
 
