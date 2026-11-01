@@ -1099,7 +1099,7 @@
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [mt190502/firerss](https://github.com/mt190502/firerss) - A RSS Scraper for Browsers
-- [AsenaJs/Asena](https://github.com/AsenaJs/Asena) - IoC web framework for bun
+- [AsenaJs/Asena](https://github.com/AsenaJs/Asena) - IoC web framework for Bun with Spring Boot-style component discovery and field-based dependency injection: decorator-driven controllers, services, middleware and WebSockets, on pluggable HTTP adapters
 - [LibreTurks/usmanagabot](https://github.com/LibreTurks/usmanagabot) - 
 - [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - Run agents in Obsidian - OpenCode, Codex, Claude Code etc.
 - [1stupidgeek/save-deez-notes](https://github.com/1stupidgeek/save-deez-notes) - Note-taking app which uses Discord as a DB.
