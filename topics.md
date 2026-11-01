@@ -188,6 +188,7 @@
 - [skills](#skills)
 - [software](#software)
 - [solidity](#solidity)
+- [spring-boot](#spring-boot)
 - [sql](#sql)
 - [sqlite](#sqlite)
 - [statistics](#statistics)
@@ -1470,7 +1471,7 @@
 
 ## microservices 
 
-- [AsenaJs/Asena](https://github.com/AsenaJs/Asena) - IoC web framework for bun
+- [AsenaJs/Asena](https://github.com/AsenaJs/Asena) - IoC web framework for Bun with Spring Boot-style component discovery and field-based dependency injection: decorator-driven controllers, services, middleware and WebSockets, on pluggable HTTP adapters
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 
 ## microsoft 
@@ -2455,6 +2456,10 @@
 
 - [DexLegion/isRug.API](https://github.com/DexLegion/isRug.API) - isRug is a honeypot checker tool that detects scams and rugpulls in ERC-20 smart contracts across multiple chains.
 
+## spring-boot 
+
+- [AsenaJs/Asena](https://github.com/AsenaJs/Asena) - IoC web framework for Bun with Spring Boot-style component discovery and field-based dependency injection: decorator-driven controllers, services, middleware and WebSockets, on pluggable HTTP adapters
+
 ## sql 
 
 - [cweijan/vscode-database-client](https://github.com/cweijan/vscode-database-client) - Database Client For Visual Studio Code
@@ -2561,6 +2566,7 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [RedPlanetHQ/tegon](https://github.com/RedPlanetHQ/tegon) - Tegon is an open-source, dev-first alternative to Jira, Linear
+- [AsenaJs/Asena](https://github.com/AsenaJs/Asena) - IoC web framework for Bun with Spring Boot-style component discovery and field-based dependency injection: decorator-driven controllers, services, middleware and WebSockets, on pluggable HTTP adapters
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [ckt1031/DraconianBot](https://github.com/ckt1031/DraconianBot) - With its robust performance, intuitive design, and vast array of functionalities, the Draconian Bot is the ultimate solution for all your needs.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
