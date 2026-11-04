@@ -905,7 +905,7 @@
 - [chenxiaolong/avbroot](https://github.com/chenxiaolong/avbroot) - Tool for manipulating and re-signing Android A/B OTAs
 - [ItsLimeNade/Beetroot](https://github.com/ItsLimeNade/Beetroot) - A discord bot for diabetics usable everywhere, anywhere.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-- [vivoblueos/kernel](https://github.com/vivoblueos/kernel) - 
+- [vivoblueos/kernel](https://github.com/vivoblueos/kernel) - BlueOS kernel is written in Rust, featuring security, lightweight, and generality. It is compatible with POSIX interfaces and supports Rust's standard library.
 - [htkhiem/euphonica](https://github.com/htkhiem/euphonica) - Local music player with delusions of grandeur, powered by MPD
 - [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs) - macOS: mount any linux-supported filesystem read/write using NFS and a microVM
 - [0l3d/ffetch](https://github.com/0l3d/ffetch) - F-Fetch is a fast, minimal tool for fetching system information, written in Rust.
