@@ -1651,6 +1651,7 @@
 
 ## others 
 
+- [NixOS/nix-installer](https://github.com/NixOS/nix-installer) - NG installer for Nix, forked from DetSys/nix-installer
 - [ErenEksen/LinuxOfficeInstallerSuite](https://github.com/ErenEksen/LinuxOfficeInstallerSuite) - A repository that helps users get Microsoft Office working on GNU/Linux with single click!
 - [peterfajdiga/karousel](https://github.com/peterfajdiga/karousel) - Scrollable tiling Kwin script
 - [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree) - kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using)
@@ -1662,7 +1663,7 @@
 - [mt190502/uptime.mtaha.dev](https://github.com/mt190502/uptime.mtaha.dev) - Uptime monitoring for srv.mtaha.dev cluster (https://github.com/mt190502/k8s.tf)
 - [mt190502/k8s.tf](https://github.com/mt190502/k8s.tf) - Terraform based automated kubernetes infrastructure
 - [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) - Random digital audio effects
-- [NixOS/nix-index](https://github.com/NixOS/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
+- [NixOS/nix-index](https://github.com/NixOS/nix-index) - Quickly locate nix packages with specific files [maintainers=@Mic92 @bennofs @figsoda @raitobezarius @r-vdp @samestep]
 - [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) - SteamOS session compositing window manager
 - [joe-desimone/mongobleed](https://github.com/joe-desimone/mongobleed) - 
 - [farend/redmine_theme_farend_bleuclair](https://github.com/farend/redmine_theme_farend_bleuclair) - Custom theme for Redmine. Compatible with: Redmine 3.4 - 6.0
