@@ -215,6 +215,7 @@
 - [virtual-reality](#virtual-reality)
 - [visual-studio-code](#visual-studio-code)
 - [vpn](#vpn)
+- [vscode](#vscode)
 - [vue](#vue)
 - [web](#web)
 - [web3](#web3)
@@ -1865,7 +1866,6 @@
 - [sqlite/sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree
 - [graysky2/modprobed-db](https://github.com/graysky2/modprobed-db) - Keeps track of EVERY kernel module that has ever been probed. Useful for those of us who make localmodconfig :)
 - [flatpak/xdg-desktop-portal-gtk](https://github.com/flatpak/xdg-desktop-portal-gtk) - Gtk implementation of xdg-desktop-portal
-- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [nmilosev/termux-fedora](https://github.com/nmilosev/termux-fedora) - A script to install a Fedora chroot into Termux
 - [acikyazilimagi/afet-org](https://github.com/acikyazilimagi/afet-org) - 
 - [systemd/zram-generator](https://github.com/systemd/zram-generator) - Systemd unit generator for zram devices
@@ -2648,6 +2648,13 @@
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Alpine Linux and Raspberry Pi OS. Includes client config and manag
+
+## vscode 
+
+- [tim-koehler/Helm-Intellisense](https://github.com/tim-koehler/Helm-Intellisense) - Extension for Visual Studio Code - Intellisense in helm-templates from the values.yaml
+- [cweijan/vscode-database-client](https://github.com/cweijan/vscode-database-client) - Database Client For Visual Studio Code
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 
 ## vue 
 
