@@ -664,6 +664,7 @@
 
 ## Others 
 
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [WayDroid-ATV/waydroid-builds](https://github.com/WayDroid-ATV/waydroid-builds) - Android 13-17 builds for Waydroid
 - [veltman/clmystery](https://github.com/veltman/clmystery) - A command-line murder mystery
 - [cncf/kubernetes-community-days](https://github.com/cncf/kubernetes-community-days) - 📅 Kubernetes Community Days website
