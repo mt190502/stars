@@ -890,6 +890,7 @@
 
 ## Rust 
 
+- [aws/aws-emulator](https://github.com/aws/aws-emulator) - AWS Emulator is a local emulator of the AWS APIs.
 - [gmkurtzer/ginux](https://github.com/gmkurtzer/ginux) - 
 - [NixOS/nix-installer](https://github.com/NixOS/nix-installer) - NG installer for Nix, forked from DetSys/nix-installer
 - [ErenEksen/LinuxOfficeInstallerSuite](https://github.com/ErenEksen/LinuxOfficeInstallerSuite) - A repository that helps users get Microsoft Office working on GNU/Linux with single click!
@@ -1081,6 +1082,7 @@
 
 ## TypeScript 
 
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A real browser inside your terminal
 - [peterfajdiga/karousel](https://github.com/peterfajdiga/karousel) - Scrollable tiling Kwin script
 - [calagopus/panel](https://github.com/calagopus/panel) - A modern game server management panel built in Rust. Deploy, monitor, and manage Minecraft, Rust, and other game servers with industry-leading performance.
 - [Rackarr/Rackarr](https://github.com/Rackarr/Rackarr) - Visual rack layout designer for homelabbers
