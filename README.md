@@ -864,7 +864,7 @@
 ## QML 
 
 - [saveside/dots.nix](https://github.com/saveside/dots.nix) - yet another stolen config
-- [xeome/dots](https://github.com/xeome/dots) - dotfiles
+- [xeome/setup](https://github.com/xeome/setup) - dotfiles
 - [AsteroidOS/unofficial-watchfaces](https://github.com/AsteroidOS/unofficial-watchfaces) - Database of community-made watchfaces for AsteroidOS.
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
 - [adhec/launchpad-plasma](https://github.com/adhec/launchpad-plasma) - Launchpad plasmoid for Plasma
