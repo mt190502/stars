@@ -1667,6 +1667,7 @@
 
 ## others 
 
+- [bbigras/nix-config](https://github.com/bbigras/nix-config) - My personal nix config
 - [aws/aws-emulator](https://github.com/aws/aws-emulator) - AWS Emulator is a local emulator of the AWS APIs.
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [gmkurtzer/ginux](https://github.com/gmkurtzer/ginux) - 
