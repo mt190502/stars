@@ -989,7 +989,7 @@
 - [LineageOS/android_device_samsung_sm7125-common](https://github.com/LineageOS/android_device_samsung_sm7125-common) - 
 - [jorgebucaran/autopair.fish](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command line
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
-- [metwse/rofi-tdk.sh](https://github.com/metwse/rofi-tdk.sh) - Rofi için Türkçe sözlük
+- [metwse/rofi-tdk.sh](https://github.com/metwse/rofi-tdk.sh) - Rofi için Türkçe sözlük. (Türk Dil Kurumu'ndan gelen resmî istek doğrultusunda, veri tabanı dağıtımdan kaldırılmıştır.)
 - [m3tozz/NeoCat](https://github.com/m3tozz/NeoCat) - NeoCat - NeoFetch Theme Pack
 - [omertahaoztop/MyDotfiles](https://github.com/omertahaoztop/MyDotfiles) - Personal Arch Linux dotfiles and setup scripts (bspwm, AstroNvim, tmux).
 - [nextcloud/docker](https://github.com/nextcloud/docker) - A community maintained docker micro-image for deploying Nextcloud on container platforms
