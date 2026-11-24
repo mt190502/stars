@@ -1733,7 +1733,7 @@
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [bouquet2/krea.to](https://github.com/bouquet2/krea.to) - krea.to site
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
-- [sounddrill31/crave_aosp_builder](https://github.com/sounddrill31/crave_aosp_builder) - Build android ROMs using github actions! Also automatically releases them here for easy OTA setup
+- [sounddrill31/crave_aosp_builder](https://github.com/sounddrill31/crave_aosp_builder) - Archived: Crave.io is no longer providing compute for AOSP | Build android ROMs using github actions! Also automatically releases them here for easy OTA setup
 - [mrliptontea/PurpleMine2](https://github.com/mrliptontea/PurpleMine2) - Theme for Redmine 3.x - 4.x. For newer, see: https://github.com/gagnieray/opale
 - [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm) - Universal Wayland Session Manager
 - [nix-community/nixbsd](https://github.com/nix-community/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel [maintainer=@artemist,@rhelmot]
