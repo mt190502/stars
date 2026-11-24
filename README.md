@@ -892,6 +892,7 @@
 
 ## Rust 
 
+- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A real browser inside your terminal
 - [aws/aws-emulator](https://github.com/aws/aws-emulator) - AWS Emulator is a local emulator of the AWS APIs.
 - [gmkurtzer/ginux](https://github.com/gmkurtzer/ginux) - 
 - [NixOS/nix-installer](https://github.com/NixOS/nix-installer) - NG installer for Nix, forked from DetSys/nix-installer
@@ -977,7 +978,7 @@
 - [kreatolinux/kpkg-repo](https://github.com/kreatolinux/kpkg-repo) - Official repository for Kreato Linux.
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [remote-android/redroid-doc](https://github.com/remote-android/redroid-doc) - redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here
-- [sounddrill31/crave_aosp_builder](https://github.com/sounddrill31/crave_aosp_builder) - Build android ROMs using github actions! Also automatically releases them here for easy OTA setup
+- [sounddrill31/crave_aosp_builder](https://github.com/sounddrill31/crave_aosp_builder) - Archived: Crave.io is no longer providing compute for AOSP | Build android ROMs using github actions! Also automatically releases them here for easy OTA setup
 - [tailscale-dev/deck-tailscale](https://github.com/tailscale-dev/deck-tailscale) - Tailscale install script for the Steam Deck
 - [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
@@ -1085,7 +1086,6 @@
 
 ## TypeScript 
 
-- [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A real browser inside your terminal
 - [peterfajdiga/karousel](https://github.com/peterfajdiga/karousel) - Scrollable tiling Kwin script
 - [calagopus/panel](https://github.com/calagopus/panel) - A modern game server management panel built in Rust. Deploy, monitor, and manage Minecraft, Rust, and other game servers with industry-leading performance.
 - [Rackarr/Rackarr](https://github.com/Rackarr/Rackarr) - Visual rack layout designer for homelabbers
