@@ -2039,7 +2039,7 @@
 - [alicangunduz/PHP-Kaynak](https://github.com/alicangunduz/PHP-Kaynak) - PHP için anlatım ve hızlı ilerleyebileceğiniz Türkçe kaynak
 - [scx/aegisub-flatpak](https://github.com/scx/aegisub-flatpak) - Flatpak package for Aegisub
 - [gdm-settings/gdm-settings](https://github.com/gdm-settings/gdm-settings) - A settings app for GNOME's Login Manager, GDM
-- [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
+- [made-in-common/sponsorkit](https://github.com/made-in-common/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
 - [dront78/PulseDroid](https://github.com/dront78/PulseDroid) - Android network audio player
 - [virtio-win/virtio-win-pkg-scripts](https://github.com/virtio-win/virtio-win-pkg-scripts) - Scripts for packaging virtio-win drivers
 - [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide) - Repo for the OpenCore Install Guide
