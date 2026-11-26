@@ -1194,6 +1194,7 @@
 
 ## Zig 
 
+- [progrium/minipg](https://github.com/progrium/minipg) - SQLite and PostgreSQL had a baby
 - [seatedro/glyph](https://github.com/seatedro/glyph) - convert images, video to ascii!
 - [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
