@@ -1678,6 +1678,7 @@
 
 ## others 
 
+- [progrium/minipg](https://github.com/progrium/minipg) - SQLite and PostgreSQL had a baby
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [bbigras/nix-config](https://github.com/bbigras/nix-config) - My personal nix config
 - [aws/aws-emulator](https://github.com/aws/aws-emulator) - AWS Emulator is a local emulator of the AWS APIs.
