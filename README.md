@@ -779,6 +779,7 @@
 - [jelmer/xandikos](https://github.com/jelmer/xandikos) - A CalDAV/CardDAV server backed by Git
 - [mathialo/bython](https://github.com/mathialo/bython) - Python with braces. Because python is awesome, but whitespace is awful.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
+- [xeome/setup](https://github.com/xeome/setup) - dotfiles
 - [termux/proot-distro](https://github.com/termux/proot-distro) - A utility for managing proot containers.
 - [intel/intel-npu-acceleration-library](https://github.com/intel/intel-npu-acceleration-library) - Intel® NPU Acceleration Library
 - [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
@@ -866,7 +867,6 @@
 ## QML 
 
 - [saveside/dots.nix](https://github.com/saveside/dots.nix) - yet another stolen config
-- [xeome/setup](https://github.com/xeome/setup) - dotfiles
 - [AsteroidOS/unofficial-watchfaces](https://github.com/AsteroidOS/unofficial-watchfaces) - Database of community-made watchfaces for AsteroidOS.
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
 - [adhec/launchpad-plasma](https://github.com/adhec/launchpad-plasma) - Launchpad plasmoid for Plasma
