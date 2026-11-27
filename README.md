@@ -702,7 +702,6 @@
 - [ezgiturali/Machine-Learning-Deep-Learning-Resources](https://github.com/ezgiturali/Machine-Learning-Deep-Learning-Resources) - 
 - [HugoBlox/hugo-theme-developer-portfolio](https://github.com/HugoBlox/hugo-theme-developer-portfolio) - 💼 Dev portfolio that gets you hired. AI generates pages, you own as Markdown. Project grid, tech stack, blog, dark-first design — no React app to maintain. Free forever. 开发者作品集，AI 生成，免费托管 👇
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
-- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [LogicWavelength/Manjaro-Stuff](https://github.com/LogicWavelength/Manjaro-Stuff) - 
 - [flathub/com.valvesoftware.Steam.CompatibilityTool.Proton-GE](https://github.com/flathub/com.valvesoftware.Steam.CompatibilityTool.Proton-GE) - 
 - [waydroid/docs](https://github.com/waydroid/docs) - 
@@ -815,6 +814,7 @@
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [deviantfero/wpgtk](https://github.com/deviantfero/wpgtk) - :flower_playing_cards: a colorscheme, wallpaper and template manager for *nix
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
+- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [mt190502/python-bin](https://github.com/mt190502/python-bin) - Some Python Projects
 - [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
 - [bitbackofen/Rss-Atom-Feed-Integration-for-Mattermost](https://github.com/bitbackofen/Rss-Atom-Feed-Integration-for-Mattermost) - RSS- and Atom-Feed integration for Mattermost (orphaned)
