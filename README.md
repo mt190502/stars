@@ -19,6 +19,7 @@
 - [Crystal](#crystal)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [Elixir](#elixir)
 - [Go](#go)
 - [Go Template](#go-template)
 - [HCL](#hcl)
@@ -327,6 +328,10 @@
 - [amake/innosetup-docker](https://github.com/amake/innosetup-docker) - Docker image to create Windows installer executables with Inno Setup
 - [linuxserver/docker-mysql-workbench](https://github.com/linuxserver/docker-mysql-workbench) - Web accessible MySQL Workbench running on top of Arch
 
+## Elixir 
+
+- [xeome/slimserve](https://github.com/xeome/slimserve) - 
+
 ## Go 
 
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
@@ -363,7 +368,6 @@
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
-- [xeome/slimserve](https://github.com/xeome/slimserve) - 
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [dmacvicar/terraform-provider-libvirt](https://github.com/dmacvicar/terraform-provider-libvirt) - Terraform provider to provision infrastructure with Linux's KVM using libvirt
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
@@ -892,6 +896,7 @@
 
 ## Rust 
 
+- [manic-systems/tack](https://github.com/manic-systems/tack) - a full-featured nix pinning system
 - [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser) - A real browser inside your terminal
 - [aws/aws-emulator](https://github.com/aws/aws-emulator) - AWS Emulator is a local emulator of the AWS APIs.
 - [gmkurtzer/ginux](https://github.com/gmkurtzer/ginux) - 
